@@ -14,7 +14,8 @@ April, 2026
 - Use code hosted on Github to read the state-published election results   
 - Use code hosted on Github to parse those results into a .csv file and a .json file  
 - Create graphs on Datawrapper that pull data from the .csv and .json files  
-
+- Embed those Datawrapper graphs on your website
+  
 **Ingredients:**
 1. A Github account
 2. A [Datawrapper](https://www.datawrapper.de) account
