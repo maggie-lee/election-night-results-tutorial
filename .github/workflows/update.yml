@@ -4,7 +4,7 @@ name: Update CSV
 
 on:
   schedule:
-    - cron: "*/0 2 * * *"  # later change to 15 *
+    - cron: "14 * * * *"  # later change to 15 *
   workflow_dispatch:       # manual run button
 
 jobs:
