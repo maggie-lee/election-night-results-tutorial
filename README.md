@@ -19,3 +19,6 @@ April, 2026
 **Ingredients:**
 1. A Github account
 2. A [Datawrapper](https://www.datawrapper.de) account
+
+
+[Enhanced Voting API documentation for Georgia, as of Sept. 20, 2024](https://www.documentcloud.org/documents/28086633-georgia-media-json-guide/)
