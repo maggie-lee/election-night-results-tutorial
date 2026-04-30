@@ -30,6 +30,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add results.csv
+          git add state_and_federal_output.csv
           git commit -m "Update CSV" || echo "No changes"
           git push
