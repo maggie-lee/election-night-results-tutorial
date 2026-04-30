@@ -7,6 +7,9 @@ on:
     - cron: "39 * * * *"  # later change to 15 *
   workflow_dispatch:       # manual run button
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
