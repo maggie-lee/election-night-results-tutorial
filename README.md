@@ -1,6 +1,5 @@
 ##  Live-updating election night results graph for your small newsroom
 ### For places that publish with Enhanced Voting softare
-#### Cost: free
 #### Technical knowledge: Low-coding Python
 By Maggie Lee<br>
 April, 2026
