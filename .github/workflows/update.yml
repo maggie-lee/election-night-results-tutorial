@@ -34,5 +34,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add *.csv
-          git commit -m "Update CSV" || echo "No changes"
+          git add *.json
+          git commit -m "Update CSV and json" || echo "No changes"
           git push
