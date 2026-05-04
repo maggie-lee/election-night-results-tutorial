@@ -149,5 +149,5 @@ joined = joined.drop(columns = ['groupResults', 'precinctResults', 'ballotOrder'
 # # publish the output to your Github repo as a .csv.
 #  let's give it a good descriptive name
 state_and_federal_outfile_name = election_date_str + ' ' + election_name + '-state-federal' + '.csv'
-joined.to_csv('state_and_federal_outfile_name')
+joined.to_csv(state_and_federal_outfile_name)
 
