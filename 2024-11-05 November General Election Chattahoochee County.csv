@@ -1,0 +1,15 @@
+,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
+0,Dem,41500,State Senate - District 15,100.0,"<b>Ed Harbison (I) (Dem)</b><br>54,421 votes",39,39
+1,Rep,65100,State House of Representatives - District 151,100.0,"<b>Mike Cheokas (I) (Rep)</b><br>18,992 votes",29,29
+2,Rep,70800,District Attorney - Chattahoochee Judicial Circuit,51.765460587863174,"<b>Don Kelly (I) (Rep)</b><br>58,100 votes",53,53
+3,Dem,70800,District Attorney - Chattahoochee Judicial Circuit,48.23453941213682,"<b>Anthony Johnson (Dem)</b><br>54,137 votes",53,53
+4,Rep,,Chattahoochee County: Probate Judge,100.0,"<b>Joni Goodwin (I) (Rep)</b><br>1,291 votes",1,1
+5,Dem,,Chattahoochee County: Clerk of Superior Court,100.0,"<b>Tami Wade (I) (Dem)</b><br>1,254 votes",1,1
+6,Rep,,Chattahoochee County: Sheriff,35.68818514007308,<b>Michael Sizemore (Rep)</b><br>586 votes,1,1
+7,Dem,,Chattahoochee County: Sheriff,64.31181485992693,"<b>Henry Hank Lynch (I) (Dem)</b><br>1,056 votes",1,1
+8,Dem,,Chattahoochee County: Tax Commissioner,100.0,"<b>Judy Liles (I) (Dem)</b><br>1,283 votes",1,1
+9,Rep,,Chattahoochee County: Coroner,58.27067669172933,<b>Ronald Hedgecoke (I) (Rep)</b><br>930 votes,1,1
+10,Dem,,Chattahoochee County: Coroner,41.72932330827068,<b>Travis Hancock (Dem)</b><br>666 votes,1,1
+11,Dem,,Chattahoochee County: Chief Magistrate,100.0,"<b>Johnny Floyd (I) (Dem)</b><br>1,280 votes",1,1
+12,,,Chattahoochee County: Special Option Sales and Use Tax (SPLOST),71.19289340101524,"<b>Yes</b><br>1,122 votes",1,1
+13,,,Chattahoochee County: Special Option Sales and Use Tax (SPLOST),28.80710659898477,<b>No</b><br>454 votes,1,1

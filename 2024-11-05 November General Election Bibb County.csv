@@ -1,0 +1,20 @@
+,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
+0,Rep,41800,State Senate - District 18,100.0,"<b>John F. Kennedy (I) (Rep)</b><br>80,984 votes",48,48
+1,Rep,42500,State Senate - District 25,100.0,"<b>Ricky ""Rick"" Williams (I) (Rep)</b><br>80,234 votes",47,47
+2,Dem,42600,State Senate - District 26,100.0,"<b>David E. Lucas, Sr. (I) (Dem)</b><br>60,536 votes",57,57
+3,Rep,64200,State House of Representatives - District 142,39.46898621187374,"<b>Calvin Dennis Palmer (Rep)</b><br>10,391 votes",16,16
+4,Dem,64200,State House of Representatives - District 142,60.53101378812625,"<b>Miriam Paris (I) (Dem)</b><br>15,936 votes",16,16
+5,Rep,64300,State House of Representatives - District 143,38.096123454494744,"<b>Barbara Boyer (Rep)</b><br>8,196 votes",15,15
+6,Dem,64300,State House of Representatives - District 143,61.903876545505256,"<b>Anissa Jones (Dem)</b><br>13,318 votes",15,15
+7,Rep,64400,State House of Representatives - District 144,74.45623497684235,"<b>Dale Washburn (I) (Rep)</b><br>25,400 votes",19,19
+8,Dem,64400,State House of Representatives - District 144,25.54376502315765,"<b>Anita Hyland (Dem)</b><br>8,714 votes",19,19
+9,Rep,64500,State House of Representatives - District 145,49.49502423143798,"<b>Noah Redding Harbuck (Rep)</b><br>13,379 votes",16,16
+10,Dem,64500,State House of Representatives - District 145,50.50497576856202,"<b>Tangie Herring (Dem)</b><br>13,652 votes",16,16
+11,Rep,64900,State House of Representatives - District 149,46.00498338870432,"<b>Ken Vance (I) (Rep)</b><br>11,078 votes",21,21
+12,Dem,64900,State House of Representatives - District 149,53.995016611295675,"<b>Floyd Griffin (Dem)</b><br>13,002 votes",21,21
+13,Dem,72200,District Attorney - Macon Judicial Circuit,100.0,"<b>Anita Reynolds Howard (I) (Dem)</b><br>67,738 votes",43,43
+14,Dem,,Bibb County: Clerk of Superior Court,100.0,"<b>Erica L. Wooford (I) (Dem)</b><br>55,809 votes",31,31
+15,Dem,,Bibb County: Solicitor of State Court,100.0,"<b>Rebecca Grist (I) (Dem)</b><br>55,651 votes",31,31
+16,Dem,,Bibb County: Sheriff,100.0,"<b>David Davis (I) (Dem)</b><br>57,157 votes",31,31
+17,Dem,,Bibb County: Tax Commissioner,100.0,"<b>Samuel Wade McCord (I) (Dem)</b><br>57,477 votes",31,31
+18,,,Bibb County: (S) Macon Water Authority - District 1,100.0,"<b>Elaine H. Lucas</b><br>11,814 votes",10,10

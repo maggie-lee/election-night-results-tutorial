@@ -1,0 +1,33 @@
+,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
+0,Rep,44500,State Senate - District 45,100.0,"<b>Clint Dixon (I) (Rep)</b><br>76,563 votes",27,27
+1,Rep,44600,State Senate - District 46,63.66914981671987,"<b>Bill Cowsert (I) (Rep)</b><br>64,614 votes",42,42
+2,Dem,44600,State Senate - District 46,36.33085018328012,"<b>Gareth Fenley (Dem)</b><br>36,870 votes",42,42
+3,Rep,44700,State Senate - District 47,62.60958164778516,"<b>Frank Ginn (I) (Rep)</b><br>62,063 votes",41,41
+4,Dem,44700,State Senate - District 47,37.39041835221484,"<b>Conolus Scott (Dem)</b><br>37,064 votes",41,41
+5,Rep,60400,State House of Representatives - District 104,100.0,"<b>Chuck Efstration (I) (Rep)</b><br>25,168 votes",10,10
+6,Rep,61900,State House of Representatives - District 119,100.0,"<b>Holt Persinger (I) (Rep)</b><br>26,957 votes",7,7
+7,Rep,62000,State House of Representatives - District 120,61.29155521589607,"<b>Houston Gaines (I) (Rep)</b><br>19,248 votes",15,15
+8,Dem,62000,State House of Representatives - District 120,38.70844478410393,"<b>Andrew Ferguson (Dem)</b><br>12,156 votes",15,15
+9,Rep,72900,District Attorney - Piedmont Judicial Circuit,100.0,"<b>J. Bradley Smith (I) (Rep)</b><br>88,274 votes",25,25
+10,Rep,,Barrow County: Judge of Probate Court,100.0,"<b>Amy Kennedy Whitlock (Rep)</b><br>37,190 votes",8,8
+11,Rep,,Barrow County: Clerk of Superior Court,100.0,"<b>Janie J. Jones (I) (Rep)</b><br>37,384 votes",8,8
+12,Rep,,Barrow County: Sheriff,100.0,"<b>Jud Smith (I) (Rep)</b><br>38,208 votes",8,8
+13,Rep,,Barrow County: Tax Commissioner,100.0,"<b>Jessica Garrett (I) (Rep)</b><br>37,477 votes",8,8
+14,Rep,,Barrow County: Coroner,100.0,"<b>Kenneth Cooper (I) (Rep)</b><br>37,614 votes",8,8
+15,Rep,,Barrow County: Chief Magistrate Judge,100.0,"<b>Caroline Power Evans (I) (Rep)</b><br>37,402 votes",8,8
+16,Rep,,Barrow County: County Commission Chairman,100.0,"<b>Pat Graham (I) (Rep)</b><br>36,862 votes",8,8
+17,Rep,,Barrow County: County Commission - District 1,100.0,"<b>Joe Goodman (I) (Rep)</b><br>7,397 votes",3,3
+18,Rep,,Barrow County: County Commission - District 2,100.0,"<b>Kenny Shook (Rep)</b><br>6,615 votes",4,4
+19,Rep,,Barrow County: County Commission - District 3,100.0,"<b>Rolando Alvarez (I) (Rep)</b><br>4,768 votes",3,3
+20,Rep,,Barrow County: County BOE - District 2,76.35705669481302,"<b>E. Holt Etheridge, III (Rep)</b><br>5,697 votes",4,4
+21,Dem,,Barrow County: County BOE - District 2,23.64294330518697,"<b>Shelbey Diamond-Alexander (Dem)</b><br>1,764 votes",4,4
+22,Rep,,Barrow County: County BOE - District 5,100.0,"<b>Jared Callaway (Rep)</b><br>6,956 votes",3,3
+23,Rep,,Barrow County: County BOE - District 6,100.0,"<b>Darlene Carey (Rep)</b><br>6,073 votes",3,3
+24,Rep,,Barrow County: County BOE - District 8 At Large,100.0,"<b>Renee Lord (Rep)</b><br>37,127 votes",8,8
+25,Rep,,Barrow County: Special County BOE - District 9 At Large,100.0,"<b>Paige Maddox (I) (Rep)</b><br>37,217 votes",8,8
+26,,,Barrow County: Homestead Exemption Based on Certain Ages,83.19531212165238,"<b>Yes</b><br>34,358 votes",8,8
+27,,,Barrow County: Homestead Exemption Based on Certain Ages,16.80468787834762,"<b>No</b><br>6,940 votes",8,8
+28,,,Barrow County: Homestead Exemption for 70 Years of Age or Older,83.36693793270983,"<b>Yes</b><br>34,318 votes",8,8
+29,,,Barrow County: Homestead Exemption for 70 Years of Age or Older,16.633062067290176,"<b>No</b><br>6,847 votes",8,8
+30,,,Barrow County: Homestead Exemption for 62 Years of Age or Older,82.79522766009254,"<b>Yes</b><br>34,004 votes",8,8
+31,,,Barrow County: Homestead Exemption for 62 Years of Age or Older,17.204772339907475,"<b>No</b><br>7,066 votes",8,8

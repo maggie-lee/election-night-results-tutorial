@@ -1,0 +1,71 @@
+,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
+0,Rep,41000,State Senate - District 10,14.688993776869195,"<b>Furquan Stafford (Rep)</b><br>14,658 votes",57,57
+1,Dem,41000,State Senate - District 10,85.3110062231308,"<b>Emanuel D. Jones (I) (Dem)</b><br>85,131 votes",57,57
+2,Rep,44000,State Senate - District 40,37.35914042903673,"<b>Amelia K. Siamomua (Rep)</b><br>29,937 votes",41,41
+3,Dem,44000,State Senate - District 40,62.64085957096327,"<b>Sally Harrell (I) (Dem)</b><br>50,196 votes",41,41
+4,Rep,44100,State Senate - District 41,18.180863216775872,"<b>Jeff Newlin (Rep)</b><br>13,846 votes",47,47
+5,Dem,44100,State Senate - District 41,81.81913678322414,"<b>Kim Jackson (I) (Dem)</b><br>62,311 votes",47,47
+6,Dem,44300,State Senate - District 43,100.0,"<b>Tonya P. Anderson (I) (Dem)</b><br>80,092 votes",32,32
+7,Dem,44400,State Senate - District 44,100.0,"<b>Elena Parent (I) (Dem)</b><br>89,952 votes",51,51
+8,Rep,45500,State Senate - District 55,24.029791808349604,"<b>Mary Williams Benefield (Rep)</b><br>21,907 votes",46,46
+9,Dem,45500,State Senate - District 55,75.9702081916504,"<b>Randal Mangham (Dem)</b><br>69,259 votes",46,46
+10,Rep,55200,State House of Representatives - District 52,38.35027100271003,"<b>Robert Brandon McNeily (Rep)</b><br>11,321 votes",26,26
+11,Dem,55200,State House of Representatives - District 52,61.64972899728998,"<b>Shea Roberts (I) (Dem)</b><br>18,199 votes",26,26
+12,Rep,58000,State House of Representatives - District 80,40.3895102198226,"<b>Brian Anderson (Rep)</b><br>10,473 votes",15,15
+13,Dem,58000,State House of Representatives - District 80,59.6104897801774,"<b>Long Tran (I) (Dem)</b><br>15,457 votes",15,15
+14,Rep,58300,State House of Representatives - District 83,36.88477127967574,"<b>Catherine Bernard (Rep)</b><br>8,281 votes",11,11
+15,Dem,58300,State House of Representatives - District 83,63.115228720324254,"<b>Karen Lupton (I) (Dem)</b><br>14,170 votes",11,11
+16,Dem,58400,State House of Representatives - District 84,100.0,"<b>Mary Margaret Oliver (I) (Dem)</b><br>28,980 votes",17,17
+17,Dem,58500,State House of Representatives - District 85,100.0,"<b>Karla L. Drenner (I) (Dem)</b><br>22,384 votes",19,19
+18,Rep,58600,State House of Representatives - District 86,20.005674218781664,"<b>Barry 'Z' Zisholtz (Rep)</b><br>4,936 votes",16,16
+19,Dem,58600,State House of Representatives - District 86,79.99432578121834,"<b>Imani Barnes (I) (Dem)</b><br>19,737 votes",16,16
+20,Dem,58700,State House of Representatives - District 87,100.0,"<b>Viola Davis (I) (Dem)</b><br>22,753 votes",20,20
+21,Rep,58800,State House of Representatives - District 88,19.85837557559107,"<b>William Park Freeman (Rep)</b><br>5,132 votes",16,16
+22,Dem,58800,State House of Representatives - District 88,80.14162442440893,"<b>Billy Mitchell (I) (Dem)</b><br>20,711 votes",16,16
+23,Dem,58900,State House of Representatives - District 89,100.0,"<b>Omari Crawford (I) (Dem)</b><br>30,293 votes",19,19
+24,Dem,59000,State House of Representatives - District 90,100.0,"<b>Saira Draper (I) (Dem)</b><br>30,637 votes",19,19
+25,Dem,59100,State House of Representatives - District 91,100.0,"<b>Angela Moore (I) (Dem)</b><br>25,823 votes",14,14
+26,Dem,59300,State House of Representatives - District 93,100.0,"<b>Doreen Carter (I) (Dem)</b><br>23,317 votes",13,13
+27,Dem,59400,State House of Representatives - District 94,100.0,"<b>Karen Bennett (I) (Dem)</b><br>25,781 votes",14,14
+28,Dem,59500,State House of Representatives - District 95,100.0,"<b>Dar'shun Kendrick (I) (Dem)</b><br>24,135 votes",11,11
+29,Rep,60100,State House of Representatives - District 101,27.875153751537518,"<b>Kendra Biegalski (Rep)</b><br>7,252 votes",16,16
+30,Dem,60100,State House of Representatives - District 101,72.12484624846248,"<b>Scott Holcomb (I) (Dem)</b><br>18,764 votes",16,16
+31,Dem,61500,State House of Representatives - District 115,100.0,"<b>Regina Lewis-Ward (I) (Dem)</b><br>30,385 votes",16,16
+32,Rep,61600,State House of Representatives - District 116,18.3660849251065,"<b>Reign Stevens (Rep)</b><br>5,346 votes",15,15
+33,Dem,61600,State House of Representatives - District 116,81.63391507489351,"<b>El-Mahdi Holly (I) (Dem)</b><br>23,762 votes",15,15
+34,Dem,73400,District Attorney - Stone Mountain Judicial Circuit,100.0,"<b>Sherry Boston (I) (Dem)</b><br>320,117 votes",191,191
+35,Dem,,DeKalb County: Clerk of Superior Court,100.0,"<b>Debra DeBerry (I) (Dem)</b><br>320,713 votes",191,191
+36,Dem,,DeKalb County: Sheriff,100.0,"<b>Melody M. Maddox (I) (Dem)</b><br>321,111 votes",191,191
+37,Dem,,DeKalb County: Chief Magistrate,100.0,"<b>Berryl A. Anderson (I) (Dem)</b><br>318,935 votes",191,191
+38,Dem,,DeKalb County: Tax Commissioner,100.0,"<b>Irvin J. Johnson (I) (Dem)</b><br>323,180 votes",191,191
+39,Dem,,DeKalb County: Chief Executive Officer,100.0,"<b>Lorraine Cochran Johnson (Dem)</b><br>320,572 votes",191,191
+40,Dem,,DeKalb County: County Commissioner D1,100.0,"<b>Robert Patrick (I) (Dem)</b><br>51,659 votes",35,35
+41,Dem,,DeKalb County: County Commissioner D4,100.0,"<b>Chakira Johnson (Dem)</b><br>57,025 votes",38,38
+42,Dem,,DeKalb County: County Commissioner D5,100.0,"<b>Mereda Davis Johnson (I) (Dem)</b><br>66,613 votes",37,37
+43,Dem,,DeKalb County: County Commissioner D6,100.0,"<b>Edward ""Ted"" Terry (I) (Dem)</b><br>158,296 votes",93,93
+44,Dem,,DeKalb County: Solicitor General,100.0,"<b>Donna Coleman Stribling (I) (Dem)</b><br>318,142 votes",191,191
+45,,,"DeKalb County: Atlanta City Council Post 3, At-Large (Special)",30.09693719707126,"<b>Eshé Collins</b><br>5,837 votes",14,14
+46,,,"DeKalb County: Atlanta City Council Post 3, At-Large (Special)",13.880581623182428,"<b>Amber Higgins Connor</b><br>2,692 votes",14,14
+47,,,"DeKalb County: Atlanta City Council Post 3, At-Large (Special)",35.1809838094256,"<b>Nicole ""Nikki"" Evans Jones</b><br>6,823 votes",14,14
+48,,,"DeKalb County: Atlanta City Council Post 3, At-Large (Special)",4.057956068887285,<b>Duvwon Robinson</b><br>787 votes,14,14
+49,,,"DeKalb County: Atlanta City Council Post 3, At-Large (Special)",16.783541301433434,"<b>Devin Barrington Ward</b><br>3,255 votes",14,14
+50,,,DeKalb County: Clarkston City Council (Special),61.95809248554913,"<b>Sharifa Adde</b><br>1,715 votes",2,2
+51,,,DeKalb County: Clarkston City Council (Special),38.04190751445087,"<b>Charles Bryan Jenkins</b><br>1,053 votes",2,2
+52,,,DeKalb County: Soil and Water Conservation District Supervisor - DeKalb County,100.0,"<b>Dell F. MacGregor (I)</b><br>293,418 votes",191,191
+53,,,DeKalb County: Chamblee Bond Referendum,80.37787629301245,"<b>Yes</b><br>7,615 votes",4,4
+54,,,DeKalb County: Chamblee Bond Referendum,19.622123706987544,"<b>No</b><br>1,859 votes",4,4
+55,,,DeKalb County: City of Doraville Annexation District B,43.005181347150256,<b>Yes</b><br>83 votes,1,1
+56,,,DeKalb County: City of Doraville Annexation District B,56.994818652849744,<b>No</b><br>110 votes,1,1
+57,,,DeKalb County: City of Doraville Annexation District C,59.78407557354926,<b>Yes</b><br>443 votes,1,1
+58,,,DeKalb County: City of Doraville Annexation District C,40.21592442645074,<b>No</b><br>298 votes,1,1
+59,Dem,,DeKalb County: County Commissioner D3 (Special),23.803628660641824,"<b>Andrew W. Bell (Dem)</b><br>17,305 votes",45,45
+60,Dem,,DeKalb County: County Commissioner D3 (Special),42.26192932502511,"<b>Nicole Massiah (Dem)</b><br>30,724 votes",45,45
+61,Dem,,DeKalb County: County Commissioner D3 (Special),13.714081349124472,"<b>Tommy T. Travis (Dem)</b><br>9,970 votes",45,45
+62,Dem,,DeKalb County: County Commissioner D3 (Special),20.2203606652086,"<b>Jakequeline Walls (Dem)</b><br>14,700 votes",45,45
+63,Dem,,DeKalb County: County Commissioner D7 (Special),45.9765696388397,"<b>Jacqueline Adams (Dem)</b><br>72,957 votes",100,100
+64,Dem,,DeKalb County: County Commissioner D7 (Special),26.221460395883618,"<b>LaDena Bolton (Dem)</b><br>41,609 votes",100,100
+65,Dem,,DeKalb County: County Commissioner D7 (Special),19.37951765469521,"<b>Demetrius McCoy (Dem)</b><br>30,752 votes",100,100
+66,Dem,,DeKalb County: County Commissioner D7 (Special),8.422452310581473,"<b>Kenneth Chung Royal (Dem)</b><br>13,365 votes",100,100
+67,,,"DeKalb County: Doraville City Council District 1, Post 2 (Special)",25.63681183237469,<b>Billie Adams</b><br>624 votes,3,3
+68,,,"DeKalb County: Doraville City Council District 1, Post 2 (Special)",33.278553820871,<b>Taylor Ray</b><br>810 votes,3,3
+69,,,"DeKalb County: Doraville City Council District 1, Post 2 (Special)",41.084634346754314,"<b>Andy Yeoman</b><br>1,000 votes",3,3

@@ -1,0 +1,40 @@
+,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
+0,Rep,44900,State Senate - District 49,100.0,"<b>Drew Echols (Rep)</b><br>83,710 votes",30,30
+1,Rep,45000,State Senate - District 50,83.97766540671456,"<b>Bo Hatchett (I) (Rep)</b><br>82,870 votes",40,40
+2,Dem,45000,State Senate - District 50,16.022334593285432,"<b>June Krise (Dem)</b><br>15,811 votes",40,40
+3,Rep,52700,State House of Representatives - District 27,100.0,"<b>Lee Hawkins (I) (Rep)</b><br>30,558 votes",12,12
+4,Rep,52800,State House of Representatives - District 28,78.28655834564255,"<b>Brent Cox (I) (Rep)</b><br>26,500 votes",10,10
+5,Dem,52800,State House of Representatives - District 28,21.71344165435746,"<b>Michael D. Henson (Dem)</b><br>7,350 votes",10,10
+6,Rep,52900,State House of Representatives - District 29,100.0,"<b>Matt Dubnik (I) (Rep)</b><br>16,007 votes",8,8
+7,Rep,53000,State House of Representatives - District 30,73.00160046558999,"<b>Derrick McCollum (I) (Rep)</b><br>25,087 votes",8,8
+8,Dem,53000,State House of Representatives - District 30,26.998399534410012,"<b>Kim Floria (Dem)</b><br>9,278 votes",8,8
+9,Rep,53100,State House of Representatives - District 31,100.0,"<b>Emory West Dunahoo, Jr. (I) (Rep)</b><br>30,344 votes",4,4
+10,Rep,60000,State House of Representatives - District 100,62.37878739706865,"<b>David Clark (I) (Rep)</b><br>19,620 votes",9,9
+11,Dem,60000,State House of Representatives - District 100,37.62121260293136,"<b>Jennifer Ambler (Dem)</b><br>11,833 votes",9,9
+12,Rep,60300,State House of Representatives - District 103,60.547290116896924,"<b>Soo Hong (I) (Rep)</b><br>18,232 votes",11,11
+13,Dem,60300,State House of Representatives - District 103,39.45270988310308,"<b>Chris Luchey (Dem)</b><br>11,880 votes",11,11
+14,Rep,,Hall County: Probate Court Judge,100.0,"<b>Patty Walters Laine (I) (Rep)</b><br>87,420 votes",31,31
+15,Rep,,Hall County: Clerk of Superior Court,100.0,"<b>Mark Pettitt (Rep)</b><br>87,239 votes",31,31
+16,Rep,,Hall County: Sheriff,74.3137353014761,"<b>Gerald Couch (I) (Rep)</b><br>74,258 votes",31,31
+17,Dem,,Hall County: Sheriff,25.686264698523892,"<b>Jerry Ramos (Dem)</b><br>25,667 votes",31,31
+18,Rep,,Hall County: Tax Commissioner,100.0,"<b>Darla Eden (I) (Rep)</b><br>87,994 votes",31,31
+19,Rep,,Hall County: Surveyor,100.0,"<b>Chris M. Patton (I) (Rep)</b><br>87,562 votes",31,31
+20,Rep,,Hall County: Coroner,100.0,"<b>Marion G. Merck (I) (Rep)</b><br>88,151 votes",31,31
+21,Rep,,Hall County: Chief Magistrate,100.0,"<b>Margaret S. Gregory (I) (Rep)</b><br>87,525 votes",31,31
+22,Rep,,Hall County: Hall County Board of Commissioners Chair,100.0,"<b>David Gibbs (Rep)</b><br>87,520 votes",31,31
+23,Rep,,Hall County: Hall County Board of Commissioners - District 2,100.0,"<b>Billy Powell (I) (Rep)</b><br>28,102 votes",11,11
+24,Rep,,Hall County: Hall County Board of Commissioners - District 4,100.0,"<b>Jeffrey R. Stowe (I) (Rep)</b><br>10,702 votes",11,11
+25,Rep,,Hall County: County BOE - Post 3,100.0,"<b>Craig Herrington (I) (Rep)</b><br>73,092 votes",31,31
+26,Rep,,Hall County: County BOE - Post 4,100.0,"<b>Beau Sheppard (Rep)</b><br>72,994 votes",31,31
+27,,,Hall County: Hall Co. Soil and Water District Supervisor,54.61962187502102,"<b>Todd Chapman (I)</b><br>81,209 votes",31,31
+28,,,Hall County: Hall Co. Soil and Water District Supervisor,45.38037812497898,"<b>Mike Haynes (I)</b><br>67,472 votes",31,31
+29,,,Hall County: Special HB 1268-Hall County Homestead Exemption,59.0891514500537,"<b>Yes</b><br>55,012 votes",31,31
+30,,,Hall County: Special HB 1268-Hall County Homestead Exemption,40.910848549946294,"<b>No</b><br>38,088 votes",31,31
+31,,,Hall County: Special HB 1270-Hall County School District Homestead Exemption,60.00568027781722,"<b>Yes</b><br>46,481 votes",31,31
+32,,,Hall County: Special HB 1270-Hall County School District Homestead Exemption,39.99431972218277,"<b>No</b><br>30,980 votes",31,31
+33,,,Hall County: Special HB 1269-City of Gainesville Homestead Exemption,59.372565682317116,"<b>Yes</b><br>8,384 votes",16,16
+34,,,Hall County: Special HB 1269-City of Gainesville Homestead Exemption,40.627434317682884,"<b>No</b><br>5,737 votes",16,16
+35,,,Hall County: Special HB 1271-Gainesville School District Homestead Exemption,62.09159551196105,"<b>Yes</b><br>8,799 votes",16,16
+36,,,Hall County: Special HB 1271-Gainesville School District Homestead Exemption,37.908404488038954,"<b>No</b><br>5,372 votes",16,16
+37,,,Hall County: TSPLOST,45.64018575337922,"<b>Yes</b><br>44,030 votes",31,31
+38,,,Hall County: TSPLOST,54.359814246620786,"<b>No</b><br>52,442 votes",31,31

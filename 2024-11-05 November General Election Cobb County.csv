@@ -1,0 +1,56 @@
+,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
+0,Dem,42800,State Senate - District 28,100.0,"<b>Donzella James (I) (Dem)</b><br>79,712 votes",56,56
+1,Rep,43200,State Senate - District 32,100.0,"<b>Kay Kirkpatrick (I) (Rep)</b><br>82,399 votes",40,40
+2,Dem,43300,State Senate - District 33,100.0,"<b>Michael Doc Rhett (I) (Dem)</b><br>65,983 votes",35,35
+3,Dem,43500,State Senate - District 35,100.0,"<b>Jason Esteves (I) (Dem)</b><br>82,713 votes",65,65
+4,Rep,43700,State Senate - District 37,57.476236202020914,"<b>Ed Setzler (I) (Rep)</b><br>65,243 votes",43,43
+5,Dem,43700,State Senate - District 37,42.523763797979086,"<b>Vanessa Ella Parker (Dem)</b><br>48,270 votes",43,43
+6,Rep,45600,State Senate - District 56,61.230842101701796,"<b>John Albers (I) (Rep)</b><br>72,392 votes",44,44
+7,Dem,45600,State Senate - District 56,38.769157898298204,"<b>JD Jordan (Dem)</b><br>45,836 votes",44,44
+8,Rep,51900,State House of Representatives - District 19,57.31319786595142,"<b>Joseph Gullett (I) (Rep)</b><br>19,659 votes",12,12
+9,Dem,51900,State House of Representatives - District 19,42.68680213404857,"<b>R.J. Coyle (Dem)</b><br>14,642 votes",12,12
+10,Rep,52200,State House of Representatives - District 22,60.54799650480589,"<b>Jordan Ridley (I) (Rep)</b><br>19,402 votes",15,15
+11,Dem,52200,State House of Representatives - District 22,39.45200349519411,"<b>James ""JL"" Shade (Dem)</b><br>12,642 votes",15,15
+12,Rep,53400,State House of Representatives - District 34,57.64603451005223,"<b>Devan Seabaugh (I) (Rep)</b><br>21,849 votes",17,17
+13,Dem,53400,State House of Representatives - District 34,42.35396548994776,"<b>Karl Gallegos (Dem)</b><br>16,053 votes",17,17
+14,Rep,53500,State House of Representatives - District 35,39.21209858103062,"<b>Gary Cecil Chaffee (Rep)</b><br>10,501 votes",12,12
+15,Dem,53500,State House of Representatives - District 35,60.78790141896938,"<b>Lisa Gayle Campbell (I) (Dem)</b><br>16,279 votes",12,12
+16,Rep,53600,State House of Representatives - District 36,100.0,"<b>Ginny Ehrhart (I) (Rep)</b><br>29,260 votes",14,14
+17,Rep,53700,State House of Representatives - District 37,44.29040909606014,"<b>Shea Taylor (Rep)</b><br>11,725 votes",16,16
+18,Dem,53700,State House of Representatives - District 37,55.70959090393986,"<b>Mary Frances Williams (I) (Dem)</b><br>14,748 votes",16,16
+19,Dem,53800,State House of Representatives - District 38,100.0,"<b>David Wilkerson (I) (Dem)</b><br>25,094 votes",13,13
+20,Dem,53900,State House of Representatives - District 39,100.0,"<b>Terry Cummings (I) (Dem)</b><br>22,774 votes",14,14
+21,Rep,54100,State House of Representatives - District 41,29.978920355604437,"<b>Andrea Smith (Rep)</b><br>6,542 votes",12,12
+22,Dem,54100,State House of Representatives - District 41,70.02107964439557,"<b>Michael Smith (I) (Dem)</b><br>15,280 votes",12,12
+23,Rep,54200,State House of Representatives - District 42,36.69296714968515,"<b>Diane E. Jackson (Rep)</b><br>9,673 votes",16,16
+24,Dem,54200,State House of Representatives - District 42,63.30703285031485,"<b>Gabriel Sanchez (Dem)</b><br>16,689 votes",16,16
+25,Dem,54300,State House of Representatives - District 43,100.0,"<b>Solomon Adesanya (I) (Dem)</b><br>18,742 votes",13,13
+26,Rep,54400,State House of Representatives - District 44,56.87394560037884,"<b>Don L. Parsons (I) (Rep)</b><br>19,216 votes",13,13
+27,Dem,54400,State House of Representatives - District 44,43.126054399621154,"<b>Danielle Bell (Dem)</b><br>14,571 votes",13,13
+28,Rep,54500,State House of Representatives - District 45,57.462112163919635,"<b>Sharon Cooper (I) (Rep)</b><br>21,650 votes",14,14
+29,Dem,54500,State House of Representatives - District 45,42.537887836080365,"<b>Eric Castater (Dem)</b><br>16,027 votes",14,14
+30,Rep,54600,State House of Representatives - District 46,58.88449218013944,"<b>John Carson (I) (Rep)</b><br>21,875 votes",14,14
+31,Dem,54600,State House of Representatives - District 46,41.11550781986056,"<b>Micheal Garza (Dem)</b><br>15,274 votes",14,14
+32,Rep,56000,State House of Representatives - District 60,28.421052631578945,"<b>Cathy G. Henson (Rep)</b><br>8,613 votes",21,21
+33,Dem,56000,State House of Representatives - District 60,71.57894736842105,"<b>Sheila Jones (I) (Dem)</b><br>21,692 votes",21,21
+34,Dem,56100,State House of Representatives - District 61,100.0,"<b>Mekyah McQueen (Dem)</b><br>28,977 votes",25,25
+35,Dem,71000,District Attorney - Cobb Judicial Circuit,100.0,"<b>Sonya F. Allen (Dem)</b><br>302,274 votes",148,148
+36,Rep,,Cobb County: Clerk of State Court,47.78888174235356,"<b>Robin C. Bishop (I) (Rep)</b><br>187,979 votes",148,148
+37,Dem,,Cobb County: Clerk of State Court,52.21111825764644,"<b>Tahnicia Phillips (Dem)</b><br>205,374 votes",148,148
+38,Rep,,Cobb County: Clerk of Superior Court,45.748670185664494,"<b>Deborah Dance (Rep)</b><br>179,580 votes",148,148
+39,Dem,,Cobb County: Clerk of Superior Court,54.251329814335506,"<b>Connie Taylor (I) (Dem)</b><br>212,956 votes",148,148
+40,Rep,,Cobb County: Sheriff,43.89528529673402,"<b>David Cavender (Rep)</b><br>172,706 votes",148,148
+41,Dem,,Cobb County: Sheriff,56.10471470326598,"<b>Craig D. Owens, Sr. (I) (Dem)</b><br>220,744 votes",148,148
+42,Dem,,Cobb County: Tax Commissioner,100.0,"<b>Carla Jackson (I) (Dem)</b><br>311,269 votes",148,148
+43,Rep,,Cobb County: County Commission Chairperson,44.85803007854519,"<b>Kay Morgan (Rep)</b><br>176,816 votes",148,148
+44,Dem,,Cobb County: County Commission Chairperson,55.141969921454816,"<b>Lisa N. Cupid (I) (Dem)</b><br>217,352 votes",148,148
+45,Rep,,Cobb County: County BOE - District 1,53.3376785617294,"<b>Randall Allen Scamihorn (I) (Rep)</b><br>29,460 votes",20,20
+46,Dem,,Cobb County: County BOE - District 1,46.662321438270595,"<b>Vickie H. W. Benson (Dem)</b><br>25,773 votes",20,20
+47,Dem,,Cobb County: County BOE - District 3,100.0,"<b>Leroy Tre' Hutchins (I) (Dem)</b><br>38,368 votes",21,21
+48,Rep,,Cobb County: County BOE - District 5,54.877206825130685,"<b>John H. Cristadoro (Rep)</b><br>33,384 votes",24,24
+49,Dem,,Cobb County: County BOE - District 5,45.12279317486932,"<b>Laura Judge (Dem)</b><br>27,450 votes",24,24
+50,Rep,,Cobb County: County BOE - District 7,52.37894189860673,"<b>Bradford Jay Wheeler (I) (Rep)</b><br>32,256 votes",24,24
+51,Dem,,Cobb County: County BOE - District 7,47.62105810139327,"<b>Andrew Cole (Dem)</b><br>29,326 votes",24,24
+52,,,Cobb County: Cobb Co. Soil and Water,100.0,"<b>Donald Ayres (I)</b><br>316,407 votes",148,148
+53,,,Cobb County: One Percent County Mobility Special Purpose Local Option Sales Tax (MSPLOST),37.65486542013406,"<b>Yes</b><br>145,158 votes",148,148
+54,,,Cobb County: One Percent County Mobility Special Purpose Local Option Sales Tax (MSPLOST),62.345134579865935,"<b>No</b><br>240,338 votes",148,148

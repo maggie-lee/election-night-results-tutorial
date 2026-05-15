@@ -1,0 +1,25 @@
+,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
+0,Rep,42900,State Senate - District 29,65.2341763613155,"<b>Randy Robertson (I) (Rep)</b><br>62,859 votes",48,48
+1,Dem,42900,State Senate - District 29,34.7658236386845,"<b>Ellen T. Wright (Dem)</b><br>33,500 votes",48,48
+2,Rep,63600,State House of Representatives - District 136,68.4503190519599,"<b>David Jenkins (I) (Rep)</b><br>22,527 votes",21,21
+3,Dem,63600,State House of Representatives - District 136,31.54968094804011,"<b>Jeff Lowe (Dem)</b><br>10,383 votes",21,21
+4,Rep,63700,State House of Representatives - District 137,40.32305868405454,"<b>Stephen Acorn (Rep)</b><br>10,884 votes",24,24
+5,Dem,63700,State House of Representatives - District 137,59.67694131594546,"<b>Debbie G. Buckner (I) (Dem)</b><br>16,108 votes",24,24
+6,Rep,71200,District Attorney - Coweta Judicial Circuit,100.0,"<b>Herb Cranford (I) (Rep)</b><br>162,345 votes",85,85
+7,Ind,,Meriwether County: Clerk of Superior Court,100.0,"<b>Kyemeshia ""Kye"" Gibson (I) (Ind)</b><br>9,738 votes",14,14
+8,Rep,,Meriwether County: Sheriff,44.54368588609834,"<b>Kenneth W. Knox (Rep)</b><br>5,037 votes",14,14
+9,Ind,,Meriwether County: Sheriff,55.45631411390166,"<b>Chuck Smith (I) (Ind)</b><br>6,271 votes",14,14
+10,Rep,,Meriwether County: Tax Commissioner,65.02631578947368,"<b>DeAnn Cruse (I) (Rep)</b><br>7,413 votes",14,14
+11,Dem,,Meriwether County: Tax Commissioner,34.973684210526315,"<b>Calandra ""Shae"" Tenney (Dem)</b><br>3,987 votes",14,14
+12,Rep,,Meriwether County: Coroner,58.689229116304055,"<b>David Boyd (Rep)</b><br>6,555 votes",14,14
+13,Ind,,Meriwether County: Coroner,41.310770883695945,"<b>Kristian L. Ellis (I) (Ind)</b><br>4,614 votes",14,14
+14,Rep,,Meriwether County: County Commission 2,50.264317180616736,"<b>Jennifer Snelson (Rep)</b><br>1,141 votes",4,4
+15,Dem,,Meriwether County: County Commission 2,49.73568281938326,"<b>James C. ""Skip"" Clements (Dem)</b><br>1,129 votes",4,4
+16,Ind,,Meriwether County: County Commission 4,100.0,"<b>Bryan Threadgill (I) (Ind)</b><br>1,722 votes",3,3
+17,Dem,,Meriwether County: County BOE 2,100.0,"<b>Christopher Tyrone Owens (I) (Dem)</b><br>1,821 votes",4,4
+18,Rep,,Meriwether County: County BOE 4,100.0,"<b>Brad Smith (I) (Rep)</b><br>1,618 votes",3,3
+19,,,Meriwether County: Roosevelt Soil and Water Conservation District Supervisor,100.0,"<b>William I. Nash (I)</b><br>9,554 votes",14,14
+20,,,Meriwether County: T-SPLOST,54.74588276961219,"<b>Yes</b><br>6,183 votes",14,14
+21,,,Meriwether County: T-SPLOST,45.25411723038782,"<b>No</b><br>5,111 votes",14,14
+22,,,Meriwether County: City of Greenville City Council - Post 4,44.306930693069305,<b>Michael Bussey</b><br>179 votes,1,1
+23,,,Meriwether County: City of Greenville City Council - Post 4,55.693069306930695,<b>Ryan Moore</b><br>225 votes,1,1

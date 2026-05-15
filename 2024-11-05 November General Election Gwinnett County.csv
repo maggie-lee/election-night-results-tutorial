@@ -1,0 +1,69 @@
+,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
+0,Rep,40500,State Senate - District 5,32.386778861211454,"<b>Lisa Babbage (Rep)</b><br>15,511 votes",26,26
+1,Dem,40500,State Senate - District 5,67.61322113878855,"<b>Sheikh Rahman (I) (Dem)</b><br>32,382 votes",26,26
+2,Rep,40700,State Senate - District 7,44.98293515358362,"<b>J. Gregory Howard (Rep)</b><br>38,222 votes",32,32
+3,Dem,40700,State Senate - District 7,55.01706484641639,"<b>Nabilah Islam Parkes (I) (Dem)</b><br>46,748 votes",32,32
+4,Rep,40900,State Senate - District 9,40.04709271091705,"<b>Michael Gargiulo (Rep)</b><br>35,036 votes",37,37
+5,Dem,40900,State Senate - District 9,59.952907289082944,"<b>Nikki Merritt (I) (Dem)</b><br>52,451 votes",37,37
+6,Rep,44000,State Senate - District 40,37.35914042903673,"<b>Amelia K. Siamomua (Rep)</b><br>29,937 votes",41,41
+7,Dem,44000,State Senate - District 40,62.64085957096327,"<b>Sally Harrell (I) (Dem)</b><br>50,196 votes",41,41
+8,Dem,44300,State Senate - District 43,100.0,"<b>Tonya P. Anderson (I) (Dem)</b><br>80,092 votes",32,32
+9,Rep,44500,State Senate - District 45,100.0,"<b>Clint Dixon (I) (Rep)</b><br>76,563 votes",27,27
+10,Rep,44600,State Senate - District 46,63.66914981671987,"<b>Bill Cowsert (I) (Rep)</b><br>64,614 votes",42,42
+11,Dem,44600,State Senate - District 46,36.33085018328012,"<b>Gareth Fenley (Dem)</b><br>36,870 votes",42,42
+12,Rep,44800,State Senate - District 48,53.57527215530445,"<b>Shawn Still (I) (Rep)</b><br>51,773 votes",37,37
+13,Dem,44800,State Senate - District 48,46.42472784469555,"<b>Ashwin Ramaswami (Dem)</b><br>44,863 votes",37,37
+14,Rep,45500,State Senate - District 55,24.029791808349604,"<b>Mary Williams Benefield (Rep)</b><br>21,907 votes",46,46
+15,Dem,45500,State Senate - District 55,75.9702081916504,"<b>Randal Mangham (Dem)</b><br>69,259 votes",46,46
+16,Rep,53000,State House of Representatives - District 30,73.00160046558999,"<b>Derrick McCollum (I) (Rep)</b><br>25,087 votes",8,8
+17,Dem,53000,State House of Representatives - District 30,26.998399534410012,"<b>Kim Floria (Dem)</b><br>9,278 votes",8,8
+18,Rep,54800,State House of Representatives - District 48,54.87219724175393,"<b>Scott Hilton (I) (Rep)</b><br>18,183 votes",22,22
+19,Dem,54800,State House of Representatives - District 48,45.12780275824607,"<b>Laura Murvartian (Dem)</b><br>14,954 votes",22,22
+20,Rep,58800,State House of Representatives - District 88,19.85837557559107,"<b>William Park Freeman (Rep)</b><br>5,132 votes",16,16
+21,Dem,58800,State House of Representatives - District 88,80.14162442440893,"<b>Billy Mitchell (I) (Dem)</b><br>20,711 votes",16,16
+22,Dem,59300,State House of Representatives - District 93,100.0,"<b>Doreen Carter (I) (Dem)</b><br>23,317 votes",13,13
+23,Dem,59400,State House of Representatives - District 94,100.0,"<b>Karen Bennett (I) (Dem)</b><br>25,781 votes",14,14
+24,Dem,59500,State House of Representatives - District 95,100.0,"<b>Dar'shun Kendrick (I) (Dem)</b><br>24,135 votes",11,11
+25,Dem,59600,State House of Representatives - District 96,100.0,"<b>Arlene Beckles (Dem)</b><br>13,524 votes",10,10
+26,Rep,59700,State House of Representatives - District 97,41.15694450066793,"<b>Michael Allen Corbin (Rep)</b><br>10,167 votes",11,11
+27,Dem,59700,State House of Representatives - District 97,58.84305549933207,"<b>Ruwa Romman (I) (Dem)</b><br>14,536 votes",11,11
+28,Dem,59800,State House of Representatives - District 98,100.0,"<b>Marvin Lim (I) (Dem)</b><br>9,283 votes",8,8
+29,Rep,59900,State House of Representatives - District 99,51.07057890563045,"<b>Matt Reeves (I) (Rep)</b><br>14,812 votes",10,10
+30,Dem,59900,State House of Representatives - District 99,48.929421094369545,"<b>Michelle Kang (Dem)</b><br>14,191 votes",10,10
+31,Rep,60000,State House of Representatives - District 100,62.37878739706865,"<b>David Clark (I) (Rep)</b><br>19,620 votes",9,9
+32,Dem,60000,State House of Representatives - District 100,37.62121260293136,"<b>Jennifer Ambler (Dem)</b><br>11,833 votes",9,9
+33,Rep,60200,State House of Representatives - District 102,34.12101993831719,"<b>Kathy Statham (Rep)</b><br>7,855 votes",9,9
+34,Dem,60200,State House of Representatives - District 102,65.87898006168281,"<b>Gabe Okoye (I) (Dem)</b><br>15,166 votes",9,9
+35,Rep,60300,State House of Representatives - District 103,60.547290116896924,"<b>Soo Hong (I) (Rep)</b><br>18,232 votes",11,11
+36,Dem,60300,State House of Representatives - District 103,39.45270988310308,"<b>Chris Luchey (Dem)</b><br>11,880 votes",11,11
+37,Rep,60400,State House of Representatives - District 104,100.0,"<b>Chuck Efstration (I) (Rep)</b><br>25,168 votes",10,10
+38,Rep,60500,State House of Representatives - District 105,50.13243279035889,"<b>Sandy Donatucci (Rep)</b><br>15,142 votes",10,10
+39,Dem,60500,State House of Representatives - District 105,49.86756720964111,"<b>Farooq Mughal (I) (Dem)</b><br>15,062 votes",10,10
+40,Dem,60600,State House of Representatives - District 106,100.0,"<b>Shelly Hutchinson (I) (Dem)</b><br>19,029 votes",12,12
+41,Rep,60700,State House of Representatives - District 107,39.604306759435616,"<b>Hai Cao (Rep)</b><br>10,189 votes",12,12
+42,Dem,60700,State House of Representatives - District 107,60.395693240564384,"<b>Sam Park (I) (Dem)</b><br>15,538 votes",12,12
+43,Rep,60800,State House of Representatives - District 108,46.13653149509373,"<b>Elvia Davila (Rep)</b><br>13,118 votes",17,17
+44,Dem,60800,State House of Representatives - District 108,53.86346850490627,"<b>Jasmine Clark (I) (Dem)</b><br>15,315 votes",17,17
+45,Dem,60900,State House of Representatives - District 109,100.0,"<b>Dewey L. McClain (I) (Dem)</b><br>12,657 votes",8,8
+46,Rep,61000,State House of Representatives - District 110,34.70300191611667,"<b>Charles Lollar (Rep)</b><br>11,410 votes",9,9
+47,Dem,61000,State House of Representatives - District 110,65.29699808388332,"<b>Segun Adeyina (I) (Dem)</b><br>21,469 votes",9,9
+48,Rep,61100,State House of Representatives - District 111,61.53644314868805,"<b>Rey Martinez (I) (Rep)</b><br>21,107 votes",9,9
+49,Dem,61100,State House of Representatives - District 111,38.46355685131195,"<b>Scott T. Jackson (Dem)</b><br>13,193 votes",9,9
+50,Rep,61200,State House of Representatives - District 112,100.0,"<b>Bruce Williamson (I) (Rep)</b><br>28,832 votes",12,12
+51,Dem,71900,District Attorney - Gwinnett Judicial Circuit,100.0,"<b>Patsy Austin-Gatson (I) (Dem)</b><br>321,795 votes",156,156
+52,Dem,,Gwinnett County: Clerk of Superior Court,100.0,"<b>Tiana P. Garner (I) (Dem)</b><br>322,577 votes",156,156
+53,Rep,,Gwinnett County: Sheriff,42.19962986412117,"<b>Mike Baker (Rep)</b><br>173,297 votes",156,156
+54,Dem,,Gwinnett County: Sheriff,57.80037013587883,"<b>Keybo Taylor (I) (Dem)</b><br>237,363 votes",156,156
+55,Rep,,Gwinnett County: Tax Commissioner,40.70406261374268,"<b>Arefeen Chowdhury (Rep)</b><br>166,629 votes",156,156
+56,Dem,,Gwinnett County: Tax Commissioner,59.29593738625732,"<b>Denise Mitchell (I) (Dem)</b><br>242,738 votes",156,156
+57,Rep,,Gwinnett County: County Commission Chairman,41.26287135728982,"<b>John Sabic (Rep)</b><br>168,865 votes",156,156
+58,Dem,,Gwinnett County: County Commission Chairman,58.73712864271018,"<b>Nicole Love Hendrickson (I) (Dem)</b><br>240,377 votes",156,156
+59,Rep,,Gwinnett County: County Commission - District 1,42.26902616436869,"<b>Tim Le (Rep)</b><br>38,934 votes",39,39
+60,Dem,,Gwinnett County: County Commission - District 1,57.7309738356313,"<b>Kirkland Dion Carden (I) (Dem)</b><br>53,176 votes",39,39
+61,Rep,,Gwinnett County: County Commission - District 3,36.339340779825946,"<b>Bobby Howard (Rep)</b><br>42,424 votes",38,38
+62,Dem,,Gwinnett County: County Commission - District 3,63.660659220174054,"<b>Jasper Watkins, III (I) (Dem)</b><br>74,320 votes",38,38
+63,,,Gwinnett County: Gwinnett Co. Soil and Water,44.16230887908363,"<b>Ellis Lamme (I)</b><br>261,629 votes",156,156
+64,,,Gwinnett County: Gwinnett Co. Soil and Water,33.99124954002694,"<b>Matthew Ray Retter</b><br>201,373 votes",156,156
+65,,,Gwinnett County: Gwinnett Co. Soil and Water,21.84644158088943,"<b>David L. Witham</b><br>129,424 votes",156,156
+66,,,Gwinnett County: Gwinnett County Transit SPLOST Referendum,46.54856414659408,"<b>Yes / Sí</b><br>189,212 votes",156,156
+67,,,Gwinnett County: Gwinnett County Transit SPLOST Referendum,53.451435853405926,"<b>No</b><br>217,271 votes",156,156
