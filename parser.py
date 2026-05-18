@@ -191,7 +191,7 @@ df['percent_of_ballot_item'] = (df['voteCount'] / df['sum_of_ballot_item']) * 10
 
 # Add a new column that puts the candidate's name and their vote count in one column
 # and wrap it in some html to make it look good in Datawrapper
-df['label'] = '<b>' + df['name'] + '</b><br>' + df['voteCount'].map("{:,}".format).astype(str) + ' votes'
+df['label'] = df['name'] + '<br>' + df['voteCount'].map("{:,}".format).astype(str) + ' votes'
 
 # print( 'number of ballot_items: ' + str(df['results.ballotItems.name'].nunique()))
 
