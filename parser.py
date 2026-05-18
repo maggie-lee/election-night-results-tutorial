@@ -117,12 +117,12 @@ update_prettified = datetime.strftime(update_object, '%B %d %Y %I:%M %p')
 # https://developer.datawrapper.de/docs/chart-properties
 
 properties_object = {
-	'title' : my_title,
+	'title' : my_title + ' ' + date_prettified,
 	'describe' : {
 		'intro' : 'Last Updated ' + update_prettified,
 		'source_name' : my_source,
 		'source_url' : my_url,
-		'description' : election_name + ' ' + election_date_prettfied,
+		# 'description' : election_name + ' ' + election_date_prettfied,
 		'aria-description' : 'Bar graph of ' + my_title + ', last updated at ' + update_prettified + '.  Original data at ' + my_url
 	}
 }
