@@ -99,7 +99,7 @@ election_name = (response_obj['electionName'])
 # Get and prettify the election's date. 
 election_date_str = (response_obj['electionDate'])
 election_date_obj = datetime.strptime(election_date_str, '%Y-%m-%d')
-election_date_prettfied = datetime.strftime(election_date_obj, '%B %-d %Y')
+election_date_prettified = datetime.strftime(election_date_obj, '%B %-d %Y')
 
 # Get the timestamp of the last update to the data.
 update_string = response_obj['createdAt']
