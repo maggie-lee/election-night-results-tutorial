@@ -3,14 +3,16 @@ import requests
 import json
 from datetime import datetime
 from zoneinfo import ZoneInfo
+import os
 
 ###### CHANGE THESE FIVE LINES 
 
-my_json_url = 'https://results.sos.ga.gov/cdn/results/Georgia/export-2024NovGen.json'
-my_url = 'https://results.sos.ga.gov/results/public/Georgia/elections/2024NovGen'
+my_json_url = 'https://results.sos.ga.gov/cdn/results/Georgia/export-2024MayGenPri.json'
+my_url = 'https://results.sos.ga.gov/results/public/Georgia/elections/2024MayGenPri' # The source url for your graph footnote
 my_source = 'Georgia Secretary of State'
 my_title = 'Georgia Election Night Reporting'
 my_timezone = 'America/New_York'  # Timezone choices: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 
 ######
 
@@ -19,6 +21,9 @@ my_timezone = 'America/New_York'  # Timezone choices: https://en.wikipedia.org/w
 response = requests.get(my_json_url)
 response_obj = json.loads(response.content)
 print(response_obj.keys())
+
+
+
 
 #### politicalParty is not consistently filled in for partisan races; party is compounded with name sometimes.
 #####
@@ -125,9 +130,14 @@ properties_object = {
 # Write that dict as a json file in github
 # Let's give the file a good descriptive name & date
 
-json_outfile_name = election_date_str + ' ' + election_name + '.json'
+json_outfile_name = election_date_str + '/' + election_date_str + ' ' + election_name + '.json'
+
+out_dir = election_date_str
+if not os.path.exists(out_dir):
+	os.makedirs(out_dir)
+
 with open(json_outfile_name, 'w') as f:
-	json.dump(properties_object, f, indent=4)
+	json.dump(properties_object, f, indent=4) 
 
 # ############# PART 1 DONE ! Graph properties acquired & parsed into Datawrapper format. ################
 
@@ -290,7 +300,7 @@ simplified_df.rename(columns={'results.ballotItems.name':'contest_name'}, inplac
 
 # # # publish the output to your Github repo as a .csv.
 # #  let's give it a good descriptive name
-state_and_federal_outfile_name = election_date_str + ' ' + election_name + '-state-federal' + '.csv'
+state_and_federal_outfile_name = election_date_str + '/' + election_date_str + ' ' + election_name + '-state-federal' + '.csv'
 simplified_df.to_csv(state_and_federal_outfile_name)
 
 
@@ -436,7 +446,7 @@ for county in counties:
 	#  some of the party field are blank, even if the party is indicated in the person's name.
 
 
-	county_filename = election_date_str + ' ' + election_name + ' ' + county['name'] +'.csv'
+	county_filename = election_date_str + '/' + election_date_str + ' ' + election_name + ' ' + county['name'] +'.csv'
 	county_combined.to_csv(county_filename)
 
 
