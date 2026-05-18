@@ -130,11 +130,11 @@ properties_object = {
 # Write that dict as a json file in github
 # Let's give the file a good descriptive name & date
 
-json_outfile_name = election_date_str + '/' + election_date_str + ' ' + election_name + '.json'
+json_outfile_name = 'test_' + election_date_str + ' ' + election_name + '.json'
 
-out_dir = election_date_str
-if not os.path.exists(out_dir):
-	os.makedirs(out_dir)
+# out_dir = election_date_str
+# if not os.path.exists(out_dir):
+# 	os.makedirs(out_dir)
 
 with open(json_outfile_name, 'w') as f:
 	json.dump(properties_object, f, indent=4) 
@@ -300,7 +300,7 @@ simplified_df.rename(columns={'results.ballotItems.name':'contest_name'}, inplac
 
 # # # publish the output to your Github repo as a .csv.
 # #  let's give it a good descriptive name
-state_and_federal_outfile_name = election_date_str + '/' + election_date_str + ' ' + election_name + '-state-federal' + '.csv'
+state_and_federal_outfile_name = 'test_' + election_date_str + ' ' + election_name + '-state-federal' + '.csv'
 simplified_df.to_csv(state_and_federal_outfile_name)
 
 
@@ -446,7 +446,7 @@ for county in counties:
 	#  some of the party field are blank, even if the party is indicated in the person's name.
 
 
-	county_filename = election_date_str + '/' + election_date_str + ' ' + election_name + ' ' + county['name'] +'.csv'
+	county_filename = 'test_' + election_date_str + ' ' + election_name + ' ' + county['name'] +'.csv'
 	county_combined.to_csv(county_filename)
 
 
