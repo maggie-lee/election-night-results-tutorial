@@ -131,9 +131,9 @@ properties_object = {
 
 json_outfile_name = election_date_str + '/' + election_date_str + ' ' + election_name + '.json'
 
-out_dir = election_date_str
-if not os.path.exists(out_dir):
-	os.makedirs(out_dir)
+# out_dir = election_date_str
+# if not os.path.exists(out_dir):
+# 	os.makedirs(out_dir)
 
 with open(json_outfile_name, 'w') as f:
 	json.dump(properties_object, f, indent=4) 
