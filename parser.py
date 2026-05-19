@@ -110,7 +110,7 @@ update_object= (datetime.fromisoformat(update_string.replace('Z', '+00:00'))
 				.astimezone(ZoneInfo(my_timezone)))
 
 # Then parse the timezone-aware object into a human-readable date: Nov. 21, 2025 08:59 AM
-update_prettified = datetime.strftime(update_object, '%B %d, %Y %I:%M %p')
+update_prettified = datetime.strftime(update_object, '%B %d, %Y %-I:%M %p')
 
 # Make a properties dict according to Datawrapper's specs:
 # https://developer.datawrapper.de/docs/chart-properties
@@ -131,9 +131,9 @@ properties_object = {
 
 json_outfile_name = election_date_str + '/' + election_date_str + ' ' + election_name + '.json'
 
-# out_dir = election_date_str
-# if not os.path.exists(out_dir):
-# 	os.makedirs(out_dir)
+out_dir = election_date_str
+if not os.path.exists(out_dir):
+	os.makedirs(out_dir)
 
 with open(json_outfile_name, 'w') as f:
 	json.dump(properties_object, f, indent=4) 
@@ -455,13 +455,14 @@ for county in counties:
 		lambda row: (
 			row['contest_name']
 			if '<br>' in row['contest_name']
-			else row['contest_name'] + 	str(row['precinctsReporting']) + ' of ' + str(row['precinctsParticipating']) + ' precincts reporting'),
+			else row['contest_name'] + '<br>' + str(row['precinctsReporting']) + ' of ' + str(row['precinctsParticipating']) + ' precincts reporting'),
 		axis=1
 		)
 
 
 	county_filename = election_date_str + '/' + election_date_str + ' ' + election_name + ' ' + county['name'] +'.csv'
-	if 'chatham' in county_filename.lower():
+	counties_to_keep = ['chatham', 'glynn', 'mcintosh', 'liberty', 'bryan', 'camden']
+	if any(sub in county_filename.lower() for sub in counties_to_keep):
 		county_combined.to_csv(county_filename)
 
 
