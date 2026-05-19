@@ -1,20 +1,20 @@
 ,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
-0,REP,SSD1R,State Senate - District 1 - Rep<br>0 of 49 precincts reporting,,<b>Ben Watson (I)</b><br>0 votes,49,0
-1,DEM,SSD1D,State Senate - District 1 - Dem<br>0 of 49 precincts reporting,,<b>Corey Foreman</b><br>0 votes,49,0
-2,DEM,SSD1D,State Senate - District 1 - Dem<br>0 of 49 precincts reporting,,<b>Barbara Gooby</b><br>0 votes,49,0
+0,REP,SSD1R,State Senate - District 1 - Rep<br>0 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>2,710 votes",49,0
+1,DEM,SSD1D,State Senate - District 1 - Dem<br>0 of 49 precincts reporting,58.7018544935806,<b>Corey Foreman</b><br>823 votes,49,0
+2,DEM,SSD1D,State Senate - District 1 - Dem<br>0 of 49 precincts reporting,41.2981455064194,<b>Barbara Gooby</b><br>579 votes,49,0
 3,DEM,SSD2D,State Senate - District 2 - Dem<br>0 of 58 precincts reporting,,<b>Derek J. Mallow (I)</b><br>0 votes,58,0
-4,REP,SSD4R,State Senate - District 4 - Rep<br>0 of 45 precincts reporting,,<b>Billy Hickman (I)</b><br>0 votes,45,0
-5,REP,SHD161R,State House of Representatives - District 161 - Rep<br>0 of 18 precincts reporting,,<b>Bill Hitchens (I)</b><br>0 votes,18,0
-6,DEM,SHD161D,State House of Representatives - District 161 - Dem<br>0 of 18 precincts reporting,,<b>David Dillie</b><br>0 votes,18,0
+4,REP,SSD4R,State Senate - District 4 - Rep<br>20 of 45 precincts reporting,,<b>Billy Hickman (I)</b><br>0 votes,45,20
+5,REP,SHD161R,State House of Representatives - District 161 - Rep<br>10 of 18 precincts reporting,,<b>Bill Hitchens (I)</b><br>0 votes,18,10
+6,DEM,SHD161D,State House of Representatives - District 161 - Dem<br>10 of 18 precincts reporting,,<b>David Dillie</b><br>0 votes,18,10
 7,DEM,SHD162D,State House of Representatives - District 162 - Dem<br>0 of 16 precincts reporting,,<b>Orlando Scott</b><br>0 votes,16,0
 8,DEM,SHD163D,State House of Representatives - District 163 - Dem<br>0 of 24 precincts reporting,,<b>Anne Allen Westbrook (I)</b><br>0 votes,24,0
-9,REP,SHD164R,State House of Representatives - District 164 - Rep<br>0 of 16 precincts reporting,,<b>Ron Stephens (I)</b><br>0 votes,16,0
-10,DEM,SHD164D,State House of Representatives - District 164 - Dem<br>0 of 16 precincts reporting,,<b>Stephanie O Burgess</b><br>0 votes,16,0
+9,REP,SHD164R,State House of Representatives - District 164 - Rep<br>0 of 16 precincts reporting,100.0,"<b>Ron Stephens (I)</b><br>1,014 votes",16,0
+10,DEM,SHD164D,State House of Representatives - District 164 - Dem<br>0 of 16 precincts reporting,100.0,<b>Stephanie O Burgess</b><br>642 votes,16,0
 11,DEM,SHD165D,State House of Representatives - District 165 - Dem<br>0 of 19 precincts reporting,,<b>Kendra Clark</b><br>0 votes,19,0
 12,DEM,SHD165D,State House of Representatives - District 165 - Dem<br>0 of 19 precincts reporting,,<b>MiQuan Green</b><br>0 votes,19,0
 13,DEM,SHD165D,State House of Representatives - District 165 - Dem<br>0 of 19 precincts reporting,,<b>Jaylen Jay Morris</b><br>0 votes,19,0
-14,REP,SHD166R,State House of Representatives - District 166 - Rep<br>0 of 22 precincts reporting,,<b>Jesse Petrea (I)</b><br>0 votes,22,0
-15,DEM,SHD166D,State House of Representatives - District 166 - Dem<br>0 of 22 precincts reporting,,<b>Pat Daley</b><br>0 votes,22,0
+14,REP,SHD166R,State House of Representatives - District 166 - Rep<br>0 of 22 precincts reporting,100.0,"<b>Jesse Petrea (I)</b><br>1,164 votes",22,0
+15,DEM,SHD166D,State House of Representatives - District 166 - Dem<br>0 of 22 precincts reporting,100.0,<b>Pat Daley</b><br>451 votes,22,0
 16,,SJC41,Judge - Superior Court - Eastern Judicial Circuit (Karpf)<br>0 of 86 precincts reporting,,<b>Benjamin W. Karpf (I)</b><br>0 votes,86,0
 17,,SJC42,Judge - Superior Court - Eastern Judicial Circuit (Stokes)<br>0 of 86 precincts reporting,,<b>Tammy M. Stokes (I)</b><br>0 votes,86,0
 18,,SJC43,Judge - Superior Court - Eastern Judicial Circuit (Walmsley)<br>0 of 86 precincts reporting,,<b>Timothy R. Walmsley (I)</b><br>0 votes,86,0
