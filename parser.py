@@ -7,10 +7,10 @@ import os
 
 ###### CHANGE THESE FIVE LINES 
 
-my_json_url = 'https://results.sos.ga.gov/cdn/results/Georgia/export-2024MayGenPri.json'
-my_url = 'https://results.sos.ga.gov/results/public/Georgia/elections/2024MayGenPri' # The source url for your graph footnote
+my_json_url = 'https://results.sos.ga.gov/cdn/results/Georgia/export-GeneralPrimary51926.json'
+my_url = 'https://results.sos.ga.gov/results/public/Georgia/elections/GeneralPrimary51926' # The source url for your graph footnote
 my_source = 'Georgia Secretary of State'
-my_title = 'Georgia Election Night Reporting: '
+my_title = 'Georgia Election Night Reporting'
 my_timezone = 'America/New_York'  # Timezone choices: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -24,7 +24,6 @@ print(response_obj.keys())
 
 
 
-
 #### politicalParty is not consistently filled in for partisan races; party is compounded with name sometimes.
 #####
 ##### And when party is compounded with name, the formatting is inconsistent: '- Dem', '(Dem)'
@@ -34,57 +33,57 @@ print(response_obj.keys())
 #### Don't run this part unless u have to
 
 
-dem_flags = ['(DEM)', '- DEM']
-rep_flags = ['(REP)', '- REP']
-lib_flags = ['(LIB)' '-LIB']
-grn_flags = ['(GRN)', '-GRN']
+# dem_flags = ['(DEM)', '- DEM']
+# rep_flags = ['(REP)', '- REP']
+# lib_flags = ['(LIB)' '-LIB']
+# grn_flags = ['(GRN)', '-GRN']
 
-results_ballot_items = response_obj['results']['ballotItems']
-for i in range(len(results_ballot_items)):
-	# print('***')
-	people = (results_ballot_items[i]['ballotOptions'])
-	for j in range(len(people)):
-		# print(people[j]['name'], people[j]['politicalParty'])
-		if (people[j]['politicalParty']) == '':
-			# print('+++++')
-			# print(people[j]['name'], people[j]['politicalParty'])
-			party = ''
-			if any(sub in people[j]['name'].upper() for sub in dem_flags):
-				people[j]['politicalParty'] = 'Dem'
-			elif any(sub in people[j]['name'].upper() for sub in rep_flags):
-				people[j]['politicalParty'] = 'Rep'
-			elif any(sub in people[j]['name'].upper() for sub in lib_flags):
-				people[j]['politicalParty'] = 'Lib'
-			elif any(sub in people[j]['name'].upper() for sub in grn_flags):
-				people[j]['politicalParty'] = 'Grn'
-			else:
-				pass
-		# print(people[j]['name'], people[j]['politicalParty'])
+# results_ballot_items = response_obj['results']['ballotItems']
+# for i in range(len(results_ballot_items)):
+# 	# print('***')
+# 	people = (results_ballot_items[i]['ballotOptions'])
+# 	for j in range(len(people)):
+# 		# print(people[j]['name'], people[j]['politicalParty'])
+# 		if (people[j]['politicalParty']) == '':
+# 			# print('+++++')
+# 			# print(people[j]['name'], people[j]['politicalParty'])
+# 			party = ''
+# 			if any(sub in people[j]['name'].upper() for sub in dem_flags):
+# 				people[j]['politicalParty'] = 'Dem'
+# 			elif any(sub in people[j]['name'].upper() for sub in rep_flags):
+# 				people[j]['politicalParty'] = 'Rep'
+# 			elif any(sub in people[j]['name'].upper() for sub in lib_flags):
+# 				people[j]['politicalParty'] = 'Lib'
+# 			elif any(sub in people[j]['name'].upper() for sub in grn_flags):
+# 				people[j]['politicalParty'] = 'Grn'
+# 			else:
+# 				pass
+# 		# print(people[j]['name'], people[j]['politicalParty'])
 
 
-local_results_ballot_items_list = response_obj['localResults']
+# local_results_ballot_items_list = response_obj['localResults']
 
-for county in local_results_ballot_items_list:
-	ballot_items = county['ballotItems']
-	for i in range(len(ballot_items)):
-		people = ballot_items[i]['ballotOptions']
-		for j in range(len(people)):
-			# print(people[j]['name'])
-			if (people[j]['politicalParty']) == '':
-				# print('+++++')
-				# print(people[j]['name'], people[j]['politicalParty'])
-				party = ''
-				if any(sub in people[j]['name'].upper() for sub in dem_flags):
-					people[j]['politicalParty'] = 'Dem'
-				elif any(sub in people[j]['name'].upper() for sub in rep_flags):
-					people[j]['politicalParty'] = 'Rep'
-				elif any(sub in people[j]['name'].upper() for sub in lib_flags):
-					people[j]['politicalParty'] = 'Lib'
-				elif any(sub in people[j]['name'].upper() for sub in grn_flags):
-					people[j]['politicalParty'] = 'Grn'
-				else:
-					pass
-			# print(people[j]['name'], people[j]['politicalParty'])
+# for county in local_results_ballot_items_list:
+# 	ballot_items = county['ballotItems']
+# 	for i in range(len(ballot_items)):
+# 		people = ballot_items[i]['ballotOptions']
+# 		for j in range(len(people)):
+# 			# print(people[j]['name'])
+# 			if (people[j]['politicalParty']) == '':
+# 				# print('+++++')
+# 				# print(people[j]['name'], people[j]['politicalParty'])
+# 				party = ''
+# 				if any(sub in people[j]['name'].upper() for sub in dem_flags):
+# 					people[j]['politicalParty'] = 'Dem'
+# 				elif any(sub in people[j]['name'].upper() for sub in rep_flags):
+# 					people[j]['politicalParty'] = 'Rep'
+# 				elif any(sub in people[j]['name'].upper() for sub in lib_flags):
+# 					people[j]['politicalParty'] = 'Lib'
+# 				elif any(sub in people[j]['name'].upper() for sub in grn_flags):
+# 					people[j]['politicalParty'] = 'Grn'
+# 				else:
+# 					pass
+# 			# print(people[j]['name'], people[j]['politicalParty'])
 
 
 ############### PART 1: Get data properties ###############
@@ -111,13 +110,13 @@ update_object= (datetime.fromisoformat(update_string.replace('Z', '+00:00'))
 				.astimezone(ZoneInfo(my_timezone)))
 
 # Then parse the timezone-aware object into a human-readable date: Nov. 21, 2025 08:59 AM
-update_prettified = datetime.strftime(update_object, '%B %d %Y %I:%M %p')
+update_prettified = datetime.strftime(update_object, '%B %d, %Y %I:%M %p')
 
 # Make a properties dict according to Datawrapper's specs:
 # https://developer.datawrapper.de/docs/chart-properties
 
 properties_object = {
-	'title' : my_title + election_date_prettified,
+	'title' : my_title + ' ' + election_date_prettified,
 	'describe' : {
 		'intro' : 'Last Updated ' + update_prettified,
 		'source_name' : my_source,
@@ -130,11 +129,11 @@ properties_object = {
 # Write that dict as a json file in github
 # Let's give the file a good descriptive name & date
 
-json_outfile_name = 'test_' + election_date_str + ' ' + election_name + '.json'
+json_outfile_name = election_date_str + '/' + election_date_str + ' ' + election_name + '.json'
 
-# out_dir = election_date_str
-# if not os.path.exists(out_dir):
-# 	os.makedirs(out_dir)
+out_dir = election_date_str
+if not os.path.exists(out_dir):
+	os.makedirs(out_dir)
 
 with open(json_outfile_name, 'w') as f:
 	json.dump(properties_object, f, indent=4) 
@@ -191,7 +190,7 @@ df['percent_of_ballot_item'] = (df['voteCount'] / df['sum_of_ballot_item']) * 10
 
 # Add a new column that puts the candidate's name and their vote count in one column
 # and wrap it in some html to make it look good in Datawrapper
-df['label'] = df['name'] + '<br>' + df['voteCount'].map("{:,}".format).astype(str) + ' votes'
+df['label'] = '<b>' + df['name'] + '</b><br>' + df['voteCount'].map("{:,}".format).astype(str) + ' votes'
 
 # print( 'number of ballot_items: ' + str(df['results.ballotItems.name'].nunique()))
 
@@ -281,7 +280,7 @@ if not problems.empty:
 # in this json, that's ballot order of the ballot item, then ballot order of the candidate
 sorted_df = joined.sort_values(by=['results.ballotItems.ballotOrder', 'ballotOrder'])
 
-print(sorted_df.iloc[1])
+# print(sorted_df.iloc[1])
 # And delete (drop) the columns that Datawrapper doesn't need
 
 #Then drop the columns Datawrapper doesn't need. 
@@ -298,13 +297,20 @@ simplified_df = sorted_df.drop(columns = ['id_x',
 
 simplified_df.rename(columns={'results.ballotItems.name':'contest_name'}, inplace=True)
 
+simplified_df['contest_name'] = simplified_df['contest_name'] + '<br>' + \
+	simplified_df['precinctsReporting'].astype(str) + ' of ' + \
+	simplified_df['precinctsParticipating'].astype(str) + ' precincts reporting'
+
+
+# print(simplified_df.iloc[0])
+
 # # # publish the output to your Github repo as a .csv.
 # #  let's give it a good descriptive name
-state_and_federal_outfile_name = 'test_' + election_date_str + ' ' + election_name + '-state-federal' + '.csv'
+state_and_federal_outfile_name = election_date_str + '/' + election_date_str + ' ' + election_name + '-state-federal' + '.csv'
 simplified_df.to_csv(state_and_federal_outfile_name)
 
 
-############# PART 2 COMPLETE! State & federal contests fetched & parsed for Datawrapper #######################
+# ############# PART 2 COMPLETE! State & federal contests fetched & parsed for Datawrapper #######################
 
 ############# PART 3: Get results for local races #######################
 
@@ -350,7 +356,7 @@ for county in counties:
 	# 
 	exclude_list = ['US ', 'PRESIDENT', 'GOVERNOR', 'SECRETARY', 'AGRICULTURE', 
 					'ATTORNEY GENERAL', 'INSURANCE', 'SUPERINTENDENT', 'LABOR',
-					'PUBLIC SERVICE', 'SUPREME', 'APPEALS', 'STATEWIDE', 'CONSTITUTIONAL']
+					'PUBLIC SERVICE', 'SUPREME', 'APPEALS', 'STATEWIDE', 'CONSTITUTIONAL', 'PSC ', 'PARTY QUESTION']
 
 	filtered_local_df = local_df[~local_df['county_ballotItems.name'].str.contains('|'.join(exclude_list), case=False, na=False)].copy()
 
@@ -445,8 +451,17 @@ for county in counties:
 	county_combined = pd.concat([cross_county_ballot_items, simplified_locals_only], ignore_index=True)
 	#  some of the party field are blank, even if the party is indicated in the person's name.
 
+	county_combined['contest_name'] = county_combined.apply(
+		lambda row: (
+			row['contest_name']
+			if '<br>' in row['contest_name']
+			else row['contest_name'] + 	str(row['precinctsReporting']) + ' of ' + str(row['precinctsParticipating']) + ' precincts reporting'),
+		axis=1
+		)
 
-	county_filename = 'test_' + election_date_str + ' ' + election_name + ' ' + county['name'] +'.csv'
-	county_combined.to_csv(county_filename)
+
+	county_filename = election_date_str + '/' + election_date_str + ' ' + election_name + ' ' + county['name'] +'.csv'
+	if 'chatham' in county_filename.lower():
+		county_combined.to_csv(county_filename)
 
 
