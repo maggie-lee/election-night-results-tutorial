@@ -1,10 +1,10 @@
 ,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
-0,REP,SSD3R,State Senate - District 3 - Rep<br>0 of 46 precincts reporting,,<b>Mike Hodges (I)</b><br>0 votes,46,0
-1,REP,SHD180R,State House of Representatives - District 180 - Rep<br>0 of 14 precincts reporting,,<b>Steven Sainz (I)</b><br>0 votes,14,0
-2,,SJC21,Judge - Superior Court - Brunswick Judicial Circuit (Lane)<br>0 of 55 precincts reporting,,<b>Roger B. Lane (I)</b><br>0 votes,55,0
-3,,,Camden County: BOE - District 2<br>0 of 3 precincts reporting,,<b>Allison Murray (I)</b><br>0 votes,3,0
-4,,,Camden County: BOE - District 2<br>0 of 3 precincts reporting,,<b>Spencer D. Wallace</b><br>0 votes,3,0
-5,,,Camden County: BOE - District 4<br>0 of 3 precincts reporting,,<b>Jonathon Blount (I)</b><br>0 votes,3,0
-6,REP,,Camden County: County Commissioner - District 2  - Rep<br>0 of 3 precincts reporting,,<b>C. Ben Goff</b><br>0 votes,3,0
-7,REP,,Camden County: County Commissioner - District 2  - Rep<br>0 of 3 precincts reporting,,<b>Martin A. Turner (I)</b><br>0 votes,3,0
-8,REP,,Camden County: County Commissioner - District 4 - Rep<br>0 of 3 precincts reporting,,<b>Jim Goodman (I)</b><br>0 votes,3,0
+0,REP,SSD3R,State Senate - District 3 - Rep<br>3 of 46 precincts reporting,100.0,"<b>Mike Hodges (I)</b><br>7,538 votes",46,3
+1,REP,SHD180R,State House of Representatives - District 180 - Rep<br>0 of 14 precincts reporting,100.0,"<b>Steven Sainz (I)</b><br>2,315 votes",14,0
+2,,SJC21,Judge - Superior Court - Brunswick Judicial Circuit (Lane)<br>0 of 55 precincts reporting,100.0,"<b>Roger B. Lane (I)</b><br>10,356 votes",55,0
+3,,,Camden County: BOE - District 2<br>0 of 3 precincts reporting,72.31075697211156,<b>Allison Murray (I)</b><br>726 votes,3,0
+4,,,Camden County: BOE - District 2<br>0 of 3 precincts reporting,27.689243027888445,<b>Spencer D. Wallace</b><br>278 votes,3,0
+5,,,Camden County: BOE - District 4<br>0 of 3 precincts reporting,100.0,<b>Jonathon Blount (I)</b><br>895 votes,3,0
+6,REP,,Camden County: County Commissioner - District 2  - Rep<br>0 of 3 precincts reporting,38.96499238964992,<b>C. Ben Goff</b><br>256 votes,3,0
+7,REP,,Camden County: County Commissioner - District 2  - Rep<br>0 of 3 precincts reporting,61.03500761035008,<b>Martin A. Turner (I)</b><br>401 votes,3,0
+8,REP,,Camden County: County Commissioner - District 4 - Rep<br>0 of 3 precincts reporting,100.0,<b>Jim Goodman (I)</b><br>586 votes,3,0
