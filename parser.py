@@ -119,8 +119,8 @@ properties_object = {
 	'title' : my_title + ' ' + election_date_prettified,
 	'describe' : {
 		'intro' : 'Last Updated ' + update_prettified,
-		'source_name' : my_source,
-		'source_url' : my_url,
+		'source-name' : my_source,
+		'source-url' : my_url,
 		# 'description' : election_name + ' ' + election_date_prettfied,
 		'aria-description' : 'Bar graph of ' + my_title + ', last updated at ' + update_prettified + '.  Original data at ' + my_url
 	}
