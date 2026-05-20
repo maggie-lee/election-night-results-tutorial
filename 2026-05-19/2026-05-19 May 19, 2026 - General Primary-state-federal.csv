@@ -1,80 +1,80 @@
 ,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
-744,REP,US2R,US Senate - Rep<br>2565 of 2584 precincts reporting,25.114094666225128,"<b>Earl L. ""Buddy"" Carter</b><br>229,031 votes",2584,2565
-745,REP,US2R,US Senate - Rep<br>2565 of 2584 precincts reporting,40.501577916623724,"<b>Mike Collins</b><br>369,359 votes",2584,2565
-746,REP,US2R,US Senate - Rep<br>2565 of 2584 precincts reporting,1.079101980126365,"<b>John F. Coyne III</b><br>9,841 votes",2584,2565
-747,REP,US2R,US Senate - Rep<br>2565 of 2584 precincts reporting,30.18897717229446,"<b>Derek Dooley</b><br>275,312 votes",2584,2565
-748,REP,US2R,US Senate - Rep<br>2565 of 2584 precincts reporting,3.1162482647303285,"<b>Jonathan ""Jon"" McColumn</b><br>28,419 votes",2584,2565
-743,DEM,US2D,US Senate - Dem<br>2565 of 2584 precincts reporting,100.0,"<b>Jon Ossoff (I)</b><br>1,040,355 votes",2584,2565
-16,REP,S1R,Governor - Rep<br>2565 of 2584 precincts reporting,11.854953577127986,"<b>Chris Carr</b><br>110,613 votes",2584,2565
-17,REP,S1R,Governor - Rep<br>2565 of 2584 precincts reporting,0.7548338625994451,"<b>Clark Dean</b><br>7,043 votes",2584,2565
-18,REP,S1R,Governor - Rep<br>2565 of 2584 precincts reporting,32.51712389328366,"<b>Rick Jackson</b><br>303,402 votes",2584,2565
-19,REP,S1R,Governor - Rep<br>2565 of 2584 precincts reporting,38.35591332968223,"<b>Burt Jones</b><br>357,881 votes",2584,2565
-20,REP,S1R,Governor - Rep<br>2565 of 2584 precincts reporting,0.5931067152669783,"<b>Gregg Kirkpatrick</b><br>5,534 votes",2584,2565
-21,REP,S1R,Governor - Rep<br>2565 of 2584 precincts reporting,15.00172015951934,"<b>Brad Raffensperger</b><br>139,974 votes",2584,2565
-22,REP,S1R,Governor - Rep<br>2565 of 2584 precincts reporting,0.41176653416258246,"<b>Tom Williams</b><br>3,842 votes",2584,2565
-23,REP,S1R,Governor - Rep<br>2565 of 2584 precincts reporting,0.5105819283577675,"<b>Ken Yasger</b><br>4,764 votes",2584,2565
-9,DEM,S1D,Governor - Dem<br>2565 of 2584 precincts reporting,56.21665226479804,"<b>Keisha Lance Bottoms</b><br>606,983 votes",2584,2565
-10,DEM,S1D,Governor - Dem<br>2565 of 2584 precincts reporting,1.1383496292097681,"<b>Olu Brown</b><br>12,291 votes",2584,2565
-11,DEM,S1D,Governor - Dem<br>2565 of 2584 precincts reporting,1.7379489701506223,"<b>Amanda Duffy</b><br>18,765 votes",2584,2565
-12,DEM,S1D,Governor - Dem<br>2565 of 2584 precincts reporting,7.0045872961626205,"<b>Geoff Duncan</b><br>75,630 votes",2584,2565
-13,DEM,S1D,Governor - Dem<br>2565 of 2584 precincts reporting,18.664358663024984,"<b>Jason Esteves</b><br>201,523 votes",2584,2565
-14,DEM,S1D,Governor - Dem<br>2565 of 2584 precincts reporting,2.3132827832375216,"<b>Derrick Jackson</b><br>24,977 votes",2584,2565
-15,DEM,S1D,Governor - Dem<br>2565 of 2584 precincts reporting,12.924820393416447,"<b>Michael ""Mike"" Thurmond</b><br>139,552 votes",2584,2565
-27,REP,S2R,Lieutenant Governor - Rep<br>2565 of 2584 precincts reporting,15.791955895081983,"<b>David Clark</b><br>140,300 votes",2584,2565
-28,REP,S2R,Lieutenant Governor - Rep<br>2565 of 2584 precincts reporting,23.108595303834754,"<b>Greg Dolezal</b><br>205,303 votes",2584,2565
-29,REP,S2R,Lieutenant Governor - Rep<br>2565 of 2584 precincts reporting,11.6564444799629,"<b>Steve Gooch</b><br>103,559 votes",2584,2565
-30,REP,S2R,Lieutenant Governor - Rep<br>2565 of 2584 precincts reporting,27.293069661322768,"<b>John F. Kennedy</b><br>242,479 votes",2584,2565
-31,REP,S2R,Lieutenant Governor - Rep<br>2565 of 2584 precincts reporting,1.9284645784065544,"<b>Brenda Lynn Nelson-Porter</b><br>17,133 votes",2584,2565
-32,REP,S2R,Lieutenant Governor - Rep<br>2565 of 2584 precincts reporting,1.1307625725017363,"<b>Takosha Swan</b><br>10,046 votes",2584,2565
-33,REP,S2R,Lieutenant Governor - Rep<br>2565 of 2584 precincts reporting,19.090707508889306,"<b>Blake Tillery</b><br>169,607 votes",2584,2565
-24,DEM,S2D,Lieutenant Governor - Dem<br>2565 of 2584 precincts reporting,41.4134522872387,"<b>Josh McLaurin</b><br>426,132 votes",2584,2565
-25,DEM,S2D,Lieutenant Governor - Dem<br>2565 of 2584 precincts reporting,39.50309532833805,"<b>Nabilah Parkes</b><br>406,475 votes",2584,2565
-26,DEM,S2D,Lieutenant Governor - Dem<br>2565 of 2584 precincts reporting,19.083452384423257,"<b>Richard N. Wright</b><br>196,363 votes",2584,2565
-38,REP,S3R,Secretary of State - Rep<br>2565 of 2584 precincts reporting,39.21937234905006,"<b>Tim Fleming</b><br>333,800 votes",2584,2565
-39,REP,S3R,Secretary of State - Rep<br>2565 of 2584 precincts reporting,27.291301946869385,"<b>Vernon Jones</b><br>232,279 votes",2584,2565
-40,REP,S3R,Secretary of State - Rep<br>2565 of 2584 precincts reporting,15.94517747412203,"<b>Kelvin King</b><br>135,711 votes",2584,2565
-41,REP,S3R,Secretary of State - Rep<br>2565 of 2584 precincts reporting,5.602566060791203,"<b>Ted Metz</b><br>47,684 votes",2584,2565
-42,REP,S3R,Secretary of State - Rep<br>2565 of 2584 precincts reporting,11.941582169167322,"<b>Gabriel ""Gabe"" Sterling</b><br>101,636 votes",2584,2565
-34,DEM,S3D,Secretary of State - Dem<br>2565 of 2584 precincts reporting,12.310981444560728,"<b>Cam Ashling</b><br>126,338 votes",2584,2565
-35,DEM,S3D,Secretary of State - Dem<br>2565 of 2584 precincts reporting,35.21733114277418,"<b>Dana Barrett</b><br>361,408 votes",2584,2565
-36,DEM,S3D,Secretary of State - Dem<br>2565 of 2584 precincts reporting,42.34005897359441,"<b>Penny Brown Reynolds</b><br>434,503 votes",2584,2565
-37,DEM,S3D,Secretary of State - Dem<br>2565 of 2584 precincts reporting,10.131628439070688,"<b>Adrian Consonery, Jr.</b><br>103,973 votes",2584,2565
-45,REP,S4R,Attorney General - Rep<br>2565 of 2584 precincts reporting,28.3987566816587,"<b>Bill Cowsert</b><br>241,202 votes",2584,2565
-46,REP,S4R,Attorney General - Rep<br>2565 of 2584 precincts reporting,71.6012433183413,"<b>Brian Strickland</b><br>608,138 votes",2584,2565
-43,DEM,S4D,Attorney General - Dem<br>2565 of 2584 precincts reporting,84.54751170402525,"<b>Tanya Miller</b><br>878,775 votes",2584,2565
-44,DEM,S4D,Attorney General - Dem<br>2565 of 2584 precincts reporting,15.452488295974739,"<b>Robert ""Bob"" Trammell</b><br>160,611 votes",2584,2565
-49,REP,S5R,Commissioner of Agriculture - Rep<br>2565 of 2584 precincts reporting,100.0,"<b>Tyler Harper (I)</b><br>820,194 votes",2584,2565
-47,DEM,S5D,Commissioner of Agriculture - Dem<br>2565 of 2584 precincts reporting,62.114382105051504,"<b>Katherine E. Juhan-Arnold</b><br>627,095 votes",2584,2565
-48,DEM,S5D,Commissioner of Agriculture - Dem<br>2565 of 2584 precincts reporting,37.885617894948496,"<b>Sedrick Kent Rowe, Jr.</b><br>382,486 votes",2584,2565
-55,REP,S6R,Commissioner of Insurance - Rep<br>2565 of 2584 precincts reporting,100.0,"<b>John King (I)</b><br>797,012 votes",2584,2565
-50,DEM,S6D,Commissioner of Insurance - Dem<br>2565 of 2584 precincts reporting,17.803569936240603,"<b>Clarence Blalock</b><br>181,081 votes",2584,2565
-51,DEM,S6D,Commissioner of Insurance - Dem<br>2565 of 2584 precincts reporting,8.346434242285703,"<b>Thomas Dean</b><br>84,892 votes",2584,2565
-52,DEM,S6D,Commissioner of Insurance - Dem<br>2565 of 2584 precincts reporting,12.016655114270405,"<b>Ambuj ""AJ"" Jain</b><br>122,222 votes",2584,2565
-53,DEM,S6D,Commissioner of Insurance - Dem<br>2565 of 2584 precincts reporting,19.803756740946117,"<b>DeAndre Mathis</b><br>201,425 votes",2584,2565
-54,DEM,S6D,Commissioner of Insurance - Dem<br>2565 of 2584 precincts reporting,42.02958396625717,"<b>Keisha Sean Waites</b><br>427,485 votes",2584,2565
-59,REP,S7R,State School Superintendent - Rep<br>2565 of 2584 precincts reporting,2.86541989068596,"<b>Nelva Lee</b><br>24,619 votes",2584,2565
-60,REP,S7R,State School Superintendent - Rep<br>2565 of 2584 precincts reporting,29.095319236105293,"<b>Fred ""Bubba"" Longgrear</b><br>249,980 votes",2584,2565
-61,REP,S7R,State School Superintendent - Rep<br>2565 of 2584 precincts reporting,4.0736705867016765,"<b>Mesha Mainor</b><br>35,000 votes",2584,2565
-62,REP,S7R,State School Superintendent - Rep<br>2565 of 2584 precincts reporting,14.078605547640995,"<b>Randell E. Trammell</b><br>120,960 votes",2584,2565
-63,REP,S7R,State School Superintendent - Rep<br>2565 of 2584 precincts reporting,49.886984738866076,"<b>Richard Woods (I)</b><br>428,617 votes",2584,2565
-56,DEM,S7D,State School Superintendent - Dem<br>2565 of 2584 precincts reporting,29.800821223336182,"<b>Anton Anthony</b><br>301,556 votes",2584,2565
-57,DEM,S7D,State School Superintendent - Dem<br>2565 of 2584 precincts reporting,50.48517400348847,"<b>Lydia Powell</b><br>510,862 votes",2584,2565
-58,DEM,S7D,State School Superintendent - Dem<br>2565 of 2584 precincts reporting,19.714004773175347,"<b>Otha Thornton</b><br>199,487 votes",2584,2565
-69,REP,S8R,Commissioner of Labor - Rep<br>2565 of 2584 precincts reporting,100.0,"<b>Bárbara Rivera Holmes (I)</b><br>775,173 votes",2584,2565
-64,DEM,S8D,Commissioner of Labor - Dem<br>2565 of 2584 precincts reporting,19.807768735759314,"<b>Brett A. Hulme</b><br>199,859 votes",2584,2565
-65,DEM,S8D,Commissioner of Labor - Dem<br>2565 of 2584 precincts reporting,10.035451187471073,"<b>Jason Moon</b><br>101,257 votes",2584,2565
-66,DEM,S8D,Commissioner of Labor - Dem<br>2565 of 2584 precincts reporting,30.779103522026418,"<b>Nikki Porcher</b><br>310,559 votes",2584,2565
-67,DEM,S8D,Commissioner of Labor - Dem<br>2565 of 2584 precincts reporting,25.86023887182567,"<b>Michelle Michi Sanchez</b><br>260,928 votes",2584,2565
-68,DEM,S8D,Commissioner of Labor - Dem<br>2565 of 2584 precincts reporting,13.517437682917521,"<b>Christian Wise Smith</b><br>136,390 votes",2584,2565
-1,REP,S11R,PSC - District 3 - Rep<br>2565 of 2584 precincts reporting,50.18991216481824,"<b>Fitz Johnson</b><br>389,416 votes",2584,2565
-2,REP,S11R,PSC - District 3 - Rep<br>2565 of 2584 precincts reporting,49.81008783518176,"<b>Brandon Martin</b><br>386,469 votes",2584,2565
-0,DEM,S11D,PSC - District 3 - Dem<br>2565 of 2584 precincts reporting,100.0,"<b>Peter Hubbard (I)</b><br>942,764 votes",2584,2565
-6,REP,S13R,PSC - District 5 - Rep<br>2565 of 2584 precincts reporting,31.060391595721683,"<b>Bobby Mehan</b><br>241,379 votes",2584,2565
-7,REP,S13R,PSC - District 5 - Rep<br>2565 of 2584 precincts reporting,21.779938439999587,"<b>Carolyn Tatum Roddy</b><br>169,258 votes",2584,2565
-8,REP,S13R,PSC - District 5 - Rep<br>2565 of 2584 precincts reporting,47.15966996427873,"<b>Josh Tolbert</b><br>366,491 votes",2584,2565
-3,DEM,S13D,PSC - District 5 - Dem<br>2565 of 2584 precincts reporting,18.381731068533515,"<b>Craig Cupid</b><br>183,655 votes",2584,2565
-4,DEM,S13D,PSC - District 5 - Dem<br>2565 of 2584 precincts reporting,55.686871507541156,"<b>Shelia Edwards</b><br>556,377 votes",2584,2565
-5,DEM,S13D,PSC - District 5 - Dem<br>2565 of 2584 precincts reporting,25.93139742392533,"<b>Angelia Pressley</b><br>259,085 votes",2584,2565
+744,REP,US2R,US Senate - Rep<br>2567 of 2584 precincts reporting,25.113306714203958,"<b>Earl L. ""Buddy"" Carter</b><br>229,065 votes",2584,2567
+745,REP,US2R,US Senate - Rep<br>2567 of 2584 precincts reporting,40.49868110326863,"<b>Mike Collins</b><br>369,399 votes",2584,2567
+746,REP,US2R,US Senate - Rep<br>2567 of 2584 precincts reporting,1.0790175918677902,"<b>John F. Coyne III</b><br>9,842 votes",2584,2567
+747,REP,US2R,US Senate - Rep<br>2567 of 2584 precincts reporting,30.192868090592746,"<b>Derek Dooley</b><br>275,397 votes",2584,2567
+748,REP,US2R,US Senate - Rep<br>2567 of 2584 precincts reporting,3.1161265000668767,"<b>Jonathan ""Jon"" McColumn</b><br>28,423 votes",2584,2567
+743,DEM,US2D,US Senate - Dem<br>2567 of 2584 precincts reporting,100.0,"<b>Jon Ossoff (I)</b><br>1,040,769 votes",2584,2567
+16,REP,S1R,Governor - Rep<br>2567 of 2584 precincts reporting,11.856223003505058,"<b>Chris Carr</b><br>110,645 votes",2584,2567
+17,REP,S1R,Governor - Rep<br>2567 of 2584 precincts reporting,0.7550178253214934,"<b>Clark Dean</b><br>7,046 votes",2584,2567
+18,REP,S1R,Governor - Rep<br>2567 of 2584 precincts reporting,32.516022429794376,"<b>Rick Jackson</b><br>303,447 votes",2584,2567
+19,REP,S1R,Governor - Rep<br>2567 of 2584 precincts reporting,38.3540697132411,"<b>Burt Jones</b><br>357,929 votes",2584,2567
+20,REP,S1R,Governor - Rep<br>2567 of 2584 precincts reporting,0.5931058278675085,"<b>Gregg Kirkpatrick</b><br>5,535 votes",2584,2567
+21,REP,S1R,Governor - Rep<br>2567 of 2584 precincts reporting,15.003273601272149,"<b>Brad Raffensperger</b><br>140,014 votes",2584,2567
+22,REP,S1R,Governor - Rep<br>2567 of 2584 precincts reporting,0.41179868048687185,"<b>Tom Williams</b><br>3,843 votes",2584,2567
+23,REP,S1R,Governor - Rep<br>2567 of 2584 precincts reporting,0.5104889185114383,"<b>Ken Yasger</b><br>4,764 votes",2584,2567
+9,DEM,S1D,Governor - Dem<br>2567 of 2584 precincts reporting,56.21635883905013,"<b>Keisha Lance Bottoms</b><br>607,221 votes",2584,2567
+10,DEM,S1D,Governor - Dem<br>2567 of 2584 precincts reporting,1.1388233115770958,"<b>Olu Brown</b><br>12,301 votes",2584,2567
+11,DEM,S1D,Governor - Dem<br>2567 of 2584 precincts reporting,1.7379067722075636,"<b>Amanda Duffy</b><br>18,772 votes",2584,2567
+12,DEM,S1D,Governor - Dem<br>2567 of 2584 precincts reporting,7.004490117113364,"<b>Geoff Duncan</b><br>75,659 votes",2584,2567
+13,DEM,S1D,Governor - Dem<br>2567 of 2584 precincts reporting,18.667407304541037,"<b>Jason Esteves</b><br>201,636 votes",2584,2567
+14,DEM,S1D,Governor - Dem<br>2567 of 2584 precincts reporting,2.31338240059251,"<b>Derrick Jackson</b><br>24,988 votes",2584,2567
+15,DEM,S1D,Governor - Dem<br>2567 of 2584 precincts reporting,12.921631254918298,"<b>Michael ""Mike"" Thurmond</b><br>139,573 votes",2584,2567
+27,REP,S2R,Lieutenant Governor - Rep<br>2567 of 2584 precincts reporting,15.791055156603969,"<b>David Clark</b><br>140,316 votes",2584,2567
+28,REP,S2R,Lieutenant Governor - Rep<br>2567 of 2584 precincts reporting,23.10936900376894,"<b>Greg Dolezal</b><br>205,345 votes",2584,2567
+29,REP,S2R,Lieutenant Governor - Rep<br>2567 of 2584 precincts reporting,11.655575925156908,"<b>Steve Gooch</b><br>103,569 votes",2584,2567
+30,REP,S2R,Lieutenant Governor - Rep<br>2567 of 2584 precincts reporting,27.294252958937808,"<b>John F. Kennedy</b><br>242,531 votes",2584,2567
+31,REP,S2R,Lieutenant Governor - Rep<br>2567 of 2584 precincts reporting,1.9283597744263594,"<b>Brenda Lynn Nelson-Porter</b><br>17,135 votes",2584,2567
+32,REP,S2R,Lieutenant Governor - Rep<br>2567 of 2584 precincts reporting,1.1307942231360408,"<b>Takosha Swan</b><br>10,048 votes",2584,2567
+33,REP,S2R,Lieutenant Governor - Rep<br>2567 of 2584 precincts reporting,19.090592957969974,"<b>Blake Tillery</b><br>169,635 votes",2584,2567
+24,DEM,S2D,Lieutenant Governor - Dem<br>2567 of 2584 precincts reporting,41.41396478445659,"<b>Josh McLaurin</b><br>426,305 votes",2584,2567
+25,DEM,S2D,Lieutenant Governor - Dem<br>2567 of 2584 precincts reporting,39.50523375834851,"<b>Nabilah Parkes</b><br>406,657 votes",2584,2567
+26,DEM,S2D,Lieutenant Governor - Dem<br>2567 of 2584 precincts reporting,19.080801457194898,"<b>Richard N. Wright</b><br>196,413 votes",2584,2567
+38,REP,S3R,Secretary of State - Rep<br>2567 of 2584 precincts reporting,39.2180794889476,"<b>Tim Fleming</b><br>333,849 votes",2584,2567
+39,REP,S3R,Secretary of State - Rep<br>2567 of 2584 precincts reporting,27.28945108620955,"<b>Vernon Jones</b><br>232,305 votes",2584,2567
+40,REP,S3R,Secretary of State - Rep<br>2567 of 2584 precincts reporting,15.945013468223099,"<b>Kelvin King</b><br>135,734 votes",2584,2567
+41,REP,S3R,Secretary of State - Rep<br>2567 of 2584 precincts reporting,5.602263930183739,"<b>Ted Metz</b><br>47,690 votes",2584,2567
+42,REP,S3R,Secretary of State - Rep<br>2567 of 2584 precincts reporting,11.945192026436013,"<b>Gabriel ""Gabe"" Sterling</b><br>101,685 votes",2584,2567
+34,DEM,S3D,Secretary of State - Dem<br>2567 of 2584 precincts reporting,12.311251375860827,"<b>Cam Ashling</b><br>126,391 votes",2584,2567
+35,DEM,S3D,Secretary of State - Dem<br>2567 of 2584 precincts reporting,35.21853053193458,"<b>Dana Barrett</b><br>361,564 votes",2584,2567
+36,DEM,S3D,Secretary of State - Dem<br>2567 of 2584 precincts reporting,42.339499137956224,"<b>Penny Brown Reynolds</b><br>434,670 votes",2584,2567
+37,DEM,S3D,Secretary of State - Dem<br>2567 of 2584 precincts reporting,10.130718954248366,"<b>Adrian Consonery, Jr.</b><br>104,005 votes",2584,2567
+45,REP,S4R,Attorney General - Rep<br>2567 of 2584 precincts reporting,28.399306871717116,"<b>Bill Cowsert</b><br>241,247 votes",2584,2567
+46,REP,S4R,Attorney General - Rep<br>2567 of 2584 precincts reporting,71.60069312828288,"<b>Brian Strickland</b><br>608,235 votes",2584,2567
+43,DEM,S4D,Attorney General - Dem<br>2567 of 2584 precincts reporting,84.54683592998654,"<b>Tanya Miller</b><br>879,118 votes",2584,2567
+44,DEM,S4D,Attorney General - Dem<br>2567 of 2584 precincts reporting,15.453164070013464,"<b>Robert ""Bob"" Trammell</b><br>160,682 votes",2584,2567
+49,REP,S5R,Commissioner of Agriculture - Rep<br>2567 of 2584 precincts reporting,100.0,"<b>Tyler Harper (I)</b><br>820,334 votes",2584,2567
+47,DEM,S5D,Commissioner of Agriculture - Dem<br>2567 of 2584 precincts reporting,62.11542593375518,"<b>Katherine E. Juhan-Arnold</b><br>627,354 votes",2584,2567
+48,DEM,S5D,Commissioner of Agriculture - Dem<br>2567 of 2584 precincts reporting,37.88457406624481,"<b>Sedrick Kent Rowe, Jr.</b><br>382,627 votes",2584,2567
+55,REP,S6R,Commissioner of Insurance - Rep<br>2567 of 2584 precincts reporting,100.0,"<b>John King (I)</b><br>797,145 votes",2584,2567
+50,DEM,S6D,Commissioner of Insurance - Dem<br>2567 of 2584 precincts reporting,17.802271241910358,"<b>Clarence Blalock</b><br>181,139 votes",2584,2567
+51,DEM,S6D,Commissioner of Insurance - Dem<br>2567 of 2584 precincts reporting,8.345216976820753,"<b>Thomas Dean</b><br>84,913 votes",2584,2567
+52,DEM,S6D,Commissioner of Insurance - Dem<br>2567 of 2584 precincts reporting,12.018122761067513,"<b>Ambuj ""AJ"" Jain</b><br>122,285 votes",2584,2567
+53,DEM,S6D,Commissioner of Insurance - Dem<br>2567 of 2584 precincts reporting,19.803342489717497,"<b>DeAndre Mathis</b><br>201,500 votes",2584,2567
+54,DEM,S6D,Commissioner of Insurance - Dem<br>2567 of 2584 precincts reporting,42.03104653048388,"<b>Keisha Sean Waites</b><br>427,668 votes",2584,2567
+59,REP,S7R,State School Superintendent - Rep<br>2567 of 2584 precincts reporting,2.865159125079714,"<b>Nelva Lee</b><br>24,621 votes",2584,2567
+60,REP,S7R,State School Superintendent - Rep<br>2567 of 2584 precincts reporting,29.095661240696174,"<b>Fred ""Bubba"" Longgrear</b><br>250,026 votes",2584,2567
+61,REP,S7R,State School Superintendent - Rep<br>2567 of 2584 precincts reporting,4.075063654686708,"<b>Mesha Mainor</b><br>35,018 votes",2584,2567
+62,REP,S7R,State School Superintendent - Rep<br>2567 of 2584 precincts reporting,14.07874096382738,"<b>Randell E. Trammell</b><br>120,982 votes",2584,2567
+63,REP,S7R,State School Superintendent - Rep<br>2567 of 2584 precincts reporting,49.88537501571002,"<b>Richard Woods (I)</b><br>428,677 votes",2584,2567
+56,DEM,S7D,State School Superintendent - Dem<br>2567 of 2584 precincts reporting,29.801492633149103,"<b>Anton Anthony</b><br>301,682 votes",2584,2567
+57,DEM,S7D,State School Superintendent - Dem<br>2567 of 2584 precincts reporting,50.483895663856245,"<b>Lydia Powell</b><br>511,051 votes",2584,2567
+58,DEM,S7D,State School Superintendent - Dem<br>2567 of 2584 precincts reporting,19.71461170299465,"<b>Otha Thornton</b><br>199,572 votes",2584,2567
+69,REP,S8R,Commissioner of Labor - Rep<br>2567 of 2584 precincts reporting,100.0,"<b>Bárbara Rivera Holmes (I)</b><br>775,302 votes",2584,2567
+64,DEM,S8D,Commissioner of Labor - Dem<br>2567 of 2584 precincts reporting,19.805348555668054,"<b>Brett A. Hulme</b><br>199,914 votes",2584,2567
+65,DEM,S8D,Commissioner of Labor - Dem<br>2567 of 2584 precincts reporting,10.034931850199229,"<b>Jason Moon</b><br>101,292 votes",2584,2567
+66,DEM,S8D,Commissioner of Labor - Dem<br>2567 of 2584 precincts reporting,30.779754981701892,"<b>Nikki Porcher</b><br>310,689 votes",2584,2567
+67,DEM,S8D,Commissioner of Labor - Dem<br>2567 of 2584 precincts reporting,25.86304257802206,"<b>Michelle Michi Sanchez</b><br>261,060 votes",2584,2567
+68,DEM,S8D,Commissioner of Labor - Dem<br>2567 of 2584 precincts reporting,13.516922034408765,"<b>Christian Wise Smith</b><br>136,439 votes",2584,2567
+1,REP,S11R,PSC - District 3 - Rep<br>2567 of 2584 precincts reporting,50.19123514190576,"<b>Fitz Johnson</b><br>389,488 votes",2584,2567
+2,REP,S11R,PSC - District 3 - Rep<br>2567 of 2584 precincts reporting,49.80876485809424,"<b>Brandon Martin</b><br>386,520 votes",2584,2567
+0,DEM,S11D,PSC - District 3 - Dem<br>2567 of 2584 precincts reporting,100.0,"<b>Peter Hubbard (I)</b><br>943,140 votes",2584,2567
+6,REP,S13R,PSC - District 5 - Rep<br>2567 of 2584 precincts reporting,31.058621612441716,"<b>Bobby Mehan</b><br>241,405 votes",2584,2567
+7,REP,S13R,PSC - District 5 - Rep<br>2567 of 2584 precincts reporting,21.78059738361621,"<b>Carolyn Tatum Roddy</b><br>169,291 votes",2584,2567
+8,REP,S13R,PSC - District 5 - Rep<br>2567 of 2584 precincts reporting,47.16078100394207,"<b>Josh Tolbert</b><br>366,560 votes",2584,2567
+3,DEM,S13D,PSC - District 5 - Dem<br>2567 of 2584 precincts reporting,18.38144367028578,"<b>Craig Cupid</b><br>183,724 votes",2584,2567
+4,DEM,S13D,PSC - District 5 - Dem<br>2567 of 2584 precincts reporting,55.686697855344825,"<b>Shelia Edwards</b><br>556,593 votes",2584,2567
+5,DEM,S13D,PSC - District 5 - Dem<br>2567 of 2584 precincts reporting,25.931858474369392,"<b>Angelia Pressley</b><br>259,191 votes",2584,2567
 795,REP,USH1R,US House of Representatives - District 1 - Rep<br>213 of 213 precincts reporting,17.247870021795126,"<b>Pat Farrell</b><br>12,187 votes",213,213
 796,REP,USH1R,US House of Representatives - District 1 - Rep<br>213 of 213 precincts reporting,52.373404285431235,"<b>James ""Jim"" Kingston</b><br>37,006 votes",213,213
 797,REP,USH1R,US House of Representatives - District 1 - Rep<br>213 of 213 precincts reporting,10.025757875965919,"<b>Brian Montgomery</b><br>7,084 votes",213,213
@@ -91,27 +91,27 @@
 794,DEM,USH1D,US House of Representatives - District 1 - Dem<br>213 of 213 precincts reporting,2.6559518181977344,"<b>Randy Zurcher</b><br>1,517 votes",213,213
 802,REP,USH2R,US House of Representatives - District 2 - Rep<br>219 of 219 precincts reporting,100.0,"<b>Matt Day</b><br>42,617 votes",219,219
 801,DEM,USH2D,US House of Representatives - District 2 - Dem<br>219 of 219 precincts reporting,100.0,"<b>Sanford Bishop (I)</b><br>72,452 votes",219,219
-805,REP,USH3R,US House of Representatives - District 3 - Rep<br>180 of 180 precincts reporting,100.0,"<b>Brian Jack (I)</b><br>87,616 votes",180,180
-803,DEM,USH3D,US House of Representatives - District 3 - Dem<br>180 of 180 precincts reporting,39.1762555113453,"<b>George Melville Johnson</b><br>21,858 votes",180,180
-804,DEM,USH3D,US House of Representatives - District 3 - Dem<br>180 of 180 precincts reporting,60.8237444886547,"<b>Maura Keller</b><br>33,936 votes",180,180
+805,REP,USH3R,US House of Representatives - District 3 - Rep<br>180 of 180 precincts reporting,100.0,"<b>Brian Jack (I)</b><br>87,623 votes",180,180
+803,DEM,USH3D,US House of Representatives - District 3 - Dem<br>180 of 180 precincts reporting,39.18139134798036,"<b>George Melville Johnson</b><br>21,864 votes",180,180
+804,DEM,USH3D,US House of Representatives - District 3 - Dem<br>180 of 180 precincts reporting,60.81860865201965,"<b>Maura Keller</b><br>33,938 votes",180,180
 809,REP,USH4R,US House of Representatives - District 4 - Rep<br>168 of 168 precincts reporting,100.0,"<b>Jim Duffie</b><br>17,381 votes",168,168
 806,DEM,USH4D,US House of Representatives - District 4 - Dem<br>168 of 168 precincts reporting,79.30520611573448,"<b>Henry ""Hank"" Johnson, Jr. (I)</b><br>81,954 votes",168,168
 807,DEM,USH4D,US House of Representatives - District 4 - Dem<br>168 of 168 precincts reporting,11.646022837236307,"<b>Ansel Postell</b><br>12,035 votes",168,168
 808,DEM,USH4D,US House of Representatives - District 4 - Dem<br>168 of 168 precincts reporting,9.048771047029224,"<b>Ben Truman</b><br>9,351 votes",168,168
 812,REP,USH5R,US House of Representatives - District 5 - Rep<br>254 of 256 precincts reporting,100.0,"<b>John ""Bongo"" Salvesen</b><br>9,543 votes",256,254
-810,DEM,USH5D,US House of Representatives - District 5 - Dem<br>254 of 256 precincts reporting,12.01069796812897,"<b>Arnetress Beatty</b><br>16,167 votes",256,254
-811,DEM,USH5D,US House of Representatives - District 5 - Dem<br>254 of 256 precincts reporting,87.98930203187103,"<b>Nikema Williams (I)</b><br>118,438 votes",256,254
-814,REP,USH6R,US House of Representatives - District 6 - Rep<br>226 of 241 precincts reporting,70.11188287651291,"<b>Kevin E. Martin</b><br>16,857 votes",241,226
-815,REP,USH6R,US House of Representatives - District 6 - Rep<br>226 of 241 precincts reporting,29.888117123487085,"<b>Justin Pinker</b><br>7,186 votes",241,226
-813,DEM,USH6D,US House of Representatives - District 6 - Dem<br>226 of 241 precincts reporting,100.0,"<b>Lucy McBath (I)</b><br>126,383 votes",241,226
-820,REP,USH7R,US House of Representatives - District 7 - Rep<br>169 of 171 precincts reporting,100.0,"<b>Rich McCormick (I)</b><br>83,566 votes",171,169
-816,DEM,USH7D,US House of Representatives - District 7 - Dem<br>169 of 171 precincts reporting,40.0277375537925,"<b>Tony Kozycki</b><br>19,626 votes",171,169
-817,DEM,USH7D,US House of Representatives - District 7 - Dem<br>169 of 171 precincts reporting,18.726927861964878,"<b>Larry D. Long</b><br>9,182 votes",171,169
-818,DEM,USH7D,US House of Representatives - District 7 - Dem<br>169 of 171 precincts reporting,22.349126063102933,"<b>Case Norton</b><br>10,958 votes",171,169
-819,DEM,USH7D,US House of Representatives - District 7 - Dem<br>169 of 171 precincts reporting,18.896208521139688,"<b>Jayson Toweh</b><br>9,265 votes",171,169
-823,REP,USH8R,US House of Representatives - District 8 - Rep<br>203 of 203 precincts reporting,100.0,"<b>Austin Scott (I)</b><br>72,008 votes",203,203
-821,DEM,USH8D,US House of Representatives - District 8 - Dem<br>203 of 203 precincts reporting,53.47562345540327,"<b>Kelly Esti</b><br>23,802 votes",203,203
-822,DEM,USH8D,US House of Representatives - District 8 - Dem<br>203 of 203 precincts reporting,46.52437654459672,"<b>Justin M. Lucas</b><br>20,708 votes",203,203
+810,DEM,USH5D,US House of Representatives - District 5 - Dem<br>254 of 256 precincts reporting,12.01043028646143,"<b>Arnetress Beatty</b><br>16,167 votes",256,254
+811,DEM,USH5D,US House of Representatives - District 5 - Dem<br>254 of 256 precincts reporting,87.98956971353857,"<b>Nikema Williams (I)</b><br>118,441 votes",256,254
+814,REP,USH6R,US House of Representatives - District 6 - Rep<br>226 of 241 precincts reporting,70.10103529998753,"<b>Kevin E. Martin</b><br>16,860 votes",241,226
+815,REP,USH6R,US House of Representatives - District 6 - Rep<br>226 of 241 precincts reporting,29.898964700012478,"<b>Justin Pinker</b><br>7,191 votes",241,226
+813,DEM,USH6D,US House of Representatives - District 6 - Dem<br>226 of 241 precincts reporting,100.0,"<b>Lucy McBath (I)</b><br>126,425 votes",241,226
+820,REP,USH7R,US House of Representatives - District 7 - Rep<br>171 of 171 precincts reporting,100.0,"<b>Rich McCormick (I)</b><br>83,689 votes",171,171
+816,DEM,USH7D,US House of Representatives - District 7 - Dem<br>171 of 171 precincts reporting,39.950980392156865,"<b>Tony Kozycki</b><br>19,723 votes",171,171
+817,DEM,USH7D,US House of Representatives - District 7 - Dem<br>171 of 171 precincts reporting,18.755064009074705,"<b>Larry D. Long</b><br>9,259 votes",171,171
+818,DEM,USH7D,US House of Representatives - District 7 - Dem<br>171 of 171 precincts reporting,22.344433641225084,"<b>Case Norton</b><br>11,031 votes",171,171
+819,DEM,USH7D,US House of Representatives - District 7 - Dem<br>171 of 171 precincts reporting,18.949521957543347,"<b>Jayson Toweh</b><br>9,355 votes",171,171
+823,REP,USH8R,US House of Representatives - District 8 - Rep<br>203 of 203 precincts reporting,100.0,"<b>Austin Scott (I)</b><br>72,010 votes",203,203
+821,DEM,USH8D,US House of Representatives - District 8 - Dem<br>203 of 203 precincts reporting,53.47771387491014,"<b>Kelly Esti</b><br>23,804 votes",203,203
+822,DEM,USH8D,US House of Representatives - District 8 - Dem<br>203 of 203 precincts reporting,46.52228612508986,"<b>Justin M. Lucas</b><br>20,708 votes",203,203
 826,REP,USH9R,US House of Representatives - District 9 - Rep<br>143 of 143 precincts reporting,75.97306119793079,"<b>Andrew Clyde (I)</b><br>70,054 votes",143,143
 827,REP,USH9R,US House of Representatives - District 9 - Rep<br>143 of 143 precincts reporting,12.06172933227776,"<b>Sam Couvillon</b><br>11,122 votes",143,143
 828,REP,USH9R,US House of Representatives - District 9 - Rep<br>143 of 143 precincts reporting,11.965209469791452,"<b>Gregg Poole</b><br>11,033 votes",143,143
@@ -184,13 +184,13 @@
 609,DEM,SSD12D,State Senate - District 12 - Dem<br>83 of 83 precincts reporting,53.80991396968455,"<b>Edward Brown</b><br>7,881 votes",83,83
 610,DEM,SSD12D,State Senate - District 12 - Dem<br>83 of 83 precincts reporting,28.191997815103097,"<b>Corey B. Morgan</b><br>4,129 votes",83,83
 611,DEM,SSD12D,State Senate - District 12 - Dem<br>83 of 83 precincts reporting,17.998088215212345,"<b>Tracy Taylor</b><br>2,636 votes",83,83
-612,REP,SSD13R,State Senate - District 13 - Rep<br>51 of 51 precincts reporting,100.0,"<b>Carden H. Summers (I)</b><br>19,319 votes",51,51
-616,REP,SSD14R,State Senate - District 14 - Rep<br>67 of 70 precincts reporting,63.78983634797588,"<b>Mike Dvorscak</b><br>7,406 votes",70,67
-617,REP,SSD14R,State Senate - District 14 - Rep<br>67 of 70 precincts reporting,10.051679586563306,"<b>Tamara Johnson-Shealey</b><br>1,167 votes",70,67
-618,REP,SSD14R,State Senate - District 14 - Rep<br>67 of 70 precincts reporting,26.158484065460808,"<b>Carson McQueen</b><br>3,037 votes",70,67
-613,DEM,SSD14D,State Senate - District 14 - Dem<br>67 of 70 precincts reporting,37.51265438347844,"<b>Kevin Abel</b><br>7,411 votes",70,67
-614,DEM,SSD14D,State Senate - District 14 - Dem<br>67 of 70 precincts reporting,29.89977728285078,"<b>Kay Howell</b><br>5,907 votes",70,67
-615,DEM,SSD14D,State Senate - District 14 - Dem<br>67 of 70 precincts reporting,32.58756833367079,"<b>Nathalie J. Kanani</b><br>6,438 votes",70,67
+612,REP,SSD13R,State Senate - District 13 - Rep<br>51 of 51 precincts reporting,100.0,"<b>Carden H. Summers (I)</b><br>19,320 votes",51,51
+616,REP,SSD14R,State Senate - District 14 - Rep<br>69 of 70 precincts reporting,63.789132474622534,"<b>Mike Dvorscak</b><br>7,478 votes",70,69
+617,REP,SSD14R,State Senate - District 14 - Rep<br>69 of 70 precincts reporting,10.091273564787171,"<b>Tamara Johnson-Shealey</b><br>1,183 votes",70,69
+618,REP,SSD14R,State Senate - District 14 - Rep<br>69 of 70 precincts reporting,26.119593960590294,"<b>Carson McQueen</b><br>3,062 votes",70,69
+613,DEM,SSD14D,State Senate - District 14 - Dem<br>69 of 70 precincts reporting,37.44092333714741,"<b>Kevin Abel</b><br>7,526 votes",70,69
+614,DEM,SSD14D,State Senate - District 14 - Dem<br>69 of 70 precincts reporting,29.948758768220486,"<b>Kay Howell</b><br>6,020 votes",70,69
+615,DEM,SSD14D,State Senate - District 14 - Dem<br>69 of 70 precincts reporting,32.610317894632104,"<b>Nathalie J. Kanani</b><br>6,555 votes",70,69
 622,REP,SSD15R,State Senate - District 15 - Rep<br>39 of 39 precincts reporting,100.0,"<b>Chuck Hand</b><br>6,675 votes",39,39
 619,DEM,SSD15D,State Senate - District 15 - Dem<br>39 of 39 precincts reporting,27.316857899382168,"<b>Edward D Harbison</b><br>5,571 votes",39,39
 620,DEM,SSD15D,State Senate - District 15 - Dem<br>39 of 39 precincts reporting,58.75747768951653,"<b>Tremaine ""Teddy"" Reese</b><br>11,983 votes",39,39
@@ -207,7 +207,7 @@
 597,REP,SS19R,State Senate - District 19 - Rep<br>64 of 64 precincts reporting,57.07052603279864,"<b>David Sikes</b><br>12,737 votes",64,64
 593,DEM,SS19D,State Senate - District 19 - Dem<br>64 of 64 precincts reporting,33.093974399000935,"<b>Eddy Delgado</b><br>2,120 votes",64,64
 594,DEM,SS19D,State Senate - District 19 - Dem<br>64 of 64 precincts reporting,66.90602560099906,"<b>Joshua C. Wilkerson</b><br>4,286 votes",64,64
-633,REP,SSD20R,State Senate - District 20 - Rep<br>44 of 44 precincts reporting,100.0,"<b>Larry Walker (I)</b><br>20,557 votes",44,44
+633,REP,SSD20R,State Senate - District 20 - Rep<br>44 of 44 precincts reporting,100.0,"<b>Larry Walker (I)</b><br>20,558 votes",44,44
 635,REP,SSD21R,State Senate - District 21 - Rep<br>47 of 47 precincts reporting,100.0,"<b>Jason T. Dickerson (I)</b><br>24,373 votes",47,47
 634,DEM,SSD21D,State Senate - District 21 - Dem<br>47 of 47 precincts reporting,100.0,"<b>Kori Simmons</b><br>11,054 votes",47,47
 636,DEM,SSD22D,State Senate - District 22 - Dem<br>57 of 57 precincts reporting,100.0,"<b>Harold V. Jones II (I)</b><br>24,449 votes",57,57
@@ -226,12 +226,12 @@
 650,REP,SSD27R,State Senate - District 27 - Rep<br>24 of 24 precincts reporting,9.00038794775637,"<b>Marc Martinelli</b><br>2,088 votes",24,24
 651,REP,SSD27R,State Senate - District 27 - Rep<br>24 of 24 precincts reporting,31.247036510194405,"<b>Carter Patterson</b><br>7,249 votes",24,24
 647,DEM,SSD27D,State Senate - District 27 - Dem<br>24 of 24 precincts reporting,100.0,"<b>Jessica Roper</b><br>8,591 votes",24,24
-652,DEM,SSD28D,State Senate - District 28 - Dem<br>51 of 53 precincts reporting,82.68933079304597,"<b>Donzella James (I)</b><br>27,777 votes",53,51
-653,DEM,SSD28D,State Senate - District 28 - Dem<br>51 of 53 precincts reporting,17.31066920695404,"<b>Mel Keyton</b><br>5,815 votes",53,51
+652,DEM,SSD28D,State Senate - District 28 - Dem<br>51 of 53 precincts reporting,82.69287966212599,"<b>Donzella James (I)</b><br>27,803 votes",53,51
+653,DEM,SSD28D,State Senate - District 28 - Dem<br>51 of 53 precincts reporting,17.30712033787401,"<b>Mel Keyton</b><br>5,819 votes",53,51
 655,REP,SSD29R,State Senate - District 29 - Rep<br>46 of 46 precincts reporting,100.0,"<b>Randy Robertson (I)</b><br>19,711 votes",46,46
 654,DEM,SSD29D,State Senate - District 29 - Dem<br>46 of 46 precincts reporting,100.0,"<b>Jeff Lowe</b><br>13,032 votes",46,46
-658,REP,SSD30R,State Senate - District 30 - Rep<br>43 of 43 precincts reporting,100.0,"<b>Timothy J. Bearden (I)</b><br>17,492 votes",43,43
-657,DEM,SSD30D,State Senate - District 30 - Dem<br>43 of 43 precincts reporting,100.0,"<b>Wanda Cooper</b><br>13,003 votes",43,43
+658,REP,SSD30R,State Senate - District 30 - Rep<br>43 of 43 precincts reporting,100.0,"<b>Timothy J. Bearden (I)</b><br>17,501 votes",43,43
+657,DEM,SSD30D,State Senate - District 30 - Dem<br>43 of 43 precincts reporting,100.0,"<b>Wanda Cooper</b><br>13,016 votes",43,43
 661,REP,SSD31R,State Senate - District 31 - Rep<br>27 of 27 precincts reporting,79.3046995377504,"<b>Jason R. Anavitarte (I)</b><br>16,470 votes",27,27
 662,REP,SSD31R,State Senate - District 31 - Rep<br>27 of 27 precincts reporting,20.695300462249616,"<b>Daniel Davenport</b><br>4,298 votes",27,27
 659,DEM,SSD31D,State Senate - District 31 - Dem<br>27 of 27 precincts reporting,69.49910554561717,"<b>Alec Miller</b><br>8,547 votes",27,27
@@ -241,19 +241,19 @@
 665,DEM,SSD33D,State Senate - District 33 - Dem<br>33 of 33 precincts reporting,100.0,"<b>Michael Doc Rhett (I)</b><br>20,207 votes",33,33
 666,DEM,SSD34D,State Senate - District 34 - Dem<br>47 of 47 precincts reporting,22.043519394512774,"<b>Gabriel Martin</b><br>5,592 votes",47,47
 667,DEM,SSD34D,State Senate - District 34 - Dem<br>47 of 47 precincts reporting,77.95648060548723,"<b>Kenya Wicks (I)</b><br>19,776 votes",47,47
-668,DEM,SSD35D,State Senate - District 35 - Dem<br>60 of 62 precincts reporting,8.220634264454024,"<b>Elfreda Desvignes</b><br>2,784 votes",62,60
-669,DEM,SSD35D,State Senate - District 35 - Dem<br>60 of 62 precincts reporting,65.64991436839308,"<b>Jaha V. Howard (I)</b><br>22,233 votes",62,60
-670,DEM,SSD35D,State Senate - District 35 - Dem<br>60 of 62 precincts reporting,26.129451367152896,"<b>Erica-Denise Solomon</b><br>8,849 votes",62,60
+668,DEM,SSD35D,State Senate - District 35 - Dem<br>60 of 62 precincts reporting,8.21917808219178,"<b>Elfreda Desvignes</b><br>2,784 votes",62,60
+669,DEM,SSD35D,State Senate - District 35 - Dem<br>60 of 62 precincts reporting,65.64418989135568,"<b>Jaha V. Howard (I)</b><br>22,235 votes",62,60
+670,DEM,SSD35D,State Senate - District 35 - Dem<br>60 of 62 precincts reporting,26.136632026452528,"<b>Erica-Denise Solomon</b><br>8,853 votes",62,60
 672,REP,SSD36R,State Senate - District 36 - Rep<br>73 of 76 precincts reporting,100.0,"<b>Katie Corkren</b><br>1,622 votes",76,73
-671,DEM,SSD36D,State Senate - District 36 - Dem<br>73 of 76 precincts reporting,100.0,"<b>Nan Grogan Orrock (I)</b><br>30,958 votes",76,73
+671,DEM,SSD36D,State Senate - District 36 - Dem<br>73 of 76 precincts reporting,100.0,"<b>Nan Grogan Orrock (I)</b><br>30,959 votes",76,73
 675,REP,SSD37R,State Senate - District 37 - Rep<br>43 of 43 precincts reporting,100.0,"<b>Ed Setzler (I)</b><br>20,420 votes",43,43
 673,DEM,SSD37D,State Senate - District 37 - Dem<br>43 of 43 precincts reporting,68.19365174727146,"<b>Darcy Castro</b><br>13,621 votes",43,43
 674,DEM,SSD37D,State Senate - District 37 - Dem<br>43 of 43 precincts reporting,31.806348252728544,"<b>Zachary Neville</b><br>6,353 votes",43,43
 677,REP,SSD38R,State Senate - District 38 - Rep<br>79 of 85 precincts reporting,66.92037470725995,"<b>Eric Helvy</b><br>3,429 votes",85,79
 678,REP,SSD38R,State Senate - District 38 - Rep<br>79 of 85 precincts reporting,33.07962529274005,"<b>Gregory ""Pop"" Thomas</b><br>1,695 votes",85,79
-676,DEM,SSD38D,State Senate - District 38 - Dem<br>79 of 85 precincts reporting,100.0,"<b>Rashaun Kemp (I)</b><br>31,250 votes",85,79
+676,DEM,SSD38D,State Senate - District 38 - Dem<br>79 of 85 precincts reporting,100.0,"<b>Rashaun Kemp (I)</b><br>31,252 votes",85,79
 680,REP,SSD39R,State Senate - District 39 - Rep<br>88 of 91 precincts reporting,100.0,"<b>John F. Guest, Jr.</b><br>2,518 votes",91,88
-679,DEM,SSD39D,State Senate - District 39 - Dem<br>88 of 91 precincts reporting,100.0,"<b>Sonya Halpern</b><br>28,264 votes",91,88
+679,DEM,SSD39D,State Senate - District 39 - Dem<br>88 of 91 precincts reporting,100.0,"<b>Sonya Halpern</b><br>28,266 votes",91,88
 683,REP,SSD40R,State Senate - District 40 - Rep<br>41 of 41 precincts reporting,100.0,"<b>Melina R. Mast</b><br>7,588 votes",41,41
 682,DEM,SSD40D,State Senate - District 40 - Dem<br>41 of 41 precincts reporting,100.0,"<b>Sally Harrell (I)</b><br>18,860 votes",41,41
 686,REP,SSD41R,State Senate - District 41 - Rep<br>48 of 48 precincts reporting,100.0,"<b>Jeff Newlin</b><br>2,723 votes",48,48
@@ -386,8 +386,8 @@
 332,DEM,SHD37D,State House of Representatives - District 37 - Dem<br>16 of 16 precincts reporting,74.02688078198638,"<b>Mary Frances Williams (I)</b><br>4,241 votes",16,16
 333,DEM,SHD38D,State House of Representatives - District 38 - Dem<br>13 of 13 precincts reporting,100.0,"<b>David Wilkerson (I)</b><br>9,557 votes",13,13
 334,DEM,SHD39D,State House of Representatives - District 39 - Dem<br>14 of 14 precincts reporting,100.0,"<b>Terry Cummings (I)</b><br>9,398 votes",14,14
-339,REP,SHD40R,State House of Representatives - District 40 - Rep<br>9 of 9 precincts reporting,100.0,"<b>Kimberly R. New (I)</b><br>5,117 votes",9,9
-338,DEM,SHD40D,State House of Representatives - District 40 - Dem<br>9 of 9 precincts reporting,100.0,"<b>Elisa Lassiter</b><br>5,313 votes",9,9
+339,REP,SHD40R,State House of Representatives - District 40 - Rep<br>9 of 9 precincts reporting,100.0,"<b>Kimberly R. New (I)</b><br>5,122 votes",9,9
+338,DEM,SHD40D,State House of Representatives - District 40 - Dem<br>9 of 9 precincts reporting,100.0,"<b>Elisa Lassiter</b><br>5,316 votes",9,9
 340,DEM,SHD41D,State House of Representatives - District 41 - Dem<br>13 of 13 precincts reporting,100.0,"<b>Michael Smith (I)</b><br>6,047 votes",13,13
 343,REP,SHD42R,State House of Representatives - District 42 - Rep<br>15 of 15 precincts reporting,100.0,"<b>André Stafford</b><br>2,194 votes",15,15
 341,DEM,SHD42D,State House of Representatives - District 42 - Dem<br>15 of 15 precincts reporting,82.19722038385176,"<b>Gabriel Sanchez (I)</b><br>6,210 votes",15,15
@@ -413,9 +413,9 @@
 364,DEM,SHD51D,State House of Representatives - District 51 - Dem<br>17 of 17 precincts reporting,43.491968172947004,"<b>Aaron Baker</b><br>2,897 votes",17,17
 365,DEM,SHD51D,State House of Representatives - District 51 - Dem<br>17 of 17 precincts reporting,56.508031827052996,"<b>Esther Panitch (I)</b><br>3,764 votes",17,17
 367,DEM,SHD52D,State House of Representatives - District 52 - Dem<br>24 of 24 precincts reporting,100.0,"<b>Shea Roberts (I)</b><br>6,554 votes",24,24
-370,REP,SHD53R,State House of Representatives - District 53 - Rep<br>20 of 22 precincts reporting,100.0,"<b>Deborah Silcox (I)</b><br>5,527 votes",22,20
-368,DEM,SHD53D,State House of Representatives - District 53 - Dem<br>20 of 22 precincts reporting,19.607843137254903,"<b>Tim Dorr</b><br>1,140 votes",22,20
-369,DEM,SHD53D,State House of Representatives - District 53 - Dem<br>20 of 22 precincts reporting,80.3921568627451,"<b>Beth Fuller</b><br>4,674 votes",22,20
+370,REP,SHD53R,State House of Representatives - District 53 - Rep<br>22 of 22 precincts reporting,100.0,"<b>Deborah Silcox (I)</b><br>5,647 votes",22,22
+368,DEM,SHD53D,State House of Representatives - District 53 - Dem<br>22 of 22 precincts reporting,19.99675640609796,"<b>Tim Dorr</b><br>1,233 votes",22,22
+369,DEM,SHD53D,State House of Representatives - District 53 - Dem<br>22 of 22 precincts reporting,80.00324359390204,"<b>Beth Fuller</b><br>4,933 votes",22,22
 373,REP,SHD54R,State House of Representatives - District 54 - Rep<br>18 of 19 precincts reporting,100.0,"<b>Greg Miller</b><br>2,742 votes",19,18
 371,DEM,SHD54D,State House of Representatives - District 54 - Dem<br>18 of 19 precincts reporting,83.92802214703168,"<b>Betsy Holland (I)</b><br>5,457 votes",19,18
 372,DEM,SHD54D,State House of Representatives - District 54 - Dem<br>18 of 19 precincts reporting,16.071977852968317,"<b>Derrick Tuff II</b><br>1,045 votes",19,18
@@ -423,38 +423,38 @@
 374,DEM,SHD55D,State House of Representatives - District 55 - Dem<br>30 of 30 precincts reporting,100.0,"<b>Inga S. Willis (I)</b><br>8,749 votes",30,30
 376,DEM,SHD56D,State House of Representatives - District 56 - Dem<br>27 of 27 precincts reporting,100.0,"<b>Bryce Berry (I)</b><br>6,929 votes",27,27
 379,REP,SHD57R,State House of Representatives - District 57 - Rep<br>20 of 20 precincts reporting,100.0,"<b>Helmut Lucero Love</b><br>1,323 votes",20,20
-377,DEM,SHD57D,State House of Representatives - District 57 - Dem<br>20 of 20 precincts reporting,84.5657703488372,"<b>Stacey Evans (I)</b><br>9,309 votes",20,20
-378,DEM,SHD57D,State House of Representatives - District 57 - Dem<br>20 of 20 precincts reporting,15.43422965116279,"<b>Jeremiah Olney</b><br>1,699 votes",20,20
+377,DEM,SHD57D,State House of Representatives - District 57 - Dem<br>20 of 20 precincts reporting,84.5685740236149,"<b>Stacey Evans (I)</b><br>9,311 votes",20,20
+378,DEM,SHD57D,State House of Representatives - District 57 - Dem<br>20 of 20 precincts reporting,15.431425976385105,"<b>Jeremiah Olney</b><br>1,699 votes",20,20
 384,REP,SHD58R,State House of Representatives - District 58 - Rep<br>24 of 24 precincts reporting,100.0,<b>Torrey Balam</b><br>448 votes,24,24
-380,DEM,SHD58D,State House of Representatives - District 58 - Dem<br>24 of 24 precincts reporting,38.951200314836676,"<b>Demetria Henderson</b><br>3,959 votes",24,24
-381,DEM,SHD58D,State House of Representatives - District 58 - Dem<br>24 of 24 precincts reporting,9.39590712317985,<b>Edith M. Ladipo</b><br>955 votes,24,24
-382,DEM,SHD58D,State House of Representatives - District 58 - Dem<br>24 of 24 precincts reporting,22.215663124754034,"<b>Kyle Lamont</b><br>2,258 votes",24,24
-383,DEM,SHD58D,State House of Representatives - District 58 - Dem<br>24 of 24 precincts reporting,29.43722943722944,"<b>Mathewos Samson</b><br>2,992 votes",24,24
+380,DEM,SHD58D,State House of Representatives - District 58 - Dem<br>24 of 24 precincts reporting,38.94736842105263,"<b>Demetria Henderson</b><br>3,959 votes",24,24
+381,DEM,SHD58D,State House of Representatives - District 58 - Dem<br>24 of 24 precincts reporting,9.40482046237088,<b>Edith M. Ladipo</b><br>956 votes,24,24
+382,DEM,SHD58D,State House of Representatives - District 58 - Dem<br>24 of 24 precincts reporting,22.21347761928185,"<b>Kyle Lamont</b><br>2,258 votes",24,24
+383,DEM,SHD58D,State House of Representatives - District 58 - Dem<br>24 of 24 precincts reporting,29.43433349729464,"<b>Mathewos Samson</b><br>2,992 votes",24,24
 386,REP,SHD59R,State House of Representatives - District 59 - Rep<br>24 of 24 precincts reporting,100.0,"<b>Devanta ""Sully"" Sullivan</b><br>253 votes",24,24
 385,DEM,SHD59D,State House of Representatives - District 59 - Dem<br>24 of 24 precincts reporting,100.0,"<b>Phil A. Olaleye (I)</b><br>9,511 votes",24,24
-389,DEM,SHD60D,State House of Representatives - District 60 - Dem<br>20 of 22 precincts reporting,100.0,"<b>Sheila Jones (I)</b><br>9,051 votes",22,20
+389,DEM,SHD60D,State House of Representatives - District 60 - Dem<br>20 of 22 precincts reporting,100.0,"<b>Sheila Jones (I)</b><br>9,053 votes",22,20
 392,REP,SHD61R,State House of Representatives - District 61 - Rep<br>19 of 20 precincts reporting,100.0,"<b>Damita Bishop</b><br>1,689 votes",20,19
-390,DEM,SHD61D,State House of Representatives - District 61 - Dem<br>19 of 20 precincts reporting,19.912643319553858,"<b>Grace McClain</b><br>2,553 votes",20,19
-391,DEM,SHD61D,State House of Representatives - District 61 - Dem<br>19 of 20 precincts reporting,80.08735668044615,"<b>Mekyah McQueen (I)</b><br>10,268 votes",20,19
+390,DEM,SHD61D,State House of Representatives - District 61 - Dem<br>19 of 20 precincts reporting,19.906432748538013,"<b>Grace McClain</b><br>2,553 votes",20,19
+391,DEM,SHD61D,State House of Representatives - District 61 - Dem<br>19 of 20 precincts reporting,80.09356725146198,"<b>Mekyah McQueen (I)</b><br>10,272 votes",20,19
 393,DEM,SHD62D,State House of Representatives - District 62 - Dem<br>28 of 30 precincts reporting,32.001423867580314,"<b>Kavon Arnold</b><br>3,596 votes",30,28
 394,DEM,SHD62D,State House of Representatives - District 62 - Dem<br>28 of 30 precincts reporting,38.293138738097355,"<b>Kenn Collier</b><br>4,303 votes",30,28
 395,DEM,SHD62D,State House of Representatives - District 62 - Dem<br>28 of 30 precincts reporting,23.903177004538577,"<b>Matt Rinker</b><br>2,686 votes",30,28
 396,DEM,SHD62D,State House of Representatives - District 62 - Dem<br>28 of 30 precincts reporting,5.80226038978375,<b>W Horace Roseberry III</b><br>652 votes,30,28
-397,DEM,SHD63D,State House of Representatives - District 63 - Dem<br>26 of 28 precincts reporting,100.0,"<b>Kim Schofield (I)</b><br>8,858 votes",28,26
-399,REP,SHD64R,State House of Representatives - District 64 - Rep<br>10 of 10 precincts reporting,100.0,"<b>Lydia Parchue</b><br>2,131 votes",10,10
-398,DEM,SHD64D,State House of Representatives - District 64 - Dem<br>10 of 10 precincts reporting,100.0,"<b>Sylvia Wayfer Baker (I)</b><br>10,057 votes",10,10
+397,DEM,SHD63D,State House of Representatives - District 63 - Dem<br>26 of 28 precincts reporting,100.0,"<b>Kim Schofield (I)</b><br>8,859 votes",28,26
+399,REP,SHD64R,State House of Representatives - District 64 - Rep<br>10 of 10 precincts reporting,100.0,"<b>Lydia Parchue</b><br>2,137 votes",10,10
+398,DEM,SHD64D,State House of Representatives - District 64 - Dem<br>10 of 10 precincts reporting,100.0,"<b>Sylvia Wayfer Baker (I)</b><br>10,079 votes",10,10
 401,REP,SHD65R,State House of Representatives - District 65 - Rep<br>33 of 35 precincts reporting,100.0,"<b>Gordon W. Rolle, Jr.</b><br>2,479 votes",35,33
 400,DEM,SHD65D,State House of Representatives - District 65 - Dem<br>33 of 35 precincts reporting,100.0,"<b>Robert Dawson (I)</b><br>13,734 votes",35,33
-402,DEM,SHD66D,State House of Representatives - District 66 - Dem<br>12 of 12 precincts reporting,81.191381495564,"<b>Kimberly Alexander (I)</b><br>6,406 votes",12,12
-403,DEM,SHD66D,State House of Representatives - District 66 - Dem<br>12 of 12 precincts reporting,18.808618504435994,"<b>Derrian Smith</b><br>1,484 votes",12,12
+402,DEM,SHD66D,State House of Representatives - District 66 - Dem<br>12 of 12 precincts reporting,81.23181990641204,"<b>Kimberly Alexander (I)</b><br>6,423 votes",12,12
+403,DEM,SHD66D,State House of Representatives - District 66 - Dem<br>12 of 12 precincts reporting,18.76818009358796,"<b>Derrian Smith</b><br>1,484 votes",12,12
 405,REP,SHD67R,State House of Representatives - District 67 - Rep<br>12 of 14 precincts reporting,100.0,"<b>Daniel Cook</b><br>2,725 votes",14,12
 404,DEM,SHD67D,State House of Representatives - District 67 - Dem<br>12 of 14 precincts reporting,100.0,"<b>Lydia Glaize (I)</b><br>9,152 votes",14,12
-406,DEM,SHD68D,State House of Representatives - District 68 - Dem<br>21 of 25 precincts reporting,29.742289818335443,"<b>Mark Baker</b><br>2,816 votes",25,21
-407,DEM,SHD68D,State House of Representatives - District 68 - Dem<br>21 of 25 precincts reporting,13.667089142374314,"<b>Jonathan Bonner</b><br>1,294 votes",25,21
-408,DEM,SHD68D,State House of Representatives - District 68 - Dem<br>21 of 25 precincts reporting,11.12167300380228,"<b>Courtney Heard</b><br>1,053 votes",25,21
-409,DEM,SHD68D,State House of Representatives - District 68 - Dem<br>21 of 25 precincts reporting,16.78284748626954,"<b>Quentin ""Q"" Pullen</b><br>1,589 votes",25,21
-410,DEM,SHD68D,State House of Representatives - District 68 - Dem<br>21 of 25 precincts reporting,18.10308407266582,"<b>Timoria McQueen Saba</b><br>1,714 votes",25,21
-411,DEM,SHD68D,State House of Representatives - District 68 - Dem<br>21 of 25 precincts reporting,10.583016476552597,"<b>Jane Williams</b><br>1,002 votes",25,21
+406,DEM,SHD68D,State House of Representatives - District 68 - Dem<br>21 of 25 precincts reporting,29.739148801351778,"<b>Mark Baker</b><br>2,816 votes",25,21
+407,DEM,SHD68D,State House of Representatives - District 68 - Dem<br>21 of 25 precincts reporting,13.676206568803465,"<b>Jonathan Bonner</b><br>1,295 votes",25,21
+408,DEM,SHD68D,State House of Representatives - District 68 - Dem<br>21 of 25 precincts reporting,11.120498468687295,"<b>Courtney Heard</b><br>1,053 votes",25,21
+409,DEM,SHD68D,State House of Representatives - District 68 - Dem<br>21 of 25 precincts reporting,16.781075087126414,"<b>Quentin ""Q"" Pullen</b><br>1,589 votes",25,21
+410,DEM,SHD68D,State House of Representatives - District 68 - Dem<br>21 of 25 precincts reporting,18.101172246277326,"<b>Timoria McQueen Saba</b><br>1,714 votes",25,21
+411,DEM,SHD68D,State House of Representatives - District 68 - Dem<br>21 of 25 precincts reporting,10.581898827753724,"<b>Jane Williams</b><br>1,002 votes",25,21
 412,DEM,SHD69D,State House of Representatives - District 69 - Dem<br>22 of 23 precincts reporting,78.93019183316086,"<b>Debra Bazemore (I)</b><br>9,916 votes",23,22
 413,DEM,SHD69D,State House of Representatives - District 69 - Dem<br>22 of 23 precincts reporting,10.698081668391307,"<b>Cobie Lyrix Brown</b><br>1,344 votes",23,22
 414,DEM,SHD69D,State House of Representatives - District 69 - Dem<br>22 of 23 precincts reporting,10.371726498447822,"<b>September R. Cooper</b><br>1,303 votes",23,22
@@ -595,8 +595,8 @@
 179,REP,SHD131R,State House of Representatives - District 131 - Rep<br>15 of 15 precincts reporting,100.0,"<b>Rob Clifton (I)</b><br>6,756 votes",15,15
 178,DEM,SHD131D,State House of Representatives - District 131 - Dem<br>15 of 15 precincts reporting,100.0,"<b>Jenny E. Eppard</b><br>4,040 votes",15,15
 180,DEM,SHD132D,State House of Representatives - District 132 - Dem<br>20 of 20 precincts reporting,100.0,"<b>Brian L. Prince (I)</b><br>7,383 votes",20,20
-181,REP,SHD133R,State House of Representatives - District 133 - Rep<br>21 of 21 precincts reporting,60.53846153846154,"<b>Danny Mathis (I)</b><br>4,722 votes",21,21
-182,REP,SHD133R,State House of Representatives - District 133 - Rep<br>21 of 21 precincts reporting,39.46153846153846,"<b>Robert Pruitt</b><br>3,078 votes",21,21
+181,REP,SHD133R,State House of Representatives - District 133 - Rep<br>21 of 21 precincts reporting,60.54352006153058,"<b>Danny Mathis (I)</b><br>4,723 votes",21,21
+182,REP,SHD133R,State House of Representatives - District 133 - Rep<br>21 of 21 precincts reporting,39.45647993846942,"<b>Robert Pruitt</b><br>3,078 votes",21,21
 183,REP,SHD134R,State House of Representatives - District 134 - Rep<br>15 of 15 precincts reporting,100.0,"<b>Robert Dickey (I)</b><br>6,972 votes",15,15
 184,REP,SHD135R,State House of Representatives - District 135 - Rep<br>16 of 16 precincts reporting,100.0,"<b>Beth Camp (I)</b><br>8,611 votes",16,16
 185,REP,SHD136R,State House of Representatives - District 136 - Rep<br>20 of 20 precincts reporting,100.0,"<b>David Jenkins (I)</b><br>6,675 votes",20,20
@@ -663,7 +663,7 @@
 255,REP,SHD168R,State House of Representatives - District 168 - Rep<br>12 of 12 precincts reporting,100.0,"<b>Kevin Remillard</b><br>1,997 votes",12,12
 253,DEM,SHD168D,State House of Representatives - District 168 - Dem<br>12 of 12 precincts reporting,38.457727873183615,"<b>Sabrina Newby</b><br>2,329 votes",12,12
 254,DEM,SHD168D,State House of Representatives - District 168 - Dem<br>12 of 12 precincts reporting,61.54227212681638,"<b>Al Williams (I)</b><br>3,727 votes",12,12
-256,REP,SHD169R,State House of Representatives - District 169 - Rep<br>13 of 13 precincts reporting,100.0,"<b>Angie O'Steen (I)</b><br>5,800 votes",13,13
+256,REP,SHD169R,State House of Representatives - District 169 - Rep<br>13 of 13 precincts reporting,100.0,"<b>Angie O'Steen (I)</b><br>5,801 votes",13,13
 259,REP,SHD170R,State House of Representatives - District 170 - Rep<br>18 of 18 precincts reporting,100.0,"<b>Jaclyn Dixon Ford (I)</b><br>5,497 votes",18,18
 260,REP,SHD171R,State House of Representatives - District 171 - Rep<br>23 of 23 precincts reporting,100.0,"<b>Joseph M. Campbell (I)</b><br>4,134 votes",23,23
 261,REP,SHD172R,State House of Representatives - District 172 - Rep<br>27 of 27 precincts reporting,100.0,"<b>Charles ""Chas"" Cannon (I)</b><br>5,018 votes",27,27
@@ -699,32 +699,32 @@
 93,DEM,SDA39D,District Attorney - Rockdale Judicial Circuit - Dem<br>14 of 14 precincts reporting,100.0,"<b>Alisha Adams Johnson (I)</b><br>16,303 votes",14,14
 94,REP,SDA49R,District Attorney - Waycross Judicial Circuit - Rep<br>37 of 37 precincts reporting,100.0,"<b>Marilyn Bennett (I)</b><br>14,732 votes",37,37
 97,REP,SDA51R,District Attorney - West Georgia Judicial Circuit - Rep<br>34 of 34 precincts reporting,100.0,"<b>Sarah Stimac Japour (I)</b><br>13,858 votes",34,34
-598,,SSC1,Justice - Supreme Court of Georgia (Bethel)<br>2565 of 2584 precincts reporting,51.12501962663934,"<b>Charles ""Charlie"" Bethel (I)</b><br>989,854 votes",2584,2565
-599,,SSC1,Justice - Supreme Court of Georgia (Bethel)<br>2565 of 2584 precincts reporting,48.87498037336066,"<b>Miracle Rankin</b><br>946,290 votes",2584,2565
-600,,SSC2,Justice - Supreme Court of Georgia (Land)<br>2565 of 2584 precincts reporting,100.0,"<b>Ben Land (I)</b><br>1,715,815 votes",2584,2565
-601,,SSC3,Justice - Supreme Court of Georgia (Warren)<br>2565 of 2584 precincts reporting,40.66462339188475,"<b>Jen Auer Jordan</b><br>780,677 votes",2584,2565
-602,,SSC3,Justice - Supreme Court of Georgia (Warren)<br>2565 of 2584 precincts reporting,59.33537660811524,"<b>Sarah Hawkins Warren (I)</b><br>1,139,117 votes",2584,2565
-70,,SCA1,"Judge - Court of Appeals of Georgia (Brown, III)<br>2565 of 2584 precincts reporting",63.81586629611623,"<b>Trenton ""Trent"" Brown (I)</b><br>1,202,319 votes",2584,2565
-71,,SCA1,"Judge - Court of Appeals of Georgia (Brown, III)<br>2565 of 2584 precincts reporting",36.184133703883774,"<b>Will Wooten</b><br>681,725 votes",2584,2565
-72,,SCA2,Judge - Court of Appeals of Georgia (Doyle)<br>2565 of 2584 precincts reporting,100.0,"<b>Sara Doyle (I)</b><br>1,740,283 votes",2584,2565
-73,,SCA3,Judge - Court of Appeals of Georgia (Gobeil)<br>2565 of 2584 precincts reporting,43.48116558474095,"<b>Fatima Harris Felton</b><br>820,050 votes",2584,2565
-74,,SCA3,Judge - Court of Appeals of Georgia (Gobeil)<br>2565 of 2584 precincts reporting,56.51883441525904,"<b>Elizabeth D. Gobeil (I)</b><br>1,065,939 votes",2584,2565
-75,,SCA4,Judge - Court of Appeals of Georgia (Markle)<br>2565 of 2584 precincts reporting,100.0,"<b>David Todd Markle (I)</b><br>1,720,295 votes",2584,2565
-76,,SCA5,Judge - Court of Appeals of Georgia (Padgett)<br>2565 of 2584 precincts reporting,100.0,"<b>J. Wade Padgett (I)</b><br>1,722,042 votes",2584,2565
+598,,SSC1,Justice - Supreme Court of Georgia (Bethel)<br>2567 of 2584 precincts reporting,51.11992085686079,"<b>Charles ""Charlie"" Bethel (I)</b><br>990,062 votes",2584,2567
+599,,SSC1,Justice - Supreme Court of Georgia (Bethel)<br>2567 of 2584 precincts reporting,48.880079143139206,"<b>Miracle Rankin</b><br>946,682 votes",2584,2567
+600,,SSC2,Justice - Supreme Court of Georgia (Land)<br>2567 of 2584 precincts reporting,100.0,"<b>Ben Land (I)</b><br>1,716,319 votes",2584,2567
+601,,SSC3,Justice - Supreme Court of Georgia (Warren)<br>2567 of 2584 precincts reporting,40.66837500110655,"<b>Jen Auer Jordan</b><br>780,991 votes",2584,2567
+602,,SSC3,Justice - Supreme Court of Georgia (Warren)<br>2567 of 2584 precincts reporting,59.33162499889345,"<b>Sarah Hawkins Warren (I)</b><br>1,139,398 votes",2584,2567
+70,,SCA1,"Judge - Court of Appeals of Georgia (Brown, III)<br>2567 of 2584 precincts reporting",63.81215513586566,"<b>Trenton ""Trent"" Brown (I)</b><br>1,202,616 votes",2584,2567
+71,,SCA1,"Judge - Court of Appeals of Georgia (Brown, III)<br>2567 of 2584 precincts reporting",36.18784486413434,"<b>Will Wooten</b><br>682,003 votes",2584,2567
+72,,SCA2,Judge - Court of Appeals of Georgia (Doyle)<br>2567 of 2584 precincts reporting,100.0,"<b>Sara Doyle (I)</b><br>1,740,795 votes",2584,2567
+73,,SCA3,Judge - Court of Appeals of Georgia (Gobeil)<br>2567 of 2584 precincts reporting,43.485684056975416,"<b>Fatima Harris Felton</b><br>820,387 votes",2584,2567
+74,,SCA3,Judge - Court of Appeals of Georgia (Gobeil)<br>2567 of 2584 precincts reporting,56.514315943024584,"<b>Elizabeth D. Gobeil (I)</b><br>1,066,181 votes",2584,2567
+75,,SCA4,Judge - Court of Appeals of Georgia (Markle)<br>2567 of 2584 precincts reporting,100.0,"<b>David Todd Markle (I)</b><br>1,720,802 votes",2584,2567
+76,,SCA5,Judge - Court of Appeals of Georgia (Padgett)<br>2567 of 2584 precincts reporting,100.0,"<b>J. Wade Padgett (I)</b><br>1,722,544 votes",2584,2567
 485,,SJC1,"Judge - Superior Court - Alapaha Judicial Circuit (Perryman, III)<br>23 of 23 precincts reporting",100.0,"<b>Dick Perryman (I)</b><br>7,225 votes",23,23
 497,,SJC2,Judge - Superior Court - Alcovy Judicial Circuit (McCamy)<br>34 of 34 precincts reporting,100.0,"<b>Cheveda D. McCamy (I)</b><br>39,635 votes",34,34
 510,,SJC3,Judge - Superior Court - Alcovy Judicial Circuit (Zon)<br>34 of 34 precincts reporting,100.0,"<b>Layla H. Zon (I)</b><br>39,848 votes",34,34
 518,,SJC4,Judge - Superior Court - Appalachian Judicial Circuit (Priest)<br>37 of 37 precincts reporting,100.0,"<b>Mary E. Priest (I)</b><br>18,107 votes",37,37
 531,,SJC5,Judge - Superior Court - Appalachian Judicial Circuit (Sosebee)<br>37 of 37 precincts reporting,100.0,"<b>B. Alison Sosebee (I)</b><br>18,497 votes",37,37
-82,,SCJ6,Judge - Superior Court - Atlanta Judicial Circuit (Benton)<br>418 of 437 precincts reporting,100.0,"<b>Alice Benton (I)</b><br>177,113 votes",437,418
-83,,SCJ7,Judge - Superior Court - Atlanta Judicial Circuit (Eaton)<br>418 of 437 precincts reporting,100.0,"<b>Chuck Eaton (I)</b><br>175,596 votes",437,418
-84,,SCJ8,Judge - Superior Court - Atlanta Judicial Circuit (Ellerbe)<br>418 of 437 precincts reporting,100.0,"<b>Kelly Lee Ellerbe (I)</b><br>176,290 votes",437,418
-85,,SCJ9,Judge - Superior Court - Atlanta Judicial Circuit (Farmer)<br>418 of 437 precincts reporting,100.0,"<b>Kevin M. Farmer (I)</b><br>176,587 votes",437,418
-77,,SCJ10,Judge - Superior Court - Atlanta Judicial Circuit (McBurney)<br>418 of 437 precincts reporting,100.0,"<b>Robert C.I. McBurney (I)</b><br>176,790 votes",437,418
-78,,SCJ11,Judge - Superior Court - Atlanta Judicial Circuit (Schwall)<br>418 of 437 precincts reporting,60.03865149237707,"<b>Janice Moore</b><br>120,228 votes",437,418
-79,,SCJ11,Judge - Superior Court - Atlanta Judicial Circuit (Schwall)<br>418 of 437 precincts reporting,39.96134850762294,"<b>Craig L. Schwall (I)</b><br>80,023 votes",437,418
-80,,SCJ12,Judge - Superior Court - Atlanta Judicial Circuit (Whitaker)<br>418 of 437 precincts reporting,50.837533576796545,"<b>Nikia Smith Sellers</b><br>101,064 votes",437,418
-81,,SCJ12,Judge - Superior Court - Atlanta Judicial Circuit (Whitaker)<br>418 of 437 precincts reporting,49.162466423203455,"<b>Paige Reese Whitaker (I)</b><br>97,734 votes",437,418
+82,,SCJ6,Judge - Superior Court - Atlanta Judicial Circuit (Benton)<br>420 of 437 precincts reporting,100.0,"<b>Alice Benton (I)</b><br>177,561 votes",437,420
+83,,SCJ7,Judge - Superior Court - Atlanta Judicial Circuit (Eaton)<br>420 of 437 precincts reporting,100.0,"<b>Chuck Eaton (I)</b><br>176,034 votes",437,420
+84,,SCJ8,Judge - Superior Court - Atlanta Judicial Circuit (Ellerbe)<br>420 of 437 precincts reporting,100.0,"<b>Kelly Lee Ellerbe (I)</b><br>176,735 votes",437,420
+85,,SCJ9,Judge - Superior Court - Atlanta Judicial Circuit (Farmer)<br>420 of 437 precincts reporting,100.0,"<b>Kevin M. Farmer (I)</b><br>177,036 votes",437,420
+77,,SCJ10,Judge - Superior Court - Atlanta Judicial Circuit (McBurney)<br>420 of 437 precincts reporting,100.0,"<b>Robert C.I. McBurney (I)</b><br>177,237 votes",437,420
+78,,SCJ11,Judge - Superior Court - Atlanta Judicial Circuit (Schwall)<br>420 of 437 precincts reporting,60.039949589794425,"<b>Janice Moore</b><br>120,532 votes",437,420
+79,,SCJ11,Judge - Superior Court - Atlanta Judicial Circuit (Schwall)<br>420 of 437 precincts reporting,39.960050410205575,"<b>Craig L. Schwall (I)</b><br>80,221 votes",437,420
+80,,SCJ12,Judge - Superior Court - Atlanta Judicial Circuit (Whitaker)<br>420 of 437 precincts reporting,50.840203314651,"<b>Nikia Smith Sellers</b><br>101,323 votes",437,420
+81,,SCJ12,Judge - Superior Court - Atlanta Judicial Circuit (Whitaker)<br>420 of 437 precincts reporting,49.159796685349,"<b>Paige Reese Whitaker (I)</b><br>97,974 votes",437,420
 487,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>44 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>24,358 votes",44,44
 490,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>44 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>24,927 votes",44,44
 491,,SJC15,Judge - Superior Court - Augusta Judicial Circuit (Heath)<br>76 of 76 precincts reporting,100.0,"<b>Amanda Nichole Heath (I)</b><br>37,557 votes",76,76
@@ -755,7 +755,7 @@
 488,,SJC130,Judge - Superior Court - DeKalb Judicial Circuit (L. Jackson)<br>191 of 191 precincts reporting,100.0,"<b>LaTisha Dear Jackson (I)</b><br>143,627 votes",191,191
 489,,SJC131,Judge - Superior Court - DeKalb Judicial Circuit (Johnson)<br>191 of 191 precincts reporting,100.0,"<b>Courtney L. Johnson (I)</b><br>143,073 votes",191,191
 517,,SJC39,Judge - Superior Court - Dougherty Judicial Circuit (Dent)<br>23 of 23 precincts reporting,100.0,"<b>Joe Dent (I)</b><br>13,197 votes",23,23
-519,,SJC40,Judge - Superior Court - Douglas Judicial Circuit (Adams)<br>25 of 25 precincts reporting,100.0,"<b>Cynthia C. Adams (I)</b><br>26,212 votes",25,25
+519,,SJC40,Judge - Superior Court - Douglas Judicial Circuit (Adams)<br>25 of 25 precincts reporting,100.0,"<b>Cynthia C. Adams (I)</b><br>26,266 votes",25,25
 520,,SJC41,Judge - Superior Court - Eastern Judicial Circuit (Karpf)<br>86 of 86 precincts reporting,100.0,"<b>Benjamin W. Karpf (I)</b><br>47,361 votes",86,86
 521,,SJC42,Judge - Superior Court - Eastern Judicial Circuit (Stokes)<br>86 of 86 precincts reporting,100.0,"<b>Tammy M. Stokes (I)</b><br>48,247 votes",86,86
 522,,SJC43,Judge - Superior Court - Eastern Judicial Circuit (Walmsley)<br>86 of 86 precincts reporting,100.0,"<b>Timothy R. Walmsley (I)</b><br>47,086 votes",86,86
@@ -800,31 +800,31 @@
 562,,SJC78,Judge - Superior Court - Southwestern Judicial Circuit (Sizemore)<br>32 of 32 precincts reporting,26.211616722160564,"<b>Wesley Beamon</b><br>4,251 votes",32,32
 563,,SJC78,Judge - Superior Court - Southwestern Judicial Circuit (Sizemore)<br>32 of 32 precincts reporting,9.773091626587743,"<b>Patrick S. Eidson</b><br>1,585 votes",32,32
 564,,SJC78,Judge - Superior Court - Southwestern Judicial Circuit (Sizemore)<br>32 of 32 precincts reporting,64.01529165125169,"<b>Lisa Jones</b><br>10,382 votes",32,32
-565,,SJC79,Judge - Superior Court - Tifton Judicial Circuit (Powell)<br>26 of 26 precincts reporting,100.0,"<b>Ralph Powell (I)</b><br>10,768 votes",26,26
-566,,SJC80,Judge - Superior Court - Tifton Judicial Circuit (Reinhardt)<br>26 of 26 precincts reporting,100.0,"<b>Bill Reinhardt (I)</b><br>11,193 votes",26,26
+565,,SJC79,Judge - Superior Court - Tifton Judicial Circuit (Powell)<br>26 of 26 precincts reporting,100.0,"<b>Ralph Powell (I)</b><br>10,770 votes",26,26
+566,,SJC80,Judge - Superior Court - Tifton Judicial Circuit (Reinhardt)<br>26 of 26 precincts reporting,100.0,"<b>Bill Reinhardt (I)</b><br>11,195 votes",26,26
 567,,SJC81,Judge - Superior Court - Towaliga Judicial Circuit (Wilson)<br>19 of 19 precincts reporting,51.85442342185963,"<b>Jonathan Adams</b><br>8,962 votes",19,19
 568,,SJC81,Judge - Superior Court - Towaliga Judicial Circuit (Wilson)<br>19 of 19 precincts reporting,48.14557657814037,"<b>Natalie Fears Sundeen</b><br>8,321 votes",19,19
 569,,SJC82,Judge - Superior Court - Waycross Judicial Circuit (Kight)<br>37 of 37 precincts reporting,100.0,"<b>Jeffrey Kight (I)</b><br>18,248 votes",37,37
 570,,SJC83,Judge - Superior Court - West Georgia Judicial Circuit (Hightower)<br>34 of 34 precincts reporting,100.0,"<b>Dustin W. Hightower (I)</b><br>20,149 votes",34,34
 571,,SJC84,Judge - Superior Court - Western Judicial Circuit (Lott)<br>28 of 28 precincts reporting,100.0,"<b>Lisa Lott (I)</b><br>30,859 votes",28,28
 572,,SJC85,Judge - Superior Court - Western Judicial Circuit (Norris)<br>28 of 28 precincts reporting,100.0,"<b>Eric Wayne Norris (I)</b><br>30,866 votes",28,28
-575,REP,SQ1R,Party Question 1 - Rep<br>2565 of 2584 precincts reporting,89.98585285882419,"<b>Yes</b><br>824,984 votes",2584,2565
-576,REP,SQ1R,Party Question 1 - Rep<br>2565 of 2584 precincts reporting,10.014147141175817,"<b>No</b><br>91,809 votes",2584,2565
-579,REP,SQ2R,Party Question 2 - Rep<br>2565 of 2584 precincts reporting,89.34139322672912,"<b>Yes</b><br>820,858 votes",2584,2565
-580,REP,SQ2R,Party Question 2 - Rep<br>2565 of 2584 precincts reporting,10.658606773270876,"<b>No</b><br>97,930 votes",2584,2565
-581,REP,SQ3R,Party Question 3 - Rep<br>2565 of 2584 precincts reporting,84.17998488410781,"<b>Yes</b><br>764,063 votes",2584,2565
-582,REP,SQ3R,Party Question 3 - Rep<br>2565 of 2584 precincts reporting,15.820015115892181,"<b>No</b><br>143,591 votes",2584,2565
-583,REP,SQ4R,Party Question 4 - Rep<br>2565 of 2584 precincts reporting,89.48143193175243,"<b>Yes</b><br>813,320 votes",2584,2565
-584,REP,SQ4R,Party Question 4 - Rep<br>2565 of 2584 precincts reporting,10.51856806824758,"<b>No</b><br>95,606 votes",2584,2565
-585,REP,SQ5R,Party Question 5 - Rep<br>2565 of 2584 precincts reporting,90.47225922251108,"<b>Yes</b><br>830,681 votes",2584,2565
-586,REP,SQ5R,Party Question 5 - Rep<br>2565 of 2584 precincts reporting,9.527740777488916,"<b>No</b><br>87,480 votes",2584,2565
-587,REP,SQ6R,Party Question 6 - Rep<br>2565 of 2584 precincts reporting,92.42150021204995,"<b>Yes</b><br>839,007 votes",2584,2565
-588,REP,SQ6R,Party Question 6 - Rep<br>2565 of 2584 precincts reporting,7.578499787950054,"<b>No</b><br>68,798 votes",2584,2565
-589,REP,SQ7R,Party Question 7 - Rep<br>2565 of 2584 precincts reporting,85.40388216318433,"<b>Yes</b><br>783,122 votes",2584,2565
-590,REP,SQ7R,Party Question 7 - Rep<br>2565 of 2584 precincts reporting,14.596117836815662,"<b>No</b><br>133,841 votes",2584,2565
-591,REP,SQ8R,Party Question 8 - Rep<br>2565 of 2584 precincts reporting,89.81951300147897,"<b>Yes</b><br>820,477 votes",2584,2565
-592,REP,SQ8R,Party Question 8 - Rep<br>2565 of 2584 precincts reporting,10.18048699852103,"<b>No</b><br>92,996 votes",2584,2565
-573,DEM,SQ1D,Party Question 1 - Dem<br>2565 of 2584 precincts reporting,3.1554607629113653,"<b>Yes</b><br>33,939 votes",2584,2565
-574,DEM,SQ1D,Party Question 1 - Dem<br>2565 of 2584 precincts reporting,96.84453923708864,"<b>No</b><br>1,041,625 votes",2584,2565
-577,DEM,SQ2D,Party Question 2 - Dem<br>2565 of 2584 precincts reporting,3.915908765447005,"<b>Yes</b><br>41,838 votes",2584,2565
-578,DEM,SQ2D,Party Question 2 - Dem<br>2565 of 2584 precincts reporting,96.084091234553,"<b>No</b><br>1,026,573 votes",2584,2565
+575,REP,SQ1R,Party Question 1 - Rep<br>2567 of 2584 precincts reporting,89.98469939157452,"<b>Yes</b><br>825,121 votes",2584,2567
+576,REP,SQ1R,Party Question 1 - Rep<br>2567 of 2584 precincts reporting,10.015300608425477,"<b>No</b><br>91,836 votes",2584,2567
+579,REP,SQ2R,Party Question 2 - Rep<br>2567 of 2584 precincts reporting,89.34058651530601,"<b>Yes</b><br>820,998 votes",2584,2567
+580,REP,SQ2R,Party Question 2 - Rep<br>2567 of 2584 precincts reporting,10.659413484693994,"<b>No</b><br>97,955 votes",2584,2567
+581,REP,SQ3R,Party Question 3 - Rep<br>2567 of 2584 precincts reporting,84.17676690346183,"<b>Yes</b><br>764,171 votes",2584,2567
+582,REP,SQ3R,Party Question 3 - Rep<br>2567 of 2584 precincts reporting,15.823233096538178,"<b>No</b><br>143,646 votes",2584,2567
+583,REP,SQ4R,Party Question 4 - Rep<br>2567 of 2584 precincts reporting,89.47997161981553,"<b>Yes</b><br>813,449 votes",2584,2567
+584,REP,SQ4R,Party Question 4 - Rep<br>2567 of 2584 precincts reporting,10.52002838018447,"<b>No</b><br>95,636 votes",2584,2567
+585,REP,SQ5R,Party Question 5 - Rep<br>2567 of 2584 precincts reporting,90.47221844118367,"<b>Yes</b><br>830,829 votes",2584,2567
+586,REP,SQ5R,Party Question 5 - Rep<br>2567 of 2584 precincts reporting,9.527781558816322,"<b>No</b><br>87,496 votes",2584,2567
+587,REP,SQ6R,Party Question 6 - Rep<br>2567 of 2584 precincts reporting,92.41999718051737,"<b>Yes</b><br>839,144 votes",2584,2567
+588,REP,SQ6R,Party Question 6 - Rep<br>2567 of 2584 precincts reporting,7.580002819482624,"<b>No</b><br>68,824 votes",2584,2567
+589,REP,SQ7R,Party Question 7 - Rep<br>2567 of 2584 precincts reporting,85.40431150756656,"<b>Yes</b><br>783,266 votes",2584,2567
+590,REP,SQ7R,Party Question 7 - Rep<br>2567 of 2584 precincts reporting,14.595688492433437,"<b>No</b><br>133,861 votes",2584,2567
+591,REP,SQ8R,Party Question 8 - Rep<br>2567 of 2584 precincts reporting,89.81813286283129,"<b>Yes</b><br>820,609 votes",2584,2567
+592,REP,SQ8R,Party Question 8 - Rep<br>2567 of 2584 precincts reporting,10.181867137168712,"<b>No</b><br>93,025 votes",2584,2567
+573,DEM,SQ1D,Party Question 1 - Dem<br>2567 of 2584 precincts reporting,3.1550508415978227,"<b>Yes</b><br>33,948 votes",2584,2567
+574,DEM,SQ1D,Party Question 1 - Dem<br>2567 of 2584 precincts reporting,96.84494915840217,"<b>No</b><br>1,042,041 votes",2584,2567
+577,DEM,SQ2D,Party Question 2 - Dem<br>2567 of 2584 precincts reporting,3.915679840872879,"<b>Yes</b><br>41,852 votes",2584,2567
+578,DEM,SQ2D,Party Question 2 - Dem<br>2567 of 2584 precincts reporting,96.08432015912712,"<b>No</b><br>1,026,979 votes",2584,2567
