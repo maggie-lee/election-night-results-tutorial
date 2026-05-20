@@ -1,37 +1,37 @@
 ,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
-0,REP,SSD1R,State Senate - District 1 - Rep<br>14 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>9,018 votes",49,14
-1,DEM,SSD1D,State Senate - District 1 - Dem<br>14 of 49 precincts reporting,59.038548752834465,"<b>Corey Foreman</b><br>6,509 votes",49,14
-2,DEM,SSD1D,State Senate - District 1 - Dem<br>14 of 49 precincts reporting,40.961451247165535,"<b>Barbara Gooby</b><br>4,516 votes",49,14
-3,DEM,SSD2D,State Senate - District 2 - Dem<br>12 of 58 precincts reporting,100.0,"<b>Derek J. Mallow (I)</b><br>11,493 votes",58,12
-4,REP,SSD4R,State Senate - District 4 - Rep<br>7 of 45 precincts reporting,100.0,"<b>Billy Hickman (I)</b><br>6,455 votes",45,7
-5,REP,SHD161R,State House of Representatives - District 161 - Rep<br>1 of 18 precincts reporting,100.0,"<b>Bill Hitchens (I)</b><br>1,520 votes",18,1
-6,DEM,SHD161D,State House of Representatives - District 161 - Dem<br>1 of 18 precincts reporting,100.0,"<b>David Dillie</b><br>1,709 votes",18,1
-7,DEM,SHD162D,State House of Representatives - District 162 - Dem<br>4 of 16 precincts reporting,100.0,"<b>Orlando Scott</b><br>3,639 votes",16,4
-8,DEM,SHD163D,State House of Representatives - District 163 - Dem<br>3 of 24 precincts reporting,100.0,"<b>Anne Allen Westbrook (I)</b><br>3,089 votes",24,3
-9,REP,SHD164R,State House of Representatives - District 164 - Rep<br>0 of 16 precincts reporting,100.0,"<b>Ron Stephens (I)</b><br>2,003 votes",16,0
-10,DEM,SHD164D,State House of Representatives - District 164 - Dem<br>0 of 16 precincts reporting,100.0,"<b>Stephanie O Burgess</b><br>2,519 votes",16,0
-11,DEM,SHD165D,State House of Representatives - District 165 - Dem<br>6 of 19 precincts reporting,33.954983922829584,"<b>Kendra Clark</b><br>1,584 votes",19,6
-12,DEM,SHD165D,State House of Representatives - District 165 - Dem<br>6 of 19 precincts reporting,54.962486602357984,"<b>MiQuan Green</b><br>2,564 votes",19,6
-13,DEM,SHD165D,State House of Representatives - District 165 - Dem<br>6 of 19 precincts reporting,11.082529474812434,<b>Jaylen Jay Morris</b><br>517 votes,19,6
-14,REP,SHD166R,State House of Representatives - District 166 - Rep<br>1 of 22 precincts reporting,100.0,"<b>Jesse Petrea (I)</b><br>4,508 votes",22,1
-15,DEM,SHD166D,State House of Representatives - District 166 - Dem<br>1 of 22 precincts reporting,100.0,"<b>Pat Daley</b><br>2,401 votes",22,1
-16,,SJC41,Judge - Superior Court - Eastern Judicial Circuit (Karpf)<br>13 of 86 precincts reporting,100.0,"<b>Benjamin W. Karpf (I)</b><br>22,847 votes",86,13
-17,,SJC42,Judge - Superior Court - Eastern Judicial Circuit (Stokes)<br>13 of 86 precincts reporting,100.0,"<b>Tammy M. Stokes (I)</b><br>23,410 votes",86,13
-18,,SJC43,Judge - Superior Court - Eastern Judicial Circuit (Walmsley)<br>13 of 86 precincts reporting,100.0,"<b>Timothy R. Walmsley (I)</b><br>22,703 votes",86,13
-19,,,Chatham County: Recorder's Court Judge (Huffman)<br>13 of 86 precincts reporting,100.0,"<b>Joe Huffman (I)</b><br>22,619 votes",86,13
-20,,,Chatham County: Recorder's Court Judge (Williams)<br>13 of 86 precincts reporting,63.441339875907374,"<b>Claire Cornwell-Williams (I)</b><br>15,644 votes",86,13
-21,,,Chatham County: Recorder's Court Judge (Williams)<br>13 of 86 precincts reporting,36.558660124092626,"<b>Marcus Tucker</b><br>9,015 votes",86,13
-22,,,Chatham County: County Commissioner - District 4 (Farrell)<br>2 of 14 precincts reporting,60.40653999116218,"<b>Brian Hussey</b><br>2,734 votes",14,2
-23,,,Chatham County: County Commissioner - District 4 (Farrell)<br>2 of 14 precincts reporting,39.59346000883783,"<b>Joe Welch</b><br>1,792 votes",14,2
-24,,,Chatham County: BOE President<br>13 of 86 precincts reporting,51.25590551181103,"<b>Dionne Hoskins-Brown</b><br>13,019 votes",86,13
-25,,,Chatham County: BOE President<br>13 of 86 precincts reporting,48.74409448818898,"<b>Roger Moss (I)</b><br>12,381 votes",86,13
-26,,,Chatham County: BOE - District 4 (Kachmar)<br>2 of 14 precincts reporting,100.0,"<b>Shawn Kachmar (I)</b><br>4,137 votes",14,2
-27,,,Chatham County: BOE - District 5 (Smith)<br>2 of 10 precincts reporting,100.0,"<b>Paul E. Smith (I)</b><br>2,378 votes",10,2
-28,,,Chatham County: BOE - District 6 (Bringman)<br>1 of 10 precincts reporting,100.0,"<b>David Bringman (I)</b><br>2,788 votes",10,1
-29,,,Chatham County: BOE - District 8 (Howard-Hall)<br>1 of 15 precincts reporting,100.0,"<b>Tonia Howard-Hall (I)</b><br>1,976 votes",15,1
-30,REP,,Chatham County: Elections Board Member 1 - Rep<br>13 of 86 precincts reporting,100.0,"<b>Jody Voss</b><br>6,899 votes",86,13
-31,DEM,,Chatham County: Elections Board Member 2  - Dem<br>13 of 86 precincts reporting,100.0,"<b>JaQuan O. Oliver</b><br>15,857 votes",86,13
-32,REP,,Chatham County: Elections Board Member 3 - Rep<br>13 of 86 precincts reporting,46.00613415122016,"<b>Vicki Aeger Bradley</b><br>3,450 votes",86,13
-33,REP,,Chatham County: Elections Board Member 3 - Rep<br>13 of 86 precincts reporting,53.99386584877984,"<b>James Brisson Hall (I)</b><br>4,049 votes",86,13
-34,DEM,,Chatham County: Elections Board Member 4  - Dem<br>13 of 86 precincts reporting,54.52342965195296,"<b>Trish Brown (I)</b><br>9,227 votes",86,13
-35,DEM,,Chatham County: Elections Board Member 4  - Dem<br>13 of 86 precincts reporting,45.476570348047034,"<b>Tara Scott-Brown</b><br>7,696 votes",86,13
+0,REP,SSD1R,State Senate - District 1 - Rep<br>32 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>13,164 votes",49,32
+1,DEM,SSD1D,State Senate - District 1 - Dem<br>32 of 49 precincts reporting,59.21904053551506,"<b>Corey Foreman</b><br>7,962 votes",49,32
+2,DEM,SSD1D,State Senate - District 1 - Dem<br>32 of 49 precincts reporting,40.78095946448494,"<b>Barbara Gooby</b><br>5,483 votes",49,32
+3,DEM,SSD2D,State Senate - District 2 - Dem<br>34 of 58 precincts reporting,100.0,"<b>Derek J. Mallow (I)</b><br>16,224 votes",58,34
+4,REP,SSD4R,State Senate - District 4 - Rep<br>41 of 45 precincts reporting,100.0,"<b>Billy Hickman (I)</b><br>10,376 votes",45,41
+5,REP,SHD161R,State House of Representatives - District 161 - Rep<br>14 of 18 precincts reporting,100.0,"<b>Bill Hitchens (I)</b><br>3,769 votes",18,14
+6,DEM,SHD161D,State House of Representatives - District 161 - Dem<br>14 of 18 precincts reporting,100.0,"<b>David Dillie</b><br>3,020 votes",18,14
+7,DEM,SHD162D,State House of Representatives - District 162 - Dem<br>9 of 16 precincts reporting,100.0,"<b>Orlando Scott</b><br>4,739 votes",16,9
+8,DEM,SHD163D,State House of Representatives - District 163 - Dem<br>13 of 24 precincts reporting,100.0,"<b>Anne Allen Westbrook (I)</b><br>5,361 votes",24,13
+9,REP,SHD164R,State House of Representatives - District 164 - Rep<br>9 of 16 precincts reporting,100.0,"<b>Ron Stephens (I)</b><br>3,588 votes",16,9
+10,DEM,SHD164D,State House of Representatives - District 164 - Dem<br>9 of 16 precincts reporting,100.0,"<b>Stephanie O Burgess</b><br>3,770 votes",16,9
+11,DEM,SHD165D,State House of Representatives - District 165 - Dem<br>11 of 19 precincts reporting,35.42600896860987,"<b>Kendra Clark</b><br>2,054 votes",19,11
+12,DEM,SHD165D,State House of Representatives - District 165 - Dem<br>11 of 19 precincts reporting,53.81165919282511,"<b>MiQuan Green</b><br>3,120 votes",19,11
+13,DEM,SHD165D,State House of Representatives - District 165 - Dem<br>11 of 19 precincts reporting,10.762331838565023,<b>Jaylen Jay Morris</b><br>624 votes,19,11
+14,REP,SHD166R,State House of Representatives - District 166 - Rep<br>12 of 22 precincts reporting,100.0,"<b>Jesse Petrea (I)</b><br>7,058 votes",22,12
+15,DEM,SHD166D,State House of Representatives - District 166 - Dem<br>12 of 22 precincts reporting,100.0,"<b>Pat Daley</b><br>3,349 votes",22,12
+16,,SJC41,Judge - Superior Court - Eastern Judicial Circuit (Karpf)<br>44 of 86 precincts reporting,100.0,"<b>Benjamin W. Karpf (I)</b><br>33,142 votes",86,44
+17,,SJC42,Judge - Superior Court - Eastern Judicial Circuit (Stokes)<br>44 of 86 precincts reporting,100.0,"<b>Tammy M. Stokes (I)</b><br>33,833 votes",86,44
+18,,SJC43,Judge - Superior Court - Eastern Judicial Circuit (Walmsley)<br>44 of 86 precincts reporting,100.0,"<b>Timothy R. Walmsley (I)</b><br>32,931 votes",86,44
+19,,,Chatham County: Recorder's Court Judge (Huffman)<br>44 of 86 precincts reporting,100.0,"<b>Joe Huffman (I)</b><br>32,788 votes",86,44
+20,,,Chatham County: Recorder's Court Judge (Williams)<br>44 of 86 precincts reporting,64.27272981514109,"<b>Claire Cornwell-Williams (I)</b><br>22,982 votes",86,44
+21,,,Chatham County: Recorder's Court Judge (Williams)<br>44 of 86 precincts reporting,35.72727018485891,"<b>Marcus Tucker</b><br>12,775 votes",86,44
+22,,,Chatham County: County Commissioner - District 4 (Farrell)<br>6 of 14 precincts reporting,59.94703224801371,"<b>Brian Hussey</b><br>3,848 votes",14,6
+23,,,Chatham County: County Commissioner - District 4 (Farrell)<br>6 of 14 precincts reporting,40.05296775198629,"<b>Joe Welch</b><br>2,571 votes",14,6
+24,,,Chatham County: BOE President<br>44 of 86 precincts reporting,50.191342108834306,"<b>Dionne Hoskins-Brown</b><br>18,493 votes",86,44
+25,,,Chatham County: BOE President<br>44 of 86 precincts reporting,49.808657891165694,"<b>Roger Moss (I)</b><br>18,352 votes",86,44
+26,,,Chatham County: BOE - District 4 (Kachmar)<br>6 of 14 precincts reporting,100.0,"<b>Shawn Kachmar (I)</b><br>5,826 votes",14,6
+27,,,Chatham County: BOE - District 5 (Smith)<br>5 of 10 precincts reporting,100.0,"<b>Paul E. Smith (I)</b><br>3,275 votes",10,5
+28,,,Chatham County: BOE - District 6 (Bringman)<br>5 of 10 precincts reporting,100.0,"<b>David Bringman (I)</b><br>4,154 votes",10,5
+29,,,Chatham County: BOE - District 8 (Howard-Hall)<br>9 of 15 precincts reporting,100.0,"<b>Tonia Howard-Hall (I)</b><br>3,323 votes",15,9
+30,REP,,Chatham County: Elections Board Member 1 - Rep<br>44 of 86 precincts reporting,100.0,"<b>Jody Voss</b><br>10,756 votes",86,44
+31,DEM,,Chatham County: Elections Board Member 2  - Dem<br>44 of 86 precincts reporting,100.0,"<b>JaQuan O. Oliver</b><br>22,128 votes",86,44
+32,REP,,Chatham County: Elections Board Member 3 - Rep<br>44 of 86 precincts reporting,45.2604611443211,"<b>Vicki Aeger Bradley</b><br>5,300 votes",86,44
+33,REP,,Chatham County: Elections Board Member 3 - Rep<br>44 of 86 precincts reporting,54.7395388556789,"<b>James Brisson Hall (I)</b><br>6,410 votes",86,44
+34,DEM,,Chatham County: Elections Board Member 4  - Dem<br>44 of 86 precincts reporting,54.846657038484416,"<b>Trish Brown (I)</b><br>12,912 votes",86,44
+35,DEM,,Chatham County: Elections Board Member 4  - Dem<br>44 of 86 precincts reporting,45.15334296151559,"<b>Tara Scott-Brown</b><br>10,630 votes",86,44

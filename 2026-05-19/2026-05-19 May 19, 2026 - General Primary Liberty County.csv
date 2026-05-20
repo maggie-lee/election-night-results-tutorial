@@ -1,16 +1,16 @@
 ,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
-0,REP,SSD1R,State Senate - District 1 - Rep<br>14 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>9,018 votes",49,14
-1,DEM,SSD1D,State Senate - District 1 - Dem<br>14 of 49 precincts reporting,59.038548752834465,"<b>Corey Foreman</b><br>6,509 votes",49,14
-2,DEM,SSD1D,State Senate - District 1 - Dem<br>14 of 49 precincts reporting,40.961451247165535,"<b>Barbara Gooby</b><br>4,516 votes",49,14
-3,REP,SHD167R,State House of Representatives - District 167 - Rep<br>16 of 22 precincts reporting,100.0,"<b>Buddy DeLoach (I)</b><br>3,349 votes",22,16
-4,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>16 of 22 precincts reporting,42.941757156959525,"<b>Nathaniel Hicks, Jr.</b><br>870 votes",22,16
-5,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>16 of 22 precincts reporting,57.058242843040475,"<b>Laurie Thompson</b><br>1,156 votes",22,16
+0,REP,SSD1R,State Senate - District 1 - Rep<br>32 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>13,164 votes",49,32
+1,DEM,SSD1D,State Senate - District 1 - Dem<br>32 of 49 precincts reporting,59.21904053551506,"<b>Corey Foreman</b><br>7,962 votes",49,32
+2,DEM,SSD1D,State Senate - District 1 - Dem<br>32 of 49 precincts reporting,40.78095946448494,"<b>Barbara Gooby</b><br>5,483 votes",49,32
+3,REP,SHD167R,State House of Representatives - District 167 - Rep<br>16 of 22 precincts reporting,100.0,"<b>Buddy DeLoach (I)</b><br>3,975 votes",22,16
+4,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>16 of 22 precincts reporting,42.95743747257569,"<b>Nathaniel Hicks, Jr.</b><br>979 votes",22,16
+5,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>16 of 22 precincts reporting,57.04256252742431,"<b>Laurie Thompson</b><br>1,300 votes",22,16
 6,REP,SHD168R,State House of Representatives - District 168 - Rep<br>12 of 12 precincts reporting,100.0,"<b>Kevin Remillard</b><br>1,997 votes",12,12
 7,DEM,SHD168D,State House of Representatives - District 168 - Dem<br>12 of 12 precincts reporting,38.457727873183615,"<b>Sabrina Newby</b><br>2,329 votes",12,12
 8,DEM,SHD168D,State House of Representatives - District 168 - Dem<br>12 of 12 precincts reporting,61.54227212681638,"<b>Al Williams (I)</b><br>3,727 votes",12,12
-9,REP,SDA5R,District Attorney - Atlantic Judicial Circuit - Rep<br>23 of 44 precincts reporting,100.0,"<b>Billy Joe Nelson, Jr. (I)</b><br>8,467 votes",44,23
-10,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>23 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>12,801 votes",44,23
-11,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>23 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>13,202 votes",44,23
+9,REP,SDA5R,District Attorney - Atlantic Judicial Circuit - Rep<br>38 of 44 precincts reporting,100.0,"<b>Billy Joe Nelson, Jr. (I)</b><br>11,699 votes",44,38
+10,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>38 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>21,391 votes",44,38
+11,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>38 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>21,904 votes",44,38
 12,REP,,Liberty County: County Commission - District 1 - Rep<br>9 of 9 precincts reporting,100.0,"<b>Joseph ""Michael"" Cook</b><br>578 votes",9,9
 13,DEM,,Liberty County: County Commission - District 1 - Dem<br>9 of 9 precincts reporting,40.513392857142854,<b>Larry D. Baker</b><br>726 votes,9,9
 14,DEM,,Liberty County: County Commission - District 1 - Dem<br>9 of 9 precincts reporting,21.428571428571427,"<b>Stanley E. Brown, Sr.</b><br>384 votes",9,9
