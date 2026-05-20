@@ -1,11 +1,11 @@
 ,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
-0,REP,SSD3R,State Senate - District 3 - Rep<br>25 of 46 precincts reporting,100.0,"<b>Mike Hodges (I)</b><br>11,229 votes",46,25
+0,REP,SSD3R,State Senate - District 3 - Rep<br>31 of 46 precincts reporting,100.0,"<b>Mike Hodges (I)</b><br>12,342 votes",46,31
 1,REP,SHD167R,State House of Representatives - District 167 - Rep<br>8 of 22 precincts reporting,100.0,"<b>Buddy DeLoach (I)</b><br>1,934 votes",22,8
 2,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>8 of 22 precincts reporting,43.28238133547868,"<b>Nathaniel Hicks, Jr.</b><br>538 votes",22,8
 3,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>8 of 22 precincts reporting,56.71761866452132,<b>Laurie Thompson</b><br>705 votes,22,8
 4,REP,SHD179R,State House of Representatives - District 179 - Rep<br>11 of 11 precincts reporting,100.0,"<b>Rick Townsend (I)</b><br>3,207 votes",11,11
-5,REP,SHD180R,State House of Representatives - District 180 - Rep<br>11 of 14 precincts reporting,100.0,"<b>Steven Sainz (I)</b><br>3,996 votes",14,11
-6,,SJC21,Judge - Superior Court - Brunswick Judicial Circuit (Lane)<br>37 of 55 precincts reporting,100.0,"<b>Roger B. Lane (I)</b><br>17,742 votes",55,37
+5,REP,SHD180R,State House of Representatives - District 180 - Rep<br>14 of 14 precincts reporting,100.0,"<b>Steven Sainz (I)</b><br>4,682 votes",14,14
+6,,SJC21,Judge - Superior Court - Brunswick Judicial Circuit (Lane)<br>40 of 55 precincts reporting,100.0,"<b>Roger B. Lane (I)</b><br>18,698 votes",55,40
 7,DEM,,Glynn County: BOE - District 4 - Dem<br>4 of 4 precincts reporting,100.0,<b>Craig B. Campbell</b><br>593 votes,4,4
 8,,,Glynn County: Joint Water & Sewer Commissioner - Post 2<br>14 of 14 precincts reporting,41.188277800080286,"<b>Mark C. Ryals</b><br>3,078 votes",14,14
 9,,,Glynn County: Joint Water & Sewer Commissioner - Post 2<br>14 of 14 precincts reporting,58.811722199919714,"<b>Clayton Watson (I)</b><br>4,395 votes",14,14

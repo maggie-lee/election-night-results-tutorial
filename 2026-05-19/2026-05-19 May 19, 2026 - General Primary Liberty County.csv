@@ -1,30 +1,30 @@
 ,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
-0,REP,SSD1R,State Senate - District 1 - Rep<br>9 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>8,495 votes",49,9
-1,DEM,SSD1D,State Senate - District 1 - Dem<br>9 of 49 precincts reporting,59.144044053714616,"<b>Corey Foreman</b><br>6,122 votes",49,9
-2,DEM,SSD1D,State Senate - District 1 - Dem<br>9 of 49 precincts reporting,40.855955946285384,"<b>Barbara Gooby</b><br>4,229 votes",49,9
+0,REP,SSD1R,State Senate - District 1 - Rep<br>12 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>8,650 votes",49,12
+1,DEM,SSD1D,State Senate - District 1 - Dem<br>12 of 49 precincts reporting,59.178410242240034,"<b>Corey Foreman</b><br>6,425 votes",49,12
+2,DEM,SSD1D,State Senate - District 1 - Dem<br>12 of 49 precincts reporting,40.821589757759966,"<b>Barbara Gooby</b><br>4,432 votes",49,12
 3,REP,SHD167R,State House of Representatives - District 167 - Rep<br>8 of 22 precincts reporting,100.0,"<b>Buddy DeLoach (I)</b><br>1,934 votes",22,8
 4,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>8 of 22 precincts reporting,43.28238133547868,"<b>Nathaniel Hicks, Jr.</b><br>538 votes",22,8
 5,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>8 of 22 precincts reporting,56.71761866452132,<b>Laurie Thompson</b><br>705 votes,22,8
-6,REP,SHD168R,State House of Representatives - District 168 - Rep<br>9 of 12 precincts reporting,100.0,"<b>Kevin Remillard</b><br>1,857 votes",12,9
-7,DEM,SHD168D,State House of Representatives - District 168 - Dem<br>9 of 12 precincts reporting,37.580993520518355,"<b>Sabrina Newby</b><br>2,088 votes",12,9
-8,DEM,SHD168D,State House of Representatives - District 168 - Dem<br>9 of 12 precincts reporting,62.419006479481645,"<b>Al Williams (I)</b><br>3,468 votes",12,9
-9,REP,SDA5R,District Attorney - Atlantic Judicial Circuit - Rep<br>9 of 44 precincts reporting,100.0,"<b>Billy Joe Nelson, Jr. (I)</b><br>6,338 votes",44,9
-10,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>9 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>9,417 votes",44,9
-11,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>9 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>9,651 votes",44,9
-12,REP,,Liberty County: County Commission - District 1 - Rep<br>7 of 9 precincts reporting,100.0,"<b>Joseph ""Michael"" Cook</b><br>556 votes",9,7
-13,DEM,,Liberty County: County Commission - District 1 - Dem<br>7 of 9 precincts reporting,39.95354239256678,<b>Larry D. Baker</b><br>688 votes,9,7
-14,DEM,,Liberty County: County Commission - District 1 - Dem<br>7 of 9 precincts reporting,21.777003484320556,"<b>Stanley E. Brown, Sr.</b><br>375 votes",9,7
-15,DEM,,Liberty County: County Commission - District 1 - Dem<br>7 of 9 precincts reporting,38.26945412311266,"<b>Marion Stevens, Sr. (I)</b><br>659 votes",9,7
-16,DEM,,Liberty County: County Commission - District 2 - Dem<br>4 of 5 precincts reporting,100.0,<b>Justin L. Frasier (I)</b><br>841 votes,5,4
-17,REP,,Liberty County: County Commission - District 3 - Rep<br>5 of 6 precincts reporting,100.0,<b>Greg Lachowsky</b><br>195 votes,6,5
-18,DEM,,Liberty County: County Commission - District 3 - Dem<br>5 of 6 precincts reporting,48.953301127214175,<b>Janelle N. Johns</b><br>304 votes,6,5
-19,DEM,,Liberty County: County Commission - District 3 - Dem<br>5 of 6 precincts reporting,51.04669887278583,<b>Connie L. Thrift (I)</b><br>317 votes,6,5
-20,,,Liberty County: BOE Chairman- At Large<br>9 of 12 precincts reporting,19.275866512047415,"<b>Kisya Burnett</b><br>1,496 votes",12,9
-21,,,Liberty County: BOE Chairman- At Large<br>9 of 12 precincts reporting,52.274191470171374,"<b>Verdell D. Jones (I)</b><br>4,057 votes",12,9
-22,,,Liberty County: BOE Chairman- At Large<br>9 of 12 precincts reporting,13.696688571060431,"<b>Tim King</b><br>1,063 votes",12,9
-23,,,Liberty County: BOE Chairman- At Large<br>9 of 12 precincts reporting,14.753253446720782,"<b>Franklin Perry</b><br>1,145 votes",12,9
-24,,,Liberty County: BOE - District 4<br>3 of 4 precincts reporting,63.63636363636363,<b>Terry Cook</b><br>602 votes,4,3
-25,,,Liberty County: BOE - District 4<br>3 of 4 precincts reporting,36.36363636363637,<b>Charlene Lewis Rocker</b><br>344 votes,4,3
-26,,,Liberty County: BOE - District 5<br>3 of 6 precincts reporting,100.0,"<b>Chante Baker Martin (I)</b><br>1,044 votes",6,3
-27,,,Liberty County: BOE - District 6<br>4 of 5 precincts reporting,59.037900874635575,<b>Richard D. Hayes</b><br>810 votes,5,4
-28,,,Liberty County: BOE - District 6<br>4 of 5 precincts reporting,40.96209912536443,<b>Teresa L. Wiser</b><br>562 votes,5,4
+6,REP,SHD168R,State House of Representatives - District 168 - Rep<br>12 of 12 precincts reporting,100.0,"<b>Kevin Remillard</b><br>1,997 votes",12,12
+7,DEM,SHD168D,State House of Representatives - District 168 - Dem<br>12 of 12 precincts reporting,38.457727873183615,"<b>Sabrina Newby</b><br>2,329 votes",12,12
+8,DEM,SHD168D,State House of Representatives - District 168 - Dem<br>12 of 12 precincts reporting,61.54227212681638,"<b>Al Williams (I)</b><br>3,727 votes",12,12
+9,REP,SDA5R,District Attorney - Atlantic Judicial Circuit - Rep<br>13 of 44 precincts reporting,100.0,"<b>Billy Joe Nelson, Jr. (I)</b><br>7,479 votes",44,13
+10,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>13 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>11,387 votes",44,13
+11,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>13 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>11,754 votes",44,13
+12,REP,,Liberty County: County Commission - District 1 - Rep<br>9 of 9 precincts reporting,100.0,"<b>Joseph ""Michael"" Cook</b><br>578 votes",9,9
+13,DEM,,Liberty County: County Commission - District 1 - Dem<br>9 of 9 precincts reporting,40.513392857142854,<b>Larry D. Baker</b><br>726 votes,9,9
+14,DEM,,Liberty County: County Commission - District 1 - Dem<br>9 of 9 precincts reporting,21.428571428571427,"<b>Stanley E. Brown, Sr.</b><br>384 votes",9,9
+15,DEM,,Liberty County: County Commission - District 1 - Dem<br>9 of 9 precincts reporting,38.058035714285715,"<b>Marion Stevens, Sr. (I)</b><br>682 votes",9,9
+16,DEM,,Liberty County: County Commission - District 2 - Dem<br>5 of 5 precincts reporting,100.0,<b>Justin L. Frasier (I)</b><br>972 votes,5,5
+17,REP,,Liberty County: County Commission - District 3 - Rep<br>6 of 6 precincts reporting,100.0,<b>Greg Lachowsky</b><br>195 votes,6,6
+18,DEM,,Liberty County: County Commission - District 3 - Dem<br>6 of 6 precincts reporting,48.953301127214175,<b>Janelle N. Johns</b><br>304 votes,6,6
+19,DEM,,Liberty County: County Commission - District 3 - Dem<br>6 of 6 precincts reporting,51.04669887278583,<b>Connie L. Thrift (I)</b><br>317 votes,6,6
+20,,,Liberty County: BOE Chairman- At Large<br>12 of 12 precincts reporting,19.720147041385037,"<b>Kisya Burnett</b><br>1,663 votes",12,12
+21,,,Liberty County: BOE Chairman- At Large<br>12 of 12 precincts reporting,51.95066998695601,"<b>Verdell D. Jones (I)</b><br>4,381 votes",12,12
+22,,,Liberty County: BOE Chairman- At Large<br>12 of 12 precincts reporting,13.577611763310804,"<b>Tim King</b><br>1,145 votes",12,12
+23,,,Liberty County: BOE Chairman- At Large<br>12 of 12 precincts reporting,14.751571208348155,"<b>Franklin Perry</b><br>1,244 votes",12,12
+24,,,Liberty County: BOE - District 4<br>4 of 4 precincts reporting,63.64594309799789,<b>Terry Cook</b><br>604 votes,4,4
+25,,,Liberty County: BOE - District 4<br>4 of 4 precincts reporting,36.35405690200211,<b>Charlene Lewis Rocker</b><br>345 votes,4,4
+26,,,Liberty County: BOE - District 5<br>6 of 6 precincts reporting,100.0,"<b>Chante Baker Martin (I)</b><br>1,381 votes",6,6
+27,,,Liberty County: BOE - District 6<br>5 of 5 precincts reporting,58.92351274787535,<b>Richard D. Hayes</b><br>832 votes,5,5
+28,,,Liberty County: BOE - District 6<br>5 of 5 precincts reporting,41.07648725212464,<b>Teresa L. Wiser</b><br>580 votes,5,5
