@@ -1,15 +1,15 @@
 ,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
-0,REP,SSD1R,State Senate - District 1 - Rep<br>3 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>6,702 votes",49,3
-1,DEM,SSD1D,State Senate - District 1 - Dem<br>3 of 49 precincts reporting,58.413150401242554,"<b>Corey Foreman</b><br>4,513 votes",49,3
-2,DEM,SSD1D,State Senate - District 1 - Dem<br>3 of 49 precincts reporting,41.58684959875744,"<b>Barbara Gooby</b><br>3,213 votes",49,3
+0,REP,SSD1R,State Senate - District 1 - Rep<br>6 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>6,904 votes",49,6
+1,DEM,SSD1D,State Senate - District 1 - Dem<br>6 of 49 precincts reporting,58.52562545542871,"<b>Corey Foreman</b><br>4,819 votes",49,6
+2,DEM,SSD1D,State Senate - District 1 - Dem<br>6 of 49 precincts reporting,41.47437454457129,"<b>Barbara Gooby</b><br>3,415 votes",49,6
 3,REP,SHD160R,State House of Representatives - District 160 - Rep<br>0 of 13 precincts reporting,100.0,<b>Lehman Franklin (I)</b><br>521 votes,13,0
 4,REP,SHD164R,State House of Representatives - District 164 - Rep<br>0 of 16 precincts reporting,100.0,"<b>Ron Stephens (I)</b><br>1,118 votes",16,0
 5,DEM,SHD164D,State House of Representatives - District 164 - Dem<br>0 of 16 precincts reporting,100.0,<b>Stephanie O Burgess</b><br>981 votes,16,0
 6,REP,SHD166R,State House of Representatives - District 166 - Rep<br>0 of 22 precincts reporting,100.0,"<b>Jesse Petrea (I)</b><br>3,643 votes",22,0
 7,DEM,SHD166D,State House of Representatives - District 166 - Dem<br>0 of 22 precincts reporting,100.0,"<b>Pat Daley</b><br>1,883 votes",22,0
-8,REP,SDA5R,District Attorney - Atlantic Judicial Circuit - Rep<br>3 of 44 precincts reporting,100.0,"<b>Billy Joe Nelson, Jr. (I)</b><br>5,630 votes",44,3
-9,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>3 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>11,605 votes",44,3
-10,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>3 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>11,837 votes",44,3
+8,REP,SDA5R,District Attorney - Atlantic Judicial Circuit - Rep<br>6 of 44 precincts reporting,100.0,"<b>Billy Joe Nelson, Jr. (I)</b><br>5,835 votes",44,6
+9,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>6 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>12,326 votes",44,6
+10,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>6 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>12,564 votes",44,6
 11,REP,,Bryan County: County Commission - District 2 - Rep<br>0 of 2 precincts reporting,100.0,<b>Wade Price (I)</b><br>261 votes,2,0
 12,DEM,,Bryan County: County Commission - District 2 - Dem<br>0 of 2 precincts reporting,100.0,<b>James Fulwood</b><br>212 votes,2,0
 13,REP,,Bryan County: County Commission - District 4 - Rep<br>0 of 2 precincts reporting,63.38495575221239,<b>Andrew S. Johnson</b><br>573 votes,2,0
