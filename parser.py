@@ -354,7 +354,7 @@ for county in counties:
 	# This is not great but here goes:
 
 	# 
-	exclude_list = ['US ', 'PRESIDENT', 'GOVERNOR', 'SECRETARY', 'AGRICULTURE', 
+	exclude_list = ['US ', 'GOVERNOR', 'SECRETARY', 'AGRICULTURE', 
 					'ATTORNEY GENERAL', 'INSURANCE', 'SUPERINTENDENT', 'LABOR',
 					'PUBLIC SERVICE', 'SUPREME', 'APPEALS', 'STATEWIDE', 'CONSTITUTIONAL', 'PSC ', 'PARTY QUESTION']
 
