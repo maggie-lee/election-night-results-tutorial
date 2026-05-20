@@ -1,7 +1,7 @@
 ,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
-0,REP,SSD1R,State Senate - District 1 - Rep<br>42 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>16,386 votes",49,42
-1,DEM,SSD1D,State Senate - District 1 - Dem<br>42 of 49 precincts reporting,58.758375495692604,"<b>Corey Foreman</b><br>8,594 votes",49,42
-2,DEM,SSD1D,State Senate - District 1 - Dem<br>42 of 49 precincts reporting,41.2416245043074,"<b>Barbara Gooby</b><br>6,032 votes",49,42
+0,REP,SSD1R,State Senate - District 1 - Rep<br>49 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>17,988 votes",49,49
+1,DEM,SSD1D,State Senate - District 1 - Dem<br>49 of 49 precincts reporting,58.58380030565461,"<b>Corey Foreman</b><br>9,200 votes",49,49
+2,DEM,SSD1D,State Senate - District 1 - Dem<br>49 of 49 precincts reporting,41.41619969434539,"<b>Barbara Gooby</b><br>6,504 votes",49,49
 3,REP,SHD167R,State House of Representatives - District 167 - Rep<br>21 of 22 precincts reporting,100.0,"<b>Buddy DeLoach (I)</b><br>6,166 votes",22,21
 4,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>21 of 22 precincts reporting,52.727800348229835,"<b>Nathaniel Hicks, Jr.</b><br>1,817 votes",22,21
 5,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>21 of 22 precincts reporting,47.27219965177017,"<b>Laurie Thompson</b><br>1,629 votes",22,21

@@ -1,12 +1,12 @@
 ,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
-0,REP,SSD1R,State Senate - District 1 - Rep<br>42 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>16,386 votes",49,42
-1,DEM,SSD1D,State Senate - District 1 - Dem<br>42 of 49 precincts reporting,58.758375495692604,"<b>Corey Foreman</b><br>8,594 votes",49,42
-2,DEM,SSD1D,State Senate - District 1 - Dem<br>42 of 49 precincts reporting,41.2416245043074,"<b>Barbara Gooby</b><br>6,032 votes",49,42
+0,REP,SSD1R,State Senate - District 1 - Rep<br>49 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>17,988 votes",49,49
+1,DEM,SSD1D,State Senate - District 1 - Dem<br>49 of 49 precincts reporting,58.58380030565461,"<b>Corey Foreman</b><br>9,200 votes",49,49
+2,DEM,SSD1D,State Senate - District 1 - Dem<br>49 of 49 precincts reporting,41.41619969434539,"<b>Barbara Gooby</b><br>6,504 votes",49,49
 3,REP,SHD160R,State House of Representatives - District 160 - Rep<br>13 of 13 precincts reporting,100.0,"<b>Lehman Franklin (I)</b><br>4,646 votes",13,13
-4,REP,SHD164R,State House of Representatives - District 164 - Rep<br>10 of 16 precincts reporting,100.0,"<b>Ron Stephens (I)</b><br>3,802 votes",16,10
-5,DEM,SHD164D,State House of Representatives - District 164 - Dem<br>10 of 16 precincts reporting,100.0,"<b>Stephanie O Burgess</b><br>3,835 votes",16,10
-6,REP,SHD166R,State House of Representatives - District 166 - Rep<br>19 of 22 precincts reporting,100.0,"<b>Jesse Petrea (I)</b><br>9,761 votes",22,19
-7,DEM,SHD166D,State House of Representatives - District 166 - Dem<br>19 of 22 precincts reporting,100.0,"<b>Pat Daley</b><br>4,164 votes",22,19
+4,REP,SHD164R,State House of Representatives - District 164 - Rep<br>16 of 16 precincts reporting,100.0,"<b>Ron Stephens (I)</b><br>4,643 votes",16,16
+5,DEM,SHD164D,State House of Representatives - District 164 - Dem<br>16 of 16 precincts reporting,100.0,"<b>Stephanie O Burgess</b><br>4,860 votes",16,16
+6,REP,SHD166R,State House of Representatives - District 166 - Rep<br>22 of 22 precincts reporting,100.0,"<b>Jesse Petrea (I)</b><br>10,673 votes",22,22
+7,DEM,SHD166D,State House of Representatives - District 166 - Dem<br>22 of 22 precincts reporting,100.0,"<b>Pat Daley</b><br>4,491 votes",22,22
 8,REP,SDA5R,District Attorney - Atlantic Judicial Circuit - Rep<br>43 of 44 precincts reporting,100.0,"<b>Billy Joe Nelson, Jr. (I)</b><br>13,863 votes",44,43
 9,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>43 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>24,358 votes",44,43
 10,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>43 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>24,927 votes",44,43
