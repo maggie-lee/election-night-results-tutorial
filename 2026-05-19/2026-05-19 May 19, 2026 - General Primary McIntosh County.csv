@@ -1,21 +1,21 @@
 ,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
-0,REP,SSD3R,State Senate - District 3 - Rep<br>38 of 46 precincts reporting,100.0,"<b>Mike Hodges (I)</b><br>17,475 votes",46,38
-1,REP,SHD167R,State House of Representatives - District 167 - Rep<br>16 of 22 precincts reporting,100.0,"<b>Buddy DeLoach (I)</b><br>3,975 votes",22,16
-2,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>16 of 22 precincts reporting,42.95743747257569,"<b>Nathaniel Hicks, Jr.</b><br>979 votes",22,16
-3,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>16 of 22 precincts reporting,57.04256252742431,"<b>Laurie Thompson</b><br>1,300 votes",22,16
-4,REP,SDA5R,District Attorney - Atlantic Judicial Circuit - Rep<br>38 of 44 precincts reporting,100.0,"<b>Billy Joe Nelson, Jr. (I)</b><br>11,699 votes",44,38
-5,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>38 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>21,391 votes",44,38
-6,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>38 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>21,904 votes",44,38
-7,REP,,McIntosh County: State Court Solicitor - Rep<br>0 of 6 precincts reporting,,"<b>Richard E. Braun, Jr. (I)</b><br>0 votes",6,0
-8,REP,,McIntosh County: County Commission - District 5 LRG - Rep<br>0 of 6 precincts reporting,,<b>Tim Gardner</b><br>0 votes,6,0
-9,REP,,McIntosh County: County Commission - District 5 LRG - Rep<br>0 of 6 precincts reporting,,<b>Kate Pontello Karwacki</b><br>0 votes,6,0
-10,REP,,McIntosh County: County Commission - District 5 LRG - Rep<br>0 of 6 precincts reporting,,<b>Kyle Turner</b><br>0 votes,6,0
-11,REP,,McIntosh County: County Commission - District 1 - Rep<br>0 of 2 precincts reporting,,<b>James Sailors</b><br>0 votes,2,0
-12,REP,,McIntosh County: County Commission - District 1 - Rep<br>0 of 2 precincts reporting,,<b>Fred Stregles</b><br>0 votes,2,0
-13,DEM,,McIntosh County: County Commission - District 3 - Dem<br>0 of 2 precincts reporting,,<b>JR Grovner</b><br>0 votes,2,0
-14,DEM,,McIntosh County: County Commission - District 3 - Dem<br>0 of 2 precincts reporting,,"<b>Roger B. Lotson, Sr. (I)</b><br>0 votes",2,0
-15,REP,,McIntosh County: BOE - District 1 - Rep<br>0 of 2 precincts reporting,,<b>Michael Lynn</b><br>0 votes,2,0
-16,REP,,McIntosh County: BOE - District 3 - Rep<br>0 of 2 precincts reporting,,<b>Jesse B. Hope</b><br>0 votes,2,0
-17,DEM,,McIntosh County: BOE - District 3 - Dem<br>0 of 2 precincts reporting,,<b>Fred A. McIver</b><br>0 votes,2,0
-18,,,McIntosh County: State Court Judge<br>0 of 6 precincts reporting,,<b>Josh Dorminy</b><br>0 votes,6,0
-19,,,McIntosh County: State Court Judge<br>0 of 6 precincts reporting,,<b>Jason A. Nix</b><br>0 votes,6,0
+0,REP,SSD3R,State Senate - District 3 - Rep<br>45 of 46 precincts reporting,100.0,"<b>Mike Hodges (I)</b><br>19,696 votes",46,45
+1,REP,SHD167R,State House of Representatives - District 167 - Rep<br>21 of 22 precincts reporting,100.0,"<b>Buddy DeLoach (I)</b><br>6,166 votes",22,21
+2,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>21 of 22 precincts reporting,52.727800348229835,"<b>Nathaniel Hicks, Jr.</b><br>1,817 votes",22,21
+3,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>21 of 22 precincts reporting,47.27219965177017,"<b>Laurie Thompson</b><br>1,629 votes",22,21
+4,REP,SDA5R,District Attorney - Atlantic Judicial Circuit - Rep<br>43 of 44 precincts reporting,100.0,"<b>Billy Joe Nelson, Jr. (I)</b><br>13,863 votes",44,43
+5,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>43 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>24,358 votes",44,43
+6,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>43 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>24,927 votes",44,43
+7,REP,,McIntosh County: State Court Solicitor - Rep<br>5 of 6 precincts reporting,100.0,"<b>Richard E. Braun, Jr. (I)</b><br>2,107 votes",6,5
+8,REP,,McIntosh County: County Commission - District 5 LRG - Rep<br>5 of 6 precincts reporting,39.36341659951652,<b>Tim Gardner</b><br>977 votes,6,5
+9,REP,,McIntosh County: County Commission - District 5 LRG - Rep<br>5 of 6 precincts reporting,23.650282030620467,<b>Kate Pontello Karwacki</b><br>587 votes,6,5
+10,REP,,McIntosh County: County Commission - District 5 LRG - Rep<br>5 of 6 precincts reporting,36.986301369863014,<b>Kyle Turner</b><br>918 votes,6,5
+11,REP,,McIntosh County: County Commission - District 1 - Rep<br>1 of 2 precincts reporting,60.392798690671036,<b>James Sailors</b><br>369 votes,2,1
+12,REP,,McIntosh County: County Commission - District 1 - Rep<br>1 of 2 precincts reporting,39.60720130932897,<b>Fred Stregles</b><br>242 votes,2,1
+13,DEM,,McIntosh County: County Commission - District 3 - Dem<br>2 of 2 precincts reporting,46.2655601659751,<b>JR Grovner</b><br>223 votes,2,2
+14,DEM,,McIntosh County: County Commission - District 3 - Dem<br>2 of 2 precincts reporting,53.7344398340249,"<b>Roger B. Lotson, Sr. (I)</b><br>259 votes",2,2
+15,REP,,McIntosh County: BOE - District 1 - Rep<br>1 of 2 precincts reporting,100.0,<b>Michael Lynn</b><br>528 votes,2,1
+16,REP,,McIntosh County: BOE - District 3 - Rep<br>2 of 2 precincts reporting,100.0,<b>Jesse B. Hope</b><br>245 votes,2,2
+17,DEM,,McIntosh County: BOE - District 3 - Dem<br>2 of 2 precincts reporting,100.0,<b>Fred A. McIver</b><br>450 votes,2,2
+18,,,McIntosh County: State Court Judge<br>5 of 6 precincts reporting,61.38872748402092,"<b>Josh Dorminy</b><br>2,113 votes",6,5
+19,,,McIntosh County: State Court Judge<br>5 of 6 precincts reporting,38.61127251597908,"<b>Jason A. Nix</b><br>1,329 votes",6,5
