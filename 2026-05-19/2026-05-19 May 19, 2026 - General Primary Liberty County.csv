@@ -1,16 +1,16 @@
 ,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
-0,REP,SSD1R,State Senate - District 1 - Rep<br>3 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>6,697 votes",49,3
-1,DEM,SSD1D,State Senate - District 1 - Dem<br>3 of 49 precincts reporting,58.384126572429,"<b>Corey Foreman</b><br>4,502 votes",49,3
-2,DEM,SSD1D,State Senate - District 1 - Dem<br>3 of 49 precincts reporting,41.615873427571,"<b>Barbara Gooby</b><br>3,209 votes",49,3
+0,REP,SSD1R,State Senate - District 1 - Rep<br>3 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>6,702 votes",49,3
+1,DEM,SSD1D,State Senate - District 1 - Dem<br>3 of 49 precincts reporting,58.413150401242554,"<b>Corey Foreman</b><br>4,513 votes",49,3
+2,DEM,SSD1D,State Senate - District 1 - Dem<br>3 of 49 precincts reporting,41.58684959875744,"<b>Barbara Gooby</b><br>3,213 votes",49,3
 3,REP,SHD167R,State House of Representatives - District 167 - Rep<br>6 of 22 precincts reporting,100.0,"<b>Buddy DeLoach (I)</b><br>1,317 votes",22,6
 4,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>6 of 22 precincts reporting,43.46642468239564,"<b>Nathaniel Hicks, Jr.</b><br>479 votes",22,6
 5,DEM,SHD167D,State House of Representatives - District 167 - Dem<br>6 of 22 precincts reporting,56.53357531760436,<b>Laurie Thompson</b><br>623 votes,22,6
 6,REP,SHD168R,State House of Representatives - District 168 - Rep<br>3 of 12 precincts reporting,100.0,"<b>Kevin Remillard</b><br>1,176 votes",12,3
 7,DEM,SHD168D,State House of Representatives - District 168 - Dem<br>3 of 12 precincts reporting,35.55158552925413,"<b>Sabrina Newby</b><br>1,592 votes",12,3
 8,DEM,SHD168D,State House of Representatives - District 168 - Dem<br>3 of 12 precincts reporting,64.44841447074587,"<b>Al Williams (I)</b><br>2,886 votes",12,3
-9,REP,SDA5R,District Attorney - Atlantic Judicial Circuit - Rep<br>3 of 44 precincts reporting,100.0,"<b>Billy Joe Nelson, Jr. (I)</b><br>5,625 votes",44,3
-10,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>3 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>11,589 votes",44,3
-11,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>3 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>11,819 votes",44,3
+9,REP,SDA5R,District Attorney - Atlantic Judicial Circuit - Rep<br>3 of 44 precincts reporting,100.0,"<b>Billy Joe Nelson, Jr. (I)</b><br>5,630 votes",44,3
+10,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>3 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>11,605 votes",44,3
+11,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>3 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>11,837 votes",44,3
 12,REP,,Liberty County: County Commission - District 1 - Rep<br>2 of 9 precincts reporting,100.0,"<b>Joseph ""Michael"" Cook</b><br>311 votes",9,2
 13,DEM,,Liberty County: County Commission - District 1 - Dem<br>2 of 9 precincts reporting,38.94230769230769,<b>Larry D. Baker</b><br>486 votes,9,2
 14,DEM,,Liberty County: County Commission - District 1 - Dem<br>2 of 9 precincts reporting,21.07371794871795,"<b>Stanley E. Brown, Sr.</b><br>263 votes",9,2
