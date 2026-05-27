@@ -1,15 +1,15 @@
 ,politicalParty,results.ballotItems.id,contest_name,percent_of_ballot_item,label,precinctsParticipating,precinctsReporting
-0,REP,SSD1R,State Senate - District 1 - Rep<br>49 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>17,994 votes",49,49
-1,DEM,SSD1D,State Senate - District 1 - Dem<br>49 of 49 precincts reporting,58.58270724563861,"<b>Corey Foreman</b><br>9,201 votes",49,49
-2,DEM,SSD1D,State Senate - District 1 - Dem<br>49 of 49 precincts reporting,41.41729275436139,"<b>Barbara Gooby</b><br>6,505 votes",49,49
+0,REP,SSD1R,State Senate - District 1 - Rep<br>49 of 49 precincts reporting,100.0,"<b>Ben Watson (I)</b><br>17,997 votes",49,49
+1,DEM,SSD1D,State Senate - District 1 - Dem<br>49 of 49 precincts reporting,58.57679332951435,"<b>Corey Foreman</b><br>9,203 votes",49,49
+2,DEM,SSD1D,State Senate - District 1 - Dem<br>49 of 49 precincts reporting,41.42320667048565,"<b>Barbara Gooby</b><br>6,508 votes",49,49
 3,REP,SHD160R,State House of Representatives - District 160 - Rep<br>13 of 13 precincts reporting,100.0,"<b>Lehman Franklin (I)</b><br>4,646 votes",13,13
-4,REP,SHD164R,State House of Representatives - District 164 - Rep<br>16 of 16 precincts reporting,100.0,"<b>Ron Stephens (I)</b><br>4,643 votes",16,16
+4,REP,SHD164R,State House of Representatives - District 164 - Rep<br>16 of 16 precincts reporting,100.0,"<b>Ron Stephens (I)</b><br>4,644 votes",16,16
 5,DEM,SHD164D,State House of Representatives - District 164 - Dem<br>16 of 16 precincts reporting,100.0,"<b>Stephanie O Burgess</b><br>4,860 votes",16,16
-6,REP,SHD166R,State House of Representatives - District 166 - Rep<br>22 of 22 precincts reporting,100.0,"<b>Jesse Petrea (I)</b><br>10,677 votes",22,22
+6,REP,SHD166R,State House of Representatives - District 166 - Rep<br>22 of 22 precincts reporting,100.0,"<b>Jesse Petrea (I)</b><br>10,678 votes",22,22
 7,DEM,SHD166D,State House of Representatives - District 166 - Dem<br>22 of 22 precincts reporting,100.0,"<b>Pat Daley</b><br>4,491 votes",22,22
-8,REP,SDA5R,District Attorney - Atlantic Judicial Circuit - Rep<br>44 of 44 precincts reporting,100.0,"<b>Billy Joe Nelson, Jr. (I)</b><br>13,866 votes",44,44
-9,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>44 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>24,362 votes",44,44
-10,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>44 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>24,931 votes",44,44
+8,REP,SDA5R,District Attorney - Atlantic Judicial Circuit - Rep<br>44 of 44 precincts reporting,100.0,"<b>Billy Joe Nelson, Jr. (I)</b><br>13,870 votes",44,44
+9,,SJC13,Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)<br>44 of 44 precincts reporting,100.0,"<b>Mark A. Hendrix (I)</b><br>24,370 votes",44,44
+10,,SJC14,Judge - Superior Court - Atlantic Judicial Circuit (Stewart)<br>44 of 44 precincts reporting,100.0,"<b>D. Jay Stewart (I)</b><br>24,938 votes",44,44
 11,REP,,Bryan County: County Commission - District 2 - Rep<br>2 of 2 precincts reporting,100.0,<b>Wade Price (I)</b><br>520 votes,2,2
 12,DEM,,Bryan County: County Commission - District 2 - Dem<br>2 of 2 precincts reporting,100.0,<b>James Fulwood</b><br>431 votes,2,2
 13,REP,,Bryan County: County Commission - District 4 - Rep<br>2 of 2 precincts reporting,62.96750459840589,"<b>Andrew S. Johnson</b><br>1,027 votes",2,2
@@ -17,13 +17,13 @@
 15,DEM,,Bryan County: County Commission - District 4 - Dem<br>2 of 2 precincts reporting,100.0,<b>Kaitlyn Hochgraber</b><br>603 votes,2,2
 16,REP,,Bryan County: County Commission - District 5 - Rep<br>2 of 2 precincts reporting,30.963517305893358,<b>Jordan Given</b><br>331 votes,2,2
 17,REP,,Bryan County: County Commission - District 5 - Rep<br>2 of 2 precincts reporting,69.03648269410664,<b>Gene Wallace (I)</b><br>738 votes,2,2
-18,REP,,Bryan County: School Board Chairman - Rep<br>10 of 10 precincts reporting,64.13323518586677,"<b>Amy Murphy (I)</b><br>3,485 votes",10,10
-19,REP,,Bryan County: School Board Chairman - Rep<br>10 of 10 precincts reporting,35.866764814133234,"<b>J. Scott Novinski</b><br>1,949 votes",10,10
+18,REP,,Bryan County: School Board Chairman - Rep<br>10 of 10 precincts reporting,64.14643119941134,"<b>Amy Murphy (I)</b><br>3,487 votes",10,10
+19,REP,,Bryan County: School Board Chairman - Rep<br>10 of 10 precincts reporting,35.85356880058867,"<b>J. Scott Novinski</b><br>1,949 votes",10,10
 20,REP,,Bryan County: BOE - District 1 - Rep<br>2 of 2 precincts reporting,100.0,<b>Mary Gay</b><br>857 votes,2,2
 21,REP,,Bryan County: BOE - District 4 - Rep<br>2 of 2 precincts reporting,100.0,"<b>Matt Hodges</b><br>1,632 votes",2,2
 22,DEM,,Bryan County: BOE - District 4 - Dem<br>2 of 2 precincts reporting,100.0,<b>Luella M. Sanders</b><br>610 votes,2,2
 23,REP,,Bryan County: BOE - District 5 - Rep<br>2 of 2 precincts reporting,54.15472779369628,<b>David M. Schwartz (I)</b><br>567 votes,2,2
 24,REP,,Bryan County: BOE - District 5 - Rep<br>2 of 2 precincts reporting,45.845272206303726,<b>Megan Sullivan</b><br>480 votes,2,2
 25,DEM,,Bryan County: BOE - District 5 - Dem<br>2 of 2 precincts reporting,100.0,<b>Bonnie Bhonsle</b><br>609 votes,2,2
-26,,,Bryan County: RENEWAL OF 1% ESPLOST<br>10 of 10 precincts reporting,65.03308287540652,"<b>Yes</b><br>5,799 votes",10,10
-27,,,Bryan County: RENEWAL OF 1% ESPLOST<br>10 of 10 precincts reporting,34.96691712459347,"<b>No</b><br>3,118 votes",10,10
+26,,,Bryan County: RENEWAL OF 1% ESPLOST<br>10 of 10 precincts reporting,65.04092387038905,"<b>Yes</b><br>5,801 votes",10,10
+27,,,Bryan County: RENEWAL OF 1% ESPLOST<br>10 of 10 precincts reporting,34.95907612961094,"<b>No</b><br>3,118 votes",10,10
