@@ -363,7 +363,7 @@ for county in counties:
 		pass
 	else:
 
-		print(filtered_local_df.iloc[0])
+		# print(filtered_local_df.iloc[0])
 
 		# print(len(filtered_local_df))
 		# for index, row in filtered_local_df.iterrows():
@@ -454,7 +454,7 @@ for county in counties:
 		county_combined = pd.concat([cross_county_ballot_items, simplified_locals_only], ignore_index=True)
 		#  some of the party field are blank, even if the party is indicated in the person's name.
 
-		print(county_combined.head())
+		# print(county_combined.head())
 
 		county_combined['contest_name'] = county_combined.apply(
 			lambda row: (
