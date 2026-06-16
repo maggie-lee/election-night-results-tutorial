@@ -7,8 +7,8 @@ import os
 
 ###### CHANGE THESE FIVE LINES 
 
-my_json_url = 'https://results.sos.ga.gov/cdn/results/Georgia/export-GeneralPrimary51926.json'
-my_url = 'https://results.sos.ga.gov/results/public/Georgia/elections/GeneralPrimary51926' # The source url for your graph footnote
+my_json_url = 'https://results.sos.ga.gov/cdn/results/Georgia/export-06162026GeneralPrimaryRunoff.json'
+my_url = 'https://results.sos.ga.gov/results/public/Georgia/elections/06162026GeneralPrimaryRunoff' # The source url for your graph footnote
 my_source = 'Georgia Secretary of State'
 my_title = 'Georgia Election Night Reporting'
 my_timezone = 'America/New_York'  # Timezone choices: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
