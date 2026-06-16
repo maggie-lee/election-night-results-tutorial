@@ -354,115 +354,120 @@ for county in counties:
 	# This is not great but here goes:
 
 	# 
-	exclude_list = ['US ', 'GOVERNOR', 'SECRETARY', 'AGRICULTURE', 
+	exclude_list = ['US ', 'PRESIDENT', 'GOVERNOR', 'SECRETARY', 'AGRICULTURE', 
 					'ATTORNEY GENERAL', 'INSURANCE', 'SUPERINTENDENT', 'LABOR',
 					'PUBLIC SERVICE', 'SUPREME', 'APPEALS', 'STATEWIDE', 'CONSTITUTIONAL', 'PSC ', 'PARTY QUESTION']
 
 	filtered_local_df = local_df[~local_df['county_ballotItems.name'].str.contains('|'.join(exclude_list), case=False, na=False)].copy()
+	if filtered_local_df.empty:
+		pass
+	else:
 
-	# print(filtered_local_df.iloc[0])
+		print(filtered_local_df.iloc[0])
 
-	# print(len(filtered_local_df))
-	# for index, row in filtered_local_df.iterrows():
-	# 	print(row['name'], row['county_ballotItems.name'])
-	# print(df.iloc[0])
-	#  ok very good. 
+		# print(len(filtered_local_df))
+		# for index, row in filtered_local_df.iterrows():
+		# 	print(row['name'], row['county_ballotItems.name'])
+		# print(df.iloc[0])
+		#  ok very good. 
 
-	# Now, if it's a State Legislator/District Attorney, I  want full results in that race, across county boundaries
-	# not just the parts that are in the county. 
+		# Now, if it's a State Legislator/District Attorney, I  want full results in that race, across county boundaries
+		# not just the parts that are in the county. 
 
-	# Which I have to get from the previous df!
+		# Which I have to get from the previous df!
 
-	# So, if county_ballotItems.id in previous df:
-	# pull in results from previous df 
-
-
-	# has_overlap = sorted_df['results.ballotItems.id'].isin(filtered_local_df['county_ballotItems.id'])
-	# print(has_overlap)
-
-	# Pull the ids of all ballot items from the state list that touch this county
-
-	shared_ids = set(sorted_df['results.ballotItems.id']) & set(filtered_local_df['county_ballotItems.id'])
-	# print(shared_ids)
-
-	# Then make a df of just those cross-county ballot items.
-	# This is state legislators and DAs
-	# print(simplified_df.iloc[0])
-
-	cross_county_ballot_items = simplified_df[simplified_df['results.ballotItems.id'].isin(list(shared_ids))]
-	# print(cross_county_ballot_items.iloc[0])
+		# So, if county_ballotItems.id in previous df:
+		# pull in results from previous df 
 
 
-	# for index, row in cross_county_ballot_items.iterrows():
-	# 	print(row['label'], row['contest_name'])
+		# has_overlap = sorted_df['results.ballotItems.id'].isin(filtered_local_df['county_ballotItems.id'])
+		# print(has_overlap)
 
-	# ok and remove those guys from filtered_local_df; let them stay in cross_county_ballot_items for a second
-	locals_only_df = filtered_local_df[~filtered_local_df['county_ballotItems.id'].isin(list(shared_ids))].copy()
+		# Pull the ids of all ballot items from the state list that touch this county
 
+		shared_ids = set(sorted_df['results.ballotItems.id']) & set(filtered_local_df['county_ballotItems.id'])
+		# print(shared_ids)
 
-	# print(locals_only_df.iloc[0])
-	# print(len(locals_only_df))
-	# for index, row in locals_only_df.iterrows():
-	# 	print(row['name'], row['county_ballotItems.name'], row['voteCount'])
+		# Then make a df of just those cross-county ballot items.
+		# This is state legislators and DAs
+		# print(simplified_df.iloc[0])
 
-	# Now the groupby stuff 
-	locals_only_df['sum_of_ballot_item'] =locals_only_df.groupby("county_ballotItems.id")["voteCount"].transform("sum")
-	
-	# for index, row in locals_only_df.iterrows():
-	# 	print(row['name'], row['county_ballotItems.name'], row['voteCount'], row['sum_of_ballot_item'])
-
-	locals_only_df['percent_of_ballot_item'] = (locals_only_df['voteCount'] / locals_only_df['sum_of_ballot_item']) * 100
-	# # for index, row in locals_only_df.iterrows():
-	# 	print(row['name'], row['county_ballotItems.name'], row['voteCount'], row['sum_of_ballot_item'], row['percent_of_ballot_item'])
-
-	# precincts participatin & precincts reporting are already in this data; we don't have to fetch it from elsewhere.
-	# but we do have to get it in datawrapper format:
-	locals_only_df['label'] = '<b>' + locals_only_df['name'] + '</b><br>' + locals_only_df['voteCount'].map("{:,}".format).astype(str) + ' votes'
-	# print(locals_only_df.iloc[0])
-
-	sorted_locals_only = locals_only_df.sort_values(by=['id', 'ballotOrder'])
-	# for index, row in sorted_locals_only.iterrows():
-	# 	print(row['county_ballotItems.name'], row['label'])
-
-	sorted_locals_only['contest_name'] = sorted_locals_only['county_name'] + ': ' + sorted_locals_only['county_ballotItems.name']
-
-	# now drop the columns datawrapper doesn't need
-	simplified_locals_only = sorted_locals_only.drop( columns = [
-		'id',
-		'name',
-		'ballotOrder',
-		'voteCount',
-		'county_ballotItems.id',
-		'sum_of_ballot_item',
-		'groupResults',
-		'precinctResults',
-		'county_name',
-		'county_ballotItems.name'
-		])
-
-	simplified_locals_only = simplified_locals_only.rename(columns={'county_ballotItems.precinctsParticipating':'precinctsParticipating'})
-	simplified_locals_only = simplified_locals_only.rename(columns={'county_ballotItems.precinctsReporting':'precinctsReporting'})
-	cross_county_ballot_items.drop(columns =['results.ballotItems.id'])
+		cross_county_ballot_items = simplified_df[simplified_df['results.ballotItems.id'].isin(list(shared_ids))]
+		# print(cross_county_ballot_items.iloc[0])
 
 
-	# print(cross_county_ballot_items.iloc[0])
-	# sorted_cross_county_ballot_items = cross_county_ballot_items.sort(values(by=[]'results.ballotItems.id'))
-	# cleanup
-	county_combined = pd.concat([cross_county_ballot_items, simplified_locals_only], ignore_index=True)
-	#  some of the party field are blank, even if the party is indicated in the person's name.
+		# for index, row in cross_county_ballot_items.iterrows():
+		# 	print(row['label'], row['contest_name'])
 
-	county_combined['contest_name'] = county_combined.apply(
-		lambda row: (
-			row['contest_name']
-			if '<br>' in row['contest_name']
-			else row['contest_name'] + '<br>' + str(row['precinctsReporting']) + ' of ' + str(row['precinctsParticipating']) + ' precincts reporting'),
-		axis=1
-		)
+		# ok and remove those guys from filtered_local_df; let them stay in cross_county_ballot_items for a second
+		locals_only_df = filtered_local_df[~filtered_local_df['county_ballotItems.id'].isin(list(shared_ids))].copy()
 
 
-	county_filename = election_date_str + '/' + election_date_str + ' ' + election_name + ' ' + county['name'] +'.csv'
-	counties_to_keep = ['chatham', 'glynn', 'mcintosh', 'liberty', 'bryan', 'camden']
-	if any(sub in county_filename.lower() for sub in counties_to_keep):
-		county_combined.to_csv(county_filename)
+		# print(locals_only_df.iloc[0])
+		# print(len(locals_only_df))
+		# for index, row in locals_only_df.iterrows():
+		# 	print(row['name'], row['county_ballotItems.name'], row['voteCount'])
+
+		# Now the groupby stuff 
+		locals_only_df['sum_of_ballot_item'] =locals_only_df.groupby("county_ballotItems.id")["voteCount"].transform("sum")
+		
+		# for index, row in locals_only_df.iterrows():
+		# 	print(row['name'], row['county_ballotItems.name'], row['voteCount'], row['sum_of_ballot_item'])
+
+		locals_only_df['percent_of_ballot_item'] = (locals_only_df['voteCount'] / locals_only_df['sum_of_ballot_item']) * 100
+		# # for index, row in locals_only_df.iterrows():
+		# 	print(row['name'], row['county_ballotItems.name'], row['voteCount'], row['sum_of_ballot_item'], row['percent_of_ballot_item'])
+
+		# precincts participatin & precincts reporting are already in this data; we don't have to fetch it from elsewhere.
+		# but we do have to get it in datawrapper format:
+		locals_only_df['label'] = '<b>' + locals_only_df['name'] + '</b><br>' + locals_only_df['voteCount'].map("{:,}".format).astype(str) + ' votes'
+		# print(locals_only_df.iloc[0])
+
+		sorted_locals_only = locals_only_df.sort_values(by=['id', 'ballotOrder'])
+		# for index, row in sorted_locals_only.iterrows():
+		# 	print(row['county_ballotItems.name'], row['label'])
+
+		sorted_locals_only['contest_name'] = sorted_locals_only['county_name'] + ': ' + sorted_locals_only['county_ballotItems.name']
+
+		# now drop the columns datawrapper doesn't need
+		simplified_locals_only = sorted_locals_only.drop( columns = [
+			'id',
+			'name',
+			'ballotOrder',
+			'voteCount',
+			'county_ballotItems.id',
+			'sum_of_ballot_item',
+			'groupResults',
+			'precinctResults',
+			'county_name',
+			'county_ballotItems.name'
+			])
+
+		simplified_locals_only = simplified_locals_only.rename(columns={'county_ballotItems.precinctsParticipating':'precinctsParticipating'})
+		simplified_locals_only = simplified_locals_only.rename(columns={'county_ballotItems.precinctsReporting':'precinctsReporting'})
+		cross_county_ballot_items.drop(columns =['results.ballotItems.id'])
+
+
+		# print(cross_county_ballot_items.iloc[0])
+		# sorted_cross_county_ballot_items = cross_county_ballot_items.sort(values(by=[]'results.ballotItems.id'))
+		# cleanup
+		county_combined = pd.concat([cross_county_ballot_items, simplified_locals_only], ignore_index=True)
+		#  some of the party field are blank, even if the party is indicated in the person's name.
+
+		print(county_combined.head())
+
+		county_combined['contest_name'] = county_combined.apply(
+			lambda row: (
+				row['contest_name']
+				if '<br>' in row['contest_name']
+				else row['contest_name'] + '<br>' + str(row['precinctsReporting']) + ' of ' + str(row['precinctsParticipating']) + ' precincts reporting'),
+			axis=1
+			)
+
+
+		county_filename = election_date_str + '/' + election_date_str + ' ' + election_name + ' ' + county['name'] +'.csv'
+		counties_to_keep = ['chatham', 'glynn', 'mcintosh', 'liberty', 'bryan', 'camden']
+		if any(sub in county_filename.lower() for sub in counties_to_keep):
+			county_combined.to_csv(county_filename)
 
 
